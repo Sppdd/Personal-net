@@ -1,0 +1,981 @@
+Notes:
+"When exporting your connection data, you may notice that some of the email addresses are missing. You will only see email addresses for connections who have allowed their connections to see or download their email address using this setting https://www.linkedin.com/psettings/privacy/email. You can learn more here https://www.linkedin.com/help/linkedin/answer/261"
+
+First Name,Last Name,URL,Email Address,Company,Position,Connected On
+Mohamed,Esdairi,https://www.linkedin.com/in/esdairi,,Leyton,Data Scientist,26 Dec 2024
+Kamil,Pluciński,https://www.linkedin.com/in/kplucinski,,deepsense.ai,Senior Machine Learning Engineer,22 Dec 2024
+Nada Khalid,Twfek,https://www.linkedin.com/in/nadatwfek,,Financial Performance International,Social Media Marketing Specialist,20 Dec 2024
+Jared,Hill,https://www.linkedin.com/in/jamchiller,,Canva,Product Designer,20 Dec 2024
+Jan,Schnyder,https://www.linkedin.com/in/jan-schnyder,,nunu.ai (YC W23),Co-Founder,11 Dec 2024
+Chris,Aeberli,https://www.linkedin.com/in/chris-aeberli,,Sonia (YC W24),Co-Founder,06 Dec 2024
+Anil,Ozturk,https://www.linkedin.com/in/nlztrk,,Trendyol Group,Senior Data Scientist,03 Dec 2024
+Ziad,Al-Azzawi,https://www.linkedin.com/in/ziad-al-azzawi-a94264a,ziad.azzawi@gmail.com,WOLFFKRAN,Head of Accounting,02 Dec 2024
+Lucas,Hänke de Cansino,https://www.linkedin.com/in/lucas-h%C3%A4nke-de-cansino-8b8521234,,Uncensored AI,AI Systems Engineer,27 Nov 2024
+Jonas,Walheim,https://www.linkedin.com/in/jonas-walheim-441b0284,,NewCo,Founder,26 Nov 2024
+Jan,Kronies,https://www.linkedin.com/in/jan-kronies,,Google,"Measurement & Insights Senior Analyst (EMEA), Communications",25 Nov 2024
+Bahgat,Ahmed,https://www.linkedin.com/in/bahgat-ahmed,,Mozn,Data Scientist III,24 Nov 2024
+Baydaa,Abdulhasan,https://www.linkedin.com/in/analyst-baydaa-jasim,,London Metropolitan University,Masters Student,22 Nov 2024
+Toufiq T.,Ali - MBA l PMP® l Gen AI l SAFe POPM® l PSPO®,https://www.linkedin.com/in/toufiq-ali786,,Infosys,Senior IT Project Manager,20 Nov 2024
+Bruce,Etter,https://www.linkedin.com/in/bruce-etter-87a89766,,UPCEA (University Professional and Continuing Education Association),Senior Director of Research & Consulting,19 Nov 2024
+Marília Gabriela,Rocha,https://www.linkedin.com/in/marilia-gabriela-rocha-a3915417a,,Embrapa,Bolsista,19 Nov 2024
+Orion,Penner,https://www.linkedin.com/in/orion-penner,,Hugging Face,Applied Machine Learning Engineer - Customer Success,18 Nov 2024
+Myles,O'Neill,https://www.linkedin.com/in/mylesoneill,,Google,Senior Design Manager,15 Nov 2024
+Mohamed,Fadl,https://www.linkedin.com/in/mohamed-fadl,,FlairsTech,Machine Learning Engineer,14 Nov 2024
+Mustafa,Salam,https://www.linkedin.com/in/mustafa-salam-612550127,,Corrsy,Co-Founder & CEO,14 Nov 2024
+Isabella,Florêncio,https://www.linkedin.com/in/isabellaflorencio,,Neon,Cientista de Dados Pleno,14 Nov 2024
+Allan,Chong,https://www.linkedin.com/in/achong2001,,Zen Ginseng,Retail Data Analyst,14 Nov 2024
+Srinivas,Neppalli,https://www.linkedin.com/in/srini-x,,H2O.ai,Sr. AI Engineer,11 Nov 2024
+Sarah,Meyohas,https://www.linkedin.com/in/sarah-meyohas-a9081836,,Ambev Tech,Gerente de dados,11 Nov 2024
+Laura,Fink,https://www.linkedin.com/in/laura-f-ab2010170,,H2O.ai,Senior Data Scientist,11 Nov 2024
+Lu,Wilson,https://www.linkedin.com/in/todepond,,tldraw,Software Engineer,11 Nov 2024
+Vitor Hugo,Sattamini,https://www.linkedin.com/in/vhsattamini,,Radix,Citizen Developer Program Manager,11 Nov 2024
+Adam,Hede,https://www.linkedin.com/in/adamhede,,Implement Consulting Group,Senior Management Consultant,11 Nov 2024
+Kim,Montgomery,https://www.linkedin.com/in/kim-montgomery-70b8189,,H2O.ai,Principal Data Scientist,11 Nov 2024
+Quentin,Gallouédec,https://www.linkedin.com/in/qgallouedec,,Hugging Face,Research Engineer,11 Nov 2024
+Paige,Bailey,https://www.linkedin.com/in/dynamicwebpaige,,Google,AI Developer Relations Lead,10 Nov 2024
+Jonas Høgh,Kyhse-Andersen,https://www.linkedin.com/in/jonas-h%C3%B8gh-kyhse-andersen-04b66618,,JP/Politikens Hus,Technical Lead,09 Nov 2024
+Augustine,Tochukwu,https://www.linkedin.com/in/augustine-tochukwu,,Tech Dynasty Services,Team Lead (Data) / Instructional Designer (Power BI Trainer),09 Nov 2024
+Kasper,Groes Albin Ludvigsen,https://www.linkedin.com/in/kaspergroesludvigsen,,Politi,Data Scientist,09 Nov 2024
+Folabomi,Ogunbanjo,https://www.linkedin.com/in/folabomi-861493178,,OmniRetail Technology Limited,Data Analyst,09 Nov 2024
+Rafael,Levy,https://www.linkedin.com/in/rafael-levy-f,,Stefanini North America and APAC,Head of Data Science Innovation,09 Nov 2024
+Saif,AL-HAFEDH,https://www.linkedin.com/in/saif-al-hafedh-203ba21a4,,Knowledge Growth Bureau (KGB),Senior Manager,09 Nov 2024
+Jonathan,Tremblay,https://www.linkedin.com/in/jtremb,,NVIDIA,Senior Research Scientist,08 Nov 2024
+Kai,Tang,https://www.linkedin.com/in/kai-tang-968305255,,Vocational Training Council,Project Officer,07 Nov 2024
+Dylan,Almeida,https://www.linkedin.com/in/dylan-almeida-604522167,,OpenAI,Applied AI,06 Nov 2024
+Saba,Sturua,https://www.linkedin.com/in/ssturua,,Jina AI,Machine Learning Engineer,02 Nov 2024
+Gavin,Lewis,https://www.linkedin.com/in/yj-gavin-lewis,,YunoJuno,Head of Talent,01 Nov 2024
+Kamel,Alsaadi,https://www.linkedin.com/in/kamelalsaadi,,Norwegian Refugee Council,Business Analyst Adviser ,01 Nov 2024
+Alex (Chanjin),Park,https://www.linkedin.com/in/chanjin-p980801,,Samsung Electronics,Data Scientist,01 Nov 2024
+ZiadOon,Alyaqoobi ,https://www.linkedin.com/in/ziadoon-alyaqoobi-51a9b01b5,,China Pharmaceutical University,PHD Student,30 Oct 2024
+Ihsan,Abubaker,https://www.linkedin.com/in/ihsanabubaker,,Waze,Editor,29 Oct 2024
+Yu Yang,Chang,https://www.linkedin.com/in/yu-yang-chang-427141308,,St. John's Institution,"President, Japanese Language and Cultural Club",29 Oct 2024
+Nayef,Sabri,https://www.linkedin.com/in/nayef-sabri-79484712a,,SunriseNGO,Co- founder and President,23 Oct 2024
+Matti,Navellou,https://www.linkedin.com/in/matti-navellou-37402319,,ICONIQ Capital,"Senior Vice President, Head of ICONIQ Impact",21 Oct 2024
+Julian,Eisenschlos,https://www.linkedin.com/in/eisenjulian,,Google DeepMind,Staff Researcher,21 Oct 2024
+Takashi,Magara,https://www.linkedin.com/in/takashi-magara-530160117,,SAS,Senior Consultant,18 Oct 2024
+Rosie,Seidenberg,https://www.linkedin.com/in/rosie-seidenberg-73323228b,,Penn State Humanitarian Engineering and Social Entrepreneurship (HESE),Learning Assistant,17 Oct 2024
+Jugoslav,Stojcheski,https://www.linkedin.com/in/jstojcheski,,Maddox AI,Machine Learning Engineer,14 Oct 2024
+Giosuè,Castellano,https://www.linkedin.com/in/giosu%C3%A8-castellano-98b88b1b3,,Roland Berger,Intern,13 Oct 2024
+Marwa,Darwish,https://www.linkedin.com/in/marwa-darwish-2331bb1b3,,HNW | Gov Design Academy,Data Analyst,12 Oct 2024
+Annalisa,Barbara,https://www.linkedin.com/in/annalisa-barbara,,Imperial College London,Research Intern,12 Oct 2024
+Ibtissem,Hattab,https://www.linkedin.com/in/ibtissemhattab-tn,,InstaDeep Ltd,DevOps Engineer,11 Oct 2024
+Min-Hung (Steve),Chen,https://www.linkedin.com/in/chensteven,,NVIDIA,Senior Research Scientist,11 Oct 2024
+Giorgia,Lentoni,https://www.linkedin.com/in/giorgia-lentoni-426082279,,,,10 Oct 2024
+Viktor,Domazetoski,https://www.linkedin.com/in/viktor-domazetoski,,44moles,Data Scientist,10 Oct 2024
+Athar,Sayed,https://www.linkedin.com/in/athar-sayed-93881589,,DSW | Data Science Wizards,Data Scientist,10 Oct 2024
+Aleksandar,Anastasov,https://www.linkedin.com/in/aleksandar-anastasov-profile,,Sopro,Senior MI and Data Analyst,10 Oct 2024
+Adam,Amer,https://www.linkedin.com/in/adam-amer-italy,,KPMG,AI & Cloud Architect,10 Oct 2024
+Yousif,Isam,https://www.linkedin.com/in/yousif-isam,,BALY,Junior Research Automation Analyst,09 Oct 2024
+Leen,Al-Rawi,https://www.linkedin.com/in/leen-alrawi,,EarthLink Telecommunications,Quality Assurance Engineer,09 Oct 2024
+Emad,Al- Jubouri,https://www.linkedin.com/in/emad-al-jubouri-84a043153,,"UNHCR, the UN Refugee Agency",Senior Field Security Associate ,09 Oct 2024
+Andrey,Gizdov,https://www.linkedin.com/in/andreygizdov,,Weizmann Institute of Science,Computer Vision Researcher,09 Oct 2024
+Alessandra,Bontempi,https://www.linkedin.com/in/alessandra-bontempi,,B.Cyber,Associato,08 Oct 2024
+Abedallah,Azzam,https://www.linkedin.com/in/abedallah-a-31678062,,IZONE Solutions,Operations Manager,08 Oct 2024
+aya,sadiq,https://www.linkedin.com/in/aya-sadiq-29b47b169,,BALY,Supply Analyst,06 Oct 2024
+Taha,Ayad,https://www.linkedin.com/in/taha-ayad-777167251,,مستشفى ابو غريب,Orthopaedic Surgery Resident,05 Oct 2024
+Zahraa,Jabar,https://www.linkedin.com/in/zahraajabar,,BALY,Supply Business Intelligence Analyst,05 Oct 2024
+Ali,Qzwini,https://www.linkedin.com/in/qzwini,,Tomoh App,Growth Manager,05 Oct 2024
+Mustafa,Alahmid,https://www.linkedin.com/in/mustafa-alahmid-a01693158,,INEO,Machine Learning Engineer,05 Oct 2024
+Marko,Karbevski,https://www.linkedin.com/in/marko-karbevski-0597115a,,HTEC,Senior Data Scientist,04 Oct 2024
+Reyam,Ayad,https://www.linkedin.com/in/reyam-ayad-58b414241,,Horizon Scope Telecom,Procurement Specialist,03 Oct 2024
+Hawraa,Jawad,https://www.linkedin.com/in/hawraa-jawad-7b9657294,,Zain Iraq,BI Junior Data Scientist,03 Oct 2024
+Elizaveta,Pushkareva,https://www.linkedin.com/in/digitaljay,,Точка,Middle+ Data Scientist,02 Oct 2024
+Alan,Picucci,https://www.linkedin.com/in/alan-picucci,,AIWAY,Deep Learning Engineer,30 Sep 2024
+Bariq,AL-SHAKKAKI,https://www.linkedin.com/in/bariq-al-shakkaki-6a315242,,Shipsider,Co-Founder & CTO,30 Sep 2024
+Andrew,Ingalls,https://www.linkedin.com/in/andrew-ingalls-kansas-city,,Revecore,Machine Learning Engineer,28 Sep 2024
+Shahad,Noaman,https://www.linkedin.com/in/shahad-noaman-7850a0136,,Arab Payment Services,Senior Software Developer,28 Sep 2024
+Aishik,Rakshit,https://www.linkedin.com/in/a-rakshit,,Microsoft,Software Engineer,27 Sep 2024
+Shota,Okubo,https://www.linkedin.com/in/shota-okubo-75407315a,,Somewhere,Data Scientist,27 Sep 2024
+Kyo,Hattori,https://www.linkedin.com/in/kyo-hattori-6078b7195,,"ABEJA, Inc.",Principal Data Scientist,26 Sep 2024
+Aya,Eljibali,https://www.linkedin.com/in/aya-eljibali-97b036210,,Roche,Associate Data Scientist,26 Sep 2024
+Wisam,Saeed,https://www.linkedin.com/in/wisam-saeed-665129a3,,Economy Bank For Investment & Finance,Data Analyst,26 Sep 2024
+Evgeny,Patekha,https://www.linkedin.com/in/epatekha,,JetBrains,ML expert,26 Sep 2024
+Daria,Gulyaeva,https://www.linkedin.com/in/dasha-gulyaeva,,Органик Гольф Сколково,Менеджер по устойчивому развитию,26 Sep 2024
+Achraf,Aourik,https://www.linkedin.com/in/achrafaourik,achrafaourik@gmail.com,Ministry of Interior UAE,Data Scientist,26 Sep 2024
+Naho,Oka,https://www.linkedin.com/in/naho-oka-9ba89322b,,株式会社アイティーシー,データアナリスト、システムエンジニア,26 Sep 2024
+soma,makino,https://www.linkedin.com/in/soma-makino-0032271a4,,博報堂,Data Scientist,26 Sep 2024
+Farah ,OUTCHICH,https://www.linkedin.com/in/farah-outchich-a0a350229,,inwi,Data analyst ,26 Sep 2024
+,,,,,,25 Sep 2024
+Artem,Kudisov,https://www.linkedin.com/in/kudisov-artem,,HeadHunter Group,ML Engineer (NLP),25 Sep 2024
+Hiroki,Yamamoto,https://www.linkedin.com/in/hiroki-yamamoto-2581b589,,Acroquest Technology 株式会社,Senior Data Scientist,25 Sep 2024
+Dinara,Ibyatova,https://www.linkedin.com/in/dinaraibyatova,,PASHA Bank OJSC,Frontend Developer,25 Sep 2024
+Merieme,Yakine,https://www.linkedin.com/in/merieme-yakine,,AEVAweb,Data scientist | Expertise in AI and Technology Solutions,25 Sep 2024
+Saif,AlJaibeji,https://www.linkedin.com/in/aljaibeji,,Starup Insurance,Chief Executive Officer,25 Sep 2024
+Rafael,Aslanian,https://www.linkedin.com/in/rafaelaslanian,,Self-employed,Researcher,25 Sep 2024
+Khaoula,Radi,https://www.linkedin.com/in/khaoula-radi-9a4037190,,Phi Partners,Technical Business Analyst Developer ,25 Sep 2024
+Kushal,Agrawal,https://www.linkedin.com/in/agrawal-kushal,,Mahindra Group,Data Science Intern,25 Sep 2024
+Kayo Nakamura,中村 佳代 (ナカムラ カヨ),https://www.linkedin.com/in/kayo-nakamura-%E4%B8%AD%E6%9D%91-%E4%BD%B3%E4%BB%A3-%E3%83%8A%E3%82%AB%E3%83%A0%E3%83%A9-%E3%82%AB%E3%83%A8-62968125a,,Frank Recruitment Group,Delivery Consultant ,24 Sep 2024
+Oumaima,Ikhezazene,https://www.linkedin.com/in/oumaimaikhezazene,,Freelance,Web Designer,24 Sep 2024
+Eduard,Martynov,https://www.linkedin.com/in/eduard-martynov-a39124201,,HFT,Data Scientist,24 Sep 2024
+Benedikt,Droste,https://www.linkedin.com/in/benedikt-droste-893b1b189,,MSR Consulting Group GmbH,Head Of Business Analytics,24 Sep 2024
+Haidar,Nahi,https://www.linkedin.com/in/haidar-nahi-a86b831a1,,Miswag,Customer Service Associate,24 Sep 2024
+Lina,Wäsch,https://www.linkedin.com/in/lina-w%C3%A4sch-6aa37b267,,KPMG Switzerland,Working Student Software Development,24 Sep 2024
+Oliver,Holl,https://www.linkedin.com/in/oliverhollsun,,Oliver Holl,Machine Learning Engineer,24 Sep 2024
+Gina,Hercigonja,https://www.linkedin.com/in/gina-hercigonja-93836225b,,ETH Zurich,Virus Production / Virus Cloning,21 Sep 2024
+Rand,alrawi,https://www.linkedin.com/in/rand-alrawi-b960842b6,,University of Information Technology and Communications (UoITC),university of information technology and communications,20 Sep 2024
+Michal,Karlubík,https://www.linkedin.com/in/karlubik,,Sensible Biotechnologies,Head of Partnerships & External Affairs,18 Sep 2024
+Dhafer,Hasan,https://www.linkedin.com/in/dhafer-hasan,,Business by Design,Chief Executive,17 Sep 2024
+Elina,Teplygina,https://www.linkedin.com/in/elina-teplygina-64428b1ba,,Safespace Research,Co-Founder,17 Sep 2024
+Dem,Aliaj,https://www.linkedin.com/in/dem-aliaj-health-economist-market-access,,Scope Fluidics,Health Economist-Modelling ,17 Sep 2024
+Patrícia,Martins 马艾嘉,https://www.linkedin.com/in/patriciaalvesmartins,,Amazon,Procurement intern,17 Sep 2024
+Gavriel,Hannuna,https://www.linkedin.com/in/gavriel-hannuna,,Founderful Campus,Student Partner,17 Sep 2024
+Belemir,Demir,https://www.linkedin.com/in/belemirdemir,,LC Waikiki,IT Business Analyst,17 Sep 2024
+Leonardo,Comi,https://www.linkedin.com/in/leonardo-comi-691618248,,Swiss Re,Graduate in P&C Portfolio Strategy,17 Sep 2024
+Hakan,Korul,https://www.linkedin.com/in/hakan-korul-865366197,,Yapı Kredi,Senior Data Scientist - Customer & Service Analytics,16 Sep 2024
+Marian,Kupculak,https://www.linkedin.com/in/marian-kupculak-34468a85,,Sensible Biotechnologies,Chief Scientific Officer,16 Sep 2024
+Evangelos,Georgiadis,https://www.linkedin.com/in/evangelos-georgiadis,,Amazon Web Services (AWS),Software Development Engineer,16 Sep 2024
+Pedro,Lovatt Garcia,https://www.linkedin.com/in/pedro-lovatt-garcia,,SOLVE Chemistry,Board Observer,16 Sep 2024
+Michalis,Pistos,https://www.linkedin.com/in/michalis-pistos,,University of Oxford,Research Assistant - Biomedical Imaging and Artificial Intelligence,15 Sep 2024
+Andrea,Ciprietti,https://www.linkedin.com/in/andrea-ciprietti-ba490a175,,Google,Software Engineer,15 Sep 2024
+Francesco,Caso,https://www.linkedin.com/in/francesco-caso-4a6237192,,Amazon,Applied Scientist,14 Sep 2024
+Bertie,Vidgen,https://www.linkedin.com/in/bertie-vidgen-001,,Contextual AI,Data,14 Sep 2024
+naruya,ota,https://www.linkedin.com/in/naruya-ota-57233114b,,DeNA,Data Analyst,13 Sep 2024
+Mattia,Scardecchia,https://www.linkedin.com/in/mattia-scardecchia,,SonyAI,Machine Learning Researcher,13 Sep 2024
+Batool,Alberiman,https://www.linkedin.com/in/batoolalberiman,,Antonoil,Human Resources Assistant,13 Sep 2024
+Eduard,Oravkin,https://www.linkedin.com/in/eduard-oravkin-7637b420b,,MediSearch,Co-Founder,13 Sep 2024
+Dr. habil. Markus,Kaim,https://www.linkedin.com/in/dr-habil-markus-kaim-7a81b41b0,,Bundesministerium der Finanzen,"Leiter des Referates ""Geoökonomie und Sicherheitspolitik"", Bundesministerium der Finanzen",12 Sep 2024
+Federica,Sottocasa,https://www.linkedin.com/in/federica-sottocasa,,Amazon,Senior Data Scientist,12 Sep 2024
+Nischay,Dhankhar,https://www.linkedin.com/in/nischaydnk,,Kaggle,Kaggle Discussion GrandMaster,12 Sep 2024
+Lan,Pham,https://www.linkedin.com/in/lanbtpham,,Università degli Studi di Padova,Postdoctoral Researcher,12 Sep 2024
+Julien,Virlogeux,https://www.linkedin.com/in/j-virlogeux,,Amazon,Data Scientist II,12 Sep 2024
+Sami Serkan,Özarık ,https://www.linkedin.com/in/ssozarik,,Amazon,Senior Operations Research Scientist,12 Sep 2024
+Shivan,Fazil,https://www.linkedin.com/in/shivanfazil,,Institute of Regional and International Studies,Senior Researcher,12 Sep 2024
+Fabio,Pernisi,https://www.linkedin.com/in/fabio-pernisi-264343234,,BMW Group,Research Engineer intern,12 Sep 2024
+Oliver,De La Cruz,https://www.linkedin.com/in/oliver-de-la-cruz,,Amazon,Data Scientist,12 Sep 2024
+Tommaso,Lunardon,https://www.linkedin.com/in/tommaso-lunardon-7ab75512b,,Amazon,Machine Learning Engineer 2,12 Sep 2024
+Gabriele,Corso,https://www.linkedin.com/in/gcorso,,Massachusetts Institute of Technology,PhD Student,11 Sep 2024
+Michele,Russo,https://www.linkedin.com/in/michele-,,Amazon,Applied Scientist II,11 Sep 2024
+Yuichi,Hayashi,https://www.linkedin.com/in/yuichi-hayashi-088695a2,,NRI (Nomura Research Institute),Senior Data Scientist,11 Sep 2024
+Marco,Pirazzini,https://www.linkedin.com/in/marco-pirazzini-40619a134,,Yale University,PHD Student,11 Sep 2024
+Dr. Sebastian,Sons,https://www.linkedin.com/in/dr-sebastian-sons-b1a23395,,Verlag J.H.W. Dietz Nachf. GmbH,Autor,11 Sep 2024
+Kunqi,Liu,https://www.linkedin.com/in/liukunqi,,Accenture,Manager,11 Sep 2024
+Kyosuke,Sugata,https://www.linkedin.com/in/kyosuke-sugata-2a304475,,Shiseido,Data Analyst,11 Sep 2024
+Rikuto,Toda,https://www.linkedin.com/in/rikuto-t-2313b11a4,,DeNA,データアナリスト,11 Sep 2024
+Zahraa,R. Alroubaiyy,https://www.linkedin.com/in/zahraa-alroubaiyy,,VitaNova International Alliance for Sciences,General Member,10 Sep 2024
+Zahraa,Al_shammry,https://www.linkedin.com/in/zahraa-al-shammry-a7790b20a,,EarthLink Telecommunications,Senior Design and Data Analysis Engineer,10 Sep 2024
+Mohammed ,Qasim Shukri,https://www.linkedin.com/in/mohammed-qasim-shukri-610763273,,BALY,Growth Data Analyst ,10 Sep 2024
+Mustafa,Eyad Jasim,https://www.linkedin.com/in/mustafa-eyad-jasim,,,,10 Sep 2024
+Shiraz,Mustafa,https://www.linkedin.com/in/shiraz-mustafa,,Property Shop Investment LLC (PSI),Property Sales Consultant,10 Sep 2024
+Ikki,Tanaka,https://www.linkedin.com/in/ikki-tanaka,,DeNA,Head of AI/ML,10 Sep 2024
+Dan,Collins,https://www.linkedin.com/in/dan-collins-585746126,,Gobi Group K.K.,Senior Recruitment Consultant,09 Sep 2024
+Ludovico,Bessi,https://www.linkedin.com/in/ludovico-bessi,,Google,Software engineer - Machine learning (L4),09 Sep 2024
+Tatsuro,Nishimura,https://www.linkedin.com/in/tatsuro-nishimura-712413120,,NTT Communications,Data Scientist,09 Sep 2024
+Ahmed Fathi,Ahmed,https://www.linkedin.com/in/ahmedfathiahmed,,Project: Leap,Founder and Director ,08 Sep 2024
+Aya,Mansour ,https://www.linkedin.com/in/aya-mansour-74196a2aa,,The Independent,Editor,07 Sep 2024
+Mohammed,Nazar,https://www.linkedin.com/in/mohammed-nazar-996aba1a5,,GIZ Iraq,Human Relation Specialist,07 Sep 2024
+Fatin,Putrus,https://www.linkedin.com/in/fatin-putrus-8147a01a9,,Re:Coded,Program Officer | Tech Education and Empowerment,07 Sep 2024
+Anu,Saarela,https://www.linkedin.com/in/anu-saarela-066b9929,,Ministry for Foreign Affairs of Finland,Ambassador of Finland to Baghdad,26 Aug 2024
+Joel,Persson,https://www.linkedin.com/in/joelpersson,,Spotify,Research Scientist,23 Aug 2024
+Darek,Kłeczek,https://www.linkedin.com/in/kleczek,,Snowflake,Senior Research Scientist,18 Aug 2024
+Josef,Valvoda,https://www.linkedin.com/in/valvoda,,University of Copenhagen (Københavns Universitet),Postdoctoral Researcher,18 Aug 2024
+Isabelle,Mohr,https://www.linkedin.com/in/isabelle-mohr-a8ba5516b,,Jina AI,Senior AI Engineer,18 Aug 2024
+Lukas,Innig,https://www.linkedin.com/in/lukas-innig,,DataRobot,"Director, Strategic Data Science Solutions",17 Aug 2024
+Elle Michelle,Yang,https://www.linkedin.com/in/elleyang,,University of Oxford,PhD Student ,17 Aug 2024
+Adrian,Krebs,https://www.linkedin.com/in/adrian-krebs-21b066128,,Kadoa,Co-Founder & CEO,17 Aug 2024
+Zhirui,Zhou,https://www.linkedin.com/in/zhirui-zhou-b751a3126,,Trexquant Investment LP,Data Scientist,15 Aug 2024
+Guillaume,Raille,https://www.linkedin.com/in/guillaumeraille,,Unit8,Engagement Director & Data Scientist,14 Aug 2024
+Ahmed,Maki,https://www.linkedin.com/in/ahmed-maki-600821114,,Chemonics International,Business Counselor,14 Aug 2024
+Nikita,Andrianov,https://www.linkedin.com/in/nik4nd,,,,13 Aug 2024
+Haaris,Hayat,https://www.linkedin.com/in/haaris-hayat-22b38a1a1,,PwC,Data Scientist,12 Aug 2024
+Baneen,Q. Suhail ,https://www.linkedin.com/in/baneen-q-suhail-68951a259,,Sagerlabs,Marketing Intern,11 Aug 2024
+Camilla,Mazzoleni,https://www.linkedin.com/in/camilla-mazzoleni,,Founderful Campus,Venture Capital Student Partner,09 Aug 2024
+Katerina,"Rigana, PhD",https://www.linkedin.com/in/riganak,,OST – Eastern Switzerland University of Applied Sciences,Quantitative Researcher,08 Aug 2024
+Jonas,Dücker,https://www.linkedin.com/in/jonas-d%C3%BCcker-37460bb3,,ROOK ,COO I CMO,07 Aug 2024
+Anya,Mohand,https://www.linkedin.com/in/anyamohand97,,ReachSci,Project Manager,05 Aug 2024
+Danny,Groves,https://www.linkedin.com/in/dannygrovesn7,,Hexegic,Head of Data Science,05 Aug 2024
+Alfonso,Urra,https://www.linkedin.com/in/alfonso-urra-36131090,,SDG Group,Analista de datos,26 Jul 2024
+Hayat,AlJaibeji,https://www.linkedin.com/in/hayat-aljaibeji-086ab324,,IOCB Boston,Associate Scientist,26 Jul 2024
+Vin,Jivan,https://www.linkedin.com/in/vin-jivan-aldoski,,The American University of Kurdistan,College of Engineering Manager,26 Jul 2024
+Abiodun,"Bodunrin, PhD",https://www.linkedin.com/in/abiodun-bodunrin-phd-a015ab44,,Bio-Rad Laboratories,Senior Scientist,26 Jul 2024
+Artem,Letyagin,https://www.linkedin.com/in/artem-letyagin-7bb946233,,Abrace AI,Head of Machine Learning,25 Jul 2024
+Nathanya Queby,Satriani,https://www.linkedin.com/in/queby,,Infineon Technologies,AI/ML Developer for Electronic Design Automation,25 Jul 2024
+Михайло,Недодай,https://www.linkedin.com/in/%D0%BC%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE-%D0%BD%D0%B5%D0%B4%D0%BE%D0%B4%D0%B0%D0%B9-936313159,,SoftServe,Associate Data Scientist,25 Jul 2024
+Leland,McInnes,https://www.linkedin.com/in/leland-mcinnes-406233103,,Tutte Institute for Mathematics and Computing,Research Mathematician and Data Scientist,25 Jul 2024
+Jean,Kaddour,https://www.linkedin.com/in/jean-kaddour,,PySpur,Co-Founder,24 Jul 2024
+Daniel,Vlasits,https://www.linkedin.com/in/danielvlasits,,YonedaLabs,"Co-Founder, CTO",24 Jul 2024
+Sahil,Datta (PhD),https://www.linkedin.com/in/sahil-datta-phd-b53ba2203,,Upstate Medical University,Research Scientist,23 Jul 2024
+Daniel,Han,https://www.linkedin.com/in/danielhanchen,,Unsloth AI,Chief Executive Officer,23 Jul 2024
+Alex,Shatalov,https://www.linkedin.com/in/alex-shatalov,,DATAFOREST,Head of Artificial Intelligence,23 Jul 2024
+Valdemar,Duleba,https://www.linkedin.com/in/valdemar-duleba-450547234,,energise.pro,Python Developer,23 Jul 2024
+Nazar,Polishchuk,https://www.linkedin.com/in/nazar-polishchuk07,,dieArbeitsbekleidung ,Python Developer,23 Jul 2024
+Yevhen,Herasimov,https://www.linkedin.com/in/eugene-gerasimov-ml,,SupportRoom,AI Engineer,23 Jul 2024
+David,Havrylenko,https://www.linkedin.com/in/david-havrylenko,,AI Meetups 🇺🇦,Founder,23 Jul 2024
+Yunqing,Qiu,https://www.linkedin.com/in/yunqing-qiu,,Tencent,Technical Product Manager Intern,23 Jul 2024
+Andrii,Polukhin,https://www.linkedin.com/in/pandrii000,,Samba TV,Machine Learning Tech Lead,23 Jul 2024
+Iryna,Yevdokymova,https://www.linkedin.com/in/iryna-yevdokymova-ba63487a,,BETBY,AI Engineer | Betby AI Labs,23 Jul 2024
+Vlad,Horenko,https://www.linkedin.com/in/vlad-horenko,,Amazinum,Data Science Researcher,23 Jul 2024
+Runnan,Jiang,https://www.linkedin.com/in/runnan,,Surgical Safety Technologies Inc.,Data Analyst,22 Jul 2024
+Mateo,HAMEL,https://www.linkedin.com/in/mateo-hamel,,Neosens,Co-Founder,22 Jul 2024
+Kristina,Nikitiuk,https://www.linkedin.com/in/kristina-nikitiuk-073349158,,ODDITY,MlOps engineer,22 Jul 2024
+Ruimin,Ma,https://www.linkedin.com/in/ruimin-ma-a49b6a1b1,,Benjamin Moore,Data Scientist Intern,22 Jul 2024
+Artem,Volgin,https://www.linkedin.com/in/artvolgin,,Tesco,Data Scientist,22 Jul 2024
+Viktor,Maric,https://www.linkedin.com/in/viktor-maric-650006183,,CamPlan,Founder,22 Jul 2024
+Anastasiia,Yashchenko,https://www.linkedin.com/in/anastasiia-yashchenko-486686167,,Smartling,Machine Learning Engineer,22 Jul 2024
+Dmytro,Chernyshov,https://www.linkedin.com/in/chernyshof,,NDA,Senior Machine Learning Engineer,22 Jul 2024
+Philipp,Singer,https://www.linkedin.com/in/philippsinger,,H2O.ai,Senior Principal Data Scientist,22 Jul 2024
+Salma,Benslimane,https://www.linkedin.com/in/salma-benslimane,,SLB,Lead Data Scientist,22 Jul 2024
+Mohamed,Waleed,https://www.linkedin.com/in/esaooy,,ZainCash,AML Investigator,22 Jul 2024
+Oleh,Venhryniuk,https://www.linkedin.com/in/oleh-venhryniuk-419865171,,Jumio Corporation,Machine Learning Engineer,21 Jul 2024
+Xinyi,Chen,https://www.linkedin.com/in/xinyichen00,,Ernst & Young Global Consulting Services,P&C Actuarial Consultant,21 Jul 2024
+Xinyi,Zhao,https://www.linkedin.com/in/xinyizhao3274,,"Smartrip, Inc.",Machine Learning Engineer,21 Jul 2024
+Yurii,Bushta,https://www.linkedin.com/in/yurii-bushta-848ba0172,,It-Jim,Machine Learning Engineer,21 Jul 2024
+Nikolay,Pisarev,https://www.linkedin.com/in/nikolay-pisarev,,Databorn,Lead Data Analyst,21 Jul 2024
+Tom,Ewing,https://www.linkedin.com/in/tom-s10,,Station10,Head of AI & Data Engineering,21 Jul 2024
+Janio,Martinez Bachmann,https://www.linkedin.com/in/janio-martinez-bachmann-26040ba1,,Roche,Global BI Analyst,21 Jul 2024
+Raja,Biswas,https://www.linkedin.com/in/raja-biswas,,Answer.AI,Research And Development,21 Jul 2024
+Pavlo,Haishuk,https://www.linkedin.com/in/pavlo-haishuk,,OpsWay,Python/Odoo Engineer,21 Jul 2024
+Yebon,Byun,https://www.linkedin.com/in/yebon,,MediaZen-미디어젠,"AI Modeling Engineer, NLP",21 Jul 2024
+Luke,Menzies,https://www.linkedin.com/in/luke-menzies-940a9924,,Advancing Analytics,Principal AI Consultant,20 Jul 2024
+Adam,Usmani,https://www.linkedin.com/in/adam-usmani-9805457a,,Bupa,Data Scientist,20 Jul 2024
+Yao,Xie,https://www.linkedin.com/in/yaoxie123,,Eigent AI,AI Engineer,20 Jul 2024
+Emilio,Pascarelli,https://www.linkedin.com/in/emiliopascarelli,,Audiogen,Co-Founder and COO,20 Jul 2024
+Yifan,Zhu,https://www.linkedin.com/in/yvonneyifanzhu,,Jefferies,Associate - Data Scientist,20 Jul 2024
+Ruben,Burdin,https://www.linkedin.com/in/ruben-burdin,,Stacksync,Founder and CEO,20 Jul 2024
+Arina,Raileanu,https://www.linkedin.com/in/arina-raileanu-55633014a,,Quadrature,Quantitative Developer,19 Jul 2024
+,,,,,,18 Jul 2024
+Friedrich,Wicke,https://www.linkedin.com/in/fridowicke,,Sophia Edu Labs,Co-Founder,18 Jul 2024
+Angelina,Parfenova,https://www.linkedin.com/in/likich,,Technical University of Munich,PHD Candidate,18 Jul 2024
+Tianjiao (Emma),Wang,https://www.linkedin.com/in/tianjiao-wang-emma,,Amazon,Business Intelligence Engineer,17 Jul 2024
+Chenxi ,Jiang,https://www.linkedin.com/in/chenxi-jiang,,Verizon,Data Scientist II,17 Jul 2024
+Georg,Ye,https://www.linkedin.com/in/georg-ye,,Amazon Web Services (AWS),Software Developer,17 Jul 2024
+Yijia,Wang,https://www.linkedin.com/in/yijia-wang17,,Amazon,Data Engineer,17 Jul 2024
+Linnea,Herman,https://www.linkedin.com/in/linneaherman,,Bloomberg,Software Engineer,17 Jul 2024
+Gabriele,Dominici,https://www.linkedin.com/in/gabriele-dominici-677bb6161,,Creator Fund,Venture Fellow,17 Jul 2024
+Paolo,Gerosa,https://www.linkedin.com/in/paolo-gerosa-255481187,,Google,Software Engineer III - Machine Learning ,16 Jul 2024
+Muhammed Baqer,Ahmed,https://www.linkedin.com/in/losefor,,QiCard,Software Engineer,15 Jul 2024
+mostafa,mohammed,https://www.linkedin.com/in/mostafa-mohammed-10222b253,,BALY,Data Analyst,15 Jul 2024
+Saba Yasein,صبا ياسين,https://www.linkedin.com/in/%D9%8Dsaba-yasein,,KAPITA Business Hub,Project Assistant,13 Jul 2024
+John,Miller,https://www.linkedin.com/in/johnmiller,,Bon Secours Mercy Health,Chief Data Scientist,12 Jul 2024
+Gábor,Fodor,https://www.linkedin.com/in/g%C3%A1bor-fodor-6a081548,,H2O.ai,Principal Data Scientist,11 Jul 2024
+Yen-Jung,Cheng,https://www.linkedin.com/in/yen-jung-cheng,,Bloom & Wild,Lead Product Analyst,10 Jul 2024
+Martin,Henze,https://www.linkedin.com/in/martin-henze,,YipitData,Lead Data Scientist,09 Jul 2024
+Thomas,"Arnold, PhD",https://www.linkedin.com/in/thomas-arnold-phd,,"Data Pattern Analysis, LLC",Data Scientist,08 Jul 2024
+Yauhen,Babakhin,https://www.linkedin.com/in/yauhenbabakhin,,H2O.ai,Principal Data Scientist,07 Jul 2024
+Tatsuya,Sasaki,https://www.linkedin.com/in/tatsuya-sasaki-b41732138,,Hitachi,Chief Researcher / Team Leader,07 Jul 2024
+Medhat,Mahmoud,https://www.linkedin.com/in/me-mahmoud,,Baylor College of Medicine,Adjunct Assistant Professor,05 Jul 2024
+Lum,"Kastrati, MD, PhD",https://www.linkedin.com/in/lum-kastrati-md-phd-9289611a2,,Insel Gruppe,Assistenzarzt ,05 Jul 2024
+Yariv,Adan,https://www.linkedin.com/in/yariv-adan,,ellipsis,Founding Partner,05 Jul 2024
+Muhamad,S. Ghazy,https://www.linkedin.com/in/muhamad-s-ghazy-612533217,,Safe Holding,Assistant Marketing Manager,04 Jul 2024
+Anirudhh,Ramesh,https://www.linkedin.com/in/anirudhhramesh,,Ambitious x Driven,Founder & Host,01 Jul 2024
+Ali,Bani Oqbah,https://www.linkedin.com/in/aliabdalmajeed,,Honeywell,Process Automation Engineer,24 Jun 2024
+Frank R.,Gunter,https://www.linkedin.com/in/frank-r-gunter-25a11b23,,Lehigh University,Professor of Economics,23 Jun 2024
+Aya,Salih ,https://www.linkedin.com/in/aya-salih-9145601b6,,Safraty,Co-Founder,21 Jun 2024
+Ammar,Mudhfar,https://www.linkedin.com/in/ammar-mudhfar-788505181,,Freelance,Freelance,20 Jun 2024
+Lamech,Opiyo,https://www.linkedin.com/in/lamech-opiyo-995456174,,Rotary International,Rotary D9212 Youth Exchange Chair ,14 Jun 2024
+Syed Nakib,Hossain,https://www.linkedin.com/in/syed-nakib-hossain-353aa9144,,European Bioinformatics Institute | EMBL-EBI,Bioinformatics Developer,06 Jun 2024
+Heba,Elmunem,https://www.linkedin.com/in/heba-elmunem-339376258,,Sindibad,Marketing & PR Generalist,05 Jun 2024
+Ayla,F. Saud ,https://www.linkedin.com/in/ayla-fawzy-0b75ba192,,PETC FOR TRAINING شركة الطاقات الاحترافية للتدريب,Executive Trainer,20 May 2024
+Jin-De,Zhou,https://www.linkedin.com/in/jin-de-zhou-41b49a28a,,AI Penguins,Sales Development Representative,14 May 2024
+Ashwin,Somalinga Suresh,https://www.linkedin.com/in/ashwinss,,Southwest Labs ,Lead Molecular scientist,14 May 2024
+Hadi,Saad,https://www.linkedin.com/in/hadi-saad-820228202,,QiCard,Business Developer - Chairman's Office,11 May 2024
+Ahmed,Ziad,https://www.linkedin.com/in/ahmed-ziad-402b88202,,EscapeVPN,Customer Support Agent,09 May 2024
+Ali,Al-ibrahim,https://www.linkedin.com/in/alialibrahimm,,Jotun,Marketing Officer,05 May 2024
+Zainab,alaraji,https://www.linkedin.com/in/zainab-alaraji-70a590206,,Budoor Baghdad pharmacy ,Pharmacist,03 May 2024
+Abdullah,Ahmed,https://www.linkedin.com/in/abdullah-ahmed-065765246,,Dataship.iq,Chief Executive Officer,01 May 2024
+Naif,A. Ganadily,https://www.linkedin.com/in/naif-ganadily,ganadilynaif@gmail.com,Arizona State University,Graduate Research Associate,24 Apr 2024
+Ahmed,Baqer,https://www.linkedin.com/in/ahmedbali,,Boxy,Co-Founder,19 Apr 2024
+Asala,H. Al-hadrawi,https://www.linkedin.com/in/asala-h-al-hadrawi-40a9231b8,,Global Neurosurgical Alliance,Student Researcher,12 Apr 2024
+Ahmad Fahad,Al-Shagra,https://www.linkedin.com/in/afahad,,1001,Chief Platform Officer,07 Apr 2024
+Roa, Hawez,https://www.linkedin.com/in/roa-hawez-7b7a491b5,,Kurdistan Vision for Translation Services ,Interpreter and translator,05 Apr 2024
+Ahmed Hamzah ,Hashim,https://www.linkedin.com/in/ahmed-hamzah-hashim-062a2516a,,First Iraqi Bank,Banking Operations Manager,01 Apr 2024
+Issam,Najm,https://www.linkedin.com/in/najm-sam,,Numa,Co-Founder / Chief Technology Officer,31 Mar 2024
+Maria,Sitkovets,https://www.linkedin.com/in/maria-sitkovets,,Twitch,Software Engineer,30 Mar 2024
+Gantha,Zara,https://www.linkedin.com/in/gantha-zara-3914a3225,,UNICEF,عضو ائتلاف الشباب الوطني للعمل المناخي Youth Coalition for Climate Action,29 Mar 2024
+Omar,ALjasem,https://www.linkedin.com/in/omar-aljasem,,Creative PEM,Graphic Designer,28 Mar 2024
+Mabast,O. Hamadamin,https://www.linkedin.com/in/mabastu,,Onyxes Technologies,IT Support Engineer,28 Mar 2024
+Sukaina,Kareem,https://www.linkedin.com/in/sukaina-kareem-546567261,,World Vision,MEAL Assistant,28 Mar 2024
+Sayfadin,Rashid,https://www.linkedin.com/in/sayfadinrashid,,,,27 Mar 2024
+Tabark,Hameed(CIPD),https://www.linkedin.com/in/tabark-hameed,,Al Rida Investment,HR Manager,27 Mar 2024
+Liudmyla,Zhaldak,https://www.linkedin.com/in/liudmyla-zhaldak-86ab1a3a,,Lan Trace,Deputy Director of Customer Development and Service Directorate,27 Mar 2024
+Ayaa ,Al-Qwaizi,https://www.linkedin.com/in/ayaa-al-qwaizi-b51258b1,,Deloitte,Project support associate,27 Mar 2024
+Mohammed ,Raid,https://www.linkedin.com/in/mohammed-raid-ab8523249,,Abwaab,Sales Operations Officer,27 Mar 2024
+,,,,,,26 Mar 2024
+YASAMEEN,ABİD,https://www.linkedin.com/in/yasameen-abid-6a2587202,,عمل مستقل,Lawyer,24 Mar 2024
+Yasir,Al Shekhly,https://www.linkedin.com/in/yasir-al-shekhly-a1290590,,BMW Iraq,Certified Marketing & CRM Manager ,23 Mar 2024
+Yousif,Zain,https://www.linkedin.com/in/yousif-zain-094b0371,,Classy LLC,CEO,21 Mar 2024
+Rashid,Bik,https://www.linkedin.com/in/rashid-bik-b830b8202,,RK,Laser Operator and Designer ,19 Mar 2024
+Khudhur,Mohammed,https://www.linkedin.com/in/khudhur-moh,,Pathway,"Fullstack Developer, UI/UX Designer and Medical Editor",19 Mar 2024
+Hakeem,Mohammad,https://www.linkedin.com/in/hakeem-mohammad-a29a1b2a0,,MasterMinds Recruitment,Accountant,19 Mar 2024
+mahdi,karem,https://www.linkedin.com/in/mahdi-karem-bbb536223,,مكتب مراقب حسابات,Auditor,19 Mar 2024
+Omar,Wahab,https://www.linkedin.com/in/omar-wahab-628a191b6,,Sinohydro,QHSE Officer,19 Mar 2024
+Samer ,Sattar,https://www.linkedin.com/in/samer-sattar-a336b6b6,,Hikvision,Managing Business of Commercial Display - Levant Region ,19 Mar 2024
+ساره,حازم,https://www.linkedin.com/in/%D8%B3%D8%A7%D8%B1%D9%87-%D8%AD%D8%A7%D8%B2%D9%85-0372412ba,,super chicken-iq,Human Resources Management,19 Mar 2024
+salah,Mahdi,https://www.linkedin.com/in/salah-mahdi-a735aa145,,ZainCash,Senior Officer-Account Manager,18 Mar 2024
+Omer,Sabah,https://www.linkedin.com/in/omer-sabah-291904198,,ILF Consulting Engineers,Project coordinator,18 Mar 2024
+Muntadher,Jihad,https://www.linkedin.com/in/muntadherjihad,,Cancer Research UK Cambridge Institute,Bioinformatician,18 Mar 2024
+Ahmad,Ali Jazaa,https://www.linkedin.com/in/ahmad-ali-jazaa-59a052192,,Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH,"Crisis, Conflict and Disaster Advisor ",18 Mar 2024
+Raghda,Muhi,https://www.linkedin.com/in/raghdamuhi,,International Labour Organization,Communications Officer,18 Mar 2024
+MOHAMMED,FAREED,https://www.linkedin.com/in/mohammed-fareed-73007514a,,Romatex,HR Business Partner Manager,15 Mar 2024
+ibrahim,faruq,https://www.linkedin.com/in/ibrahim-faruq-a94aa3226,,Paitaxt Technical Institute - Private,Mobile Application Developer,14 Mar 2024
+Rand,hameed,https://www.linkedin.com/in/rand-hameed-43a701251,,EarthLink Telecommunications,Project Coordinator,14 Mar 2024
+Rebaz Khoshnaw,(PHRi),https://www.linkedin.com/in/rebaz-khoshnaw-phri-b053a7106,,Parker Wellbore,Human Resources Representative,13 Mar 2024
+Bnar,Rashid,https://www.linkedin.com/in/bnar-rashid-a02478204,,Today Restaurant,Content Creator & Graphic Designer ,13 Mar 2024
+Menna,Hashem,https://www.linkedin.com/in/menna-hashem-791658288,,WorkEgypt,Recruiter,13 Mar 2024
+Makwan,Barzan,https://www.linkedin.com/in/makwanbk,,Gateway,Senior iOS Engineer,13 Mar 2024
+shahad,Khalid,https://www.linkedin.com/in/shahad-khalid-37490919b,shahad.khalid316@yahoo.com,Al-Mansour Iraqi Automotive Co.,Service Advisor,12 Mar 2024
+Ebrahim,Alboray,https://www.linkedin.com/in/ebrahim-alboray-33a5b61ab,,Uniex App,Website Project Manager,12 Mar 2024
+Hersh Ali,"Hama Agha, Eng, PMP",https://www.linkedin.com/in/hersh-ali-hama-agha-eng-pmp-578379256,,Master Development Group,Project Manager,11 Mar 2024
+𝗔🅰𝗠𝗥,"""عــامــر خــفــاف"" Khafaf",https://www.linkedin.com/in/aamrkhafaf,,Khafaf Law Firm ,Founder,11 Mar 2024
+Zhangar,Hassan,https://www.linkedin.com/in/zhangar-hassan-4a4871173,,Safe Capital Forex,Regional Sales Manager,11 Mar 2024
+Murtadha,Adnan,https://www.linkedin.com/in/murtadha-adnan-2b498428a,,Solico Group,HR Specialist ,11 Mar 2024
+Israa,Ahmed Ghafil,https://www.linkedin.com/in/israa-ahmed-ghafil-a240271a5,,National University of Science and Technology - Iraq,Biomedical Engineer,11 Mar 2024
+Muhammad,Baqir,https://www.linkedin.com/in/baqirss,,Fedshi,Content Creator,11 Mar 2024
+Varin,Sabah,https://www.linkedin.com/in/varin-sabah-2435a91a1,,CFI Financial Group,Global HRIS Coordinator,11 Mar 2024
+Ibraheem,Esam,https://www.linkedin.com/in/ibraheem-esam-5077b529b,,Freelance,Frontend Web Developer,09 Mar 2024
+Hisham Khalid,"GRCP , CRCMP , CISRM , CISGOV , CORM",https://www.linkedin.com/in/hisham-khalid777,,Credit Bank of Iraq,Board Member,08 Mar 2024
+Anas,Qawasmeh,https://www.linkedin.com/in/anasq,,DIFC,Senior Manager - FinTech & Innovation - Business Development,07 Mar 2024
+Zain,Maki,https://www.linkedin.com/in/zain-maki-b47105230,,Kieslect,Country Manager,03 Mar 2024
+Shams,Kadhim,https://www.linkedin.com/in/shams-kadhim-144761248,,American University of Iraq - Baghdad,Biology Laboratory Assistant,01 Mar 2024
+Mohammed,Al-Mafrachi,https://www.linkedin.com/in/mohamed10011s,,UNDP,UNV National Volunteer to Support on International Law for COP28,01 Mar 2024
+Nada,Mohammed,https://www.linkedin.com/in/nada-mohammed-91a754145,,iMediaff Global,International Influencer Marketing Specialist ,29 Feb 2024
+Mohammed,Muwafaq,https://www.linkedin.com/in/mohammedmoafaq,,QAF Lab,Game Developer,24 Feb 2024
+Sara,Ali,https://www.linkedin.com/in/sara-ali-738b03265,,ISCB SC RSG-Iraq,President,20 Feb 2024
+Ahmed,A.,https://www.linkedin.com/in/ahmedkaa,,NASS,Product Support Engineer,19 Feb 2024
+Laith,Allawi,https://www.linkedin.com/in/laith-allawi-61380266,,Sandstorm Studios Ltd,Founder,13 Feb 2024
+Eileen,Brewer,https://www.linkedin.com/in/eileenbrewer,,757 Collab,Executive Director of 757 Accelerate,09 Feb 2024
+Husam,Aamer,https://www.linkedin.com/in/husamaamer,,Andalusi App,Co-Founder & CTO,03 Feb 2024
+Mustafa,Alhusaini,https://www.linkedin.com/in/mustafaalhusaini,,Miswag,Chief Technology Officer,30 Jan 2024
+Hassan,Haitham,https://www.linkedin.com/in/hassan-haitham-19768b203,,Fedshi,Product Manager II,30 Jan 2024
+Will,Vo,https://www.linkedin.com/in/williamnvo,,ActBlue,Digital Designer,30 Jan 2024
+Ashte,Azad,https://www.linkedin.com/in/ashte-azad-9343ba243,,USA Bazaar LLC,Co-Founder,29 Jan 2024
+Sama,Rabeea,https://www.linkedin.com/in/sama-rabeea-637b85150,,GIZ Iraq,Project Advisor,29 Jan 2024
+Salam,Ahmed,https://www.linkedin.com/in/salam-ahmed-909509133,,KAPITA Business Hub,Regional manager of KAPITA - GCC,26 Jan 2024
+Momen,Firas,https://www.linkedin.com/in/momen-firas-30b23b210,,Aswar Group,Senior Graphic Designer,25 Jan 2024
+Delvin,J. Ahmed,https://www.linkedin.com/in/delvin-j-ahmed-34bb0217a,,West Coast (Business Consulting and Management),COO & Partner,22 Jan 2024
+Srood,Bakhtiar,https://www.linkedin.com/in/srood-bakhtiar-497353178,,International Labour Organization,"National Project Officer (Employment Services, skills , and Youth Engagement)",22 Jan 2024
+Geoffrey,Batt,https://www.linkedin.com/in/geoffrey-batt-ba5734226,,Euphrates New Frontiers ,Founder and Co Lead Portfolio Manager ,22 Jan 2024
+Amer,Salih,https://www.linkedin.com/in/amersalih,,iQ Cars,Founder & CEO,22 Jan 2024
+Mahmoud,Al-Najjar,https://www.linkedin.com/in/mahmoud-al-najjar93,,Caritas,Project Manager,21 Jan 2024
+Hawrre,"M. Bibani, ASMEC®, PhD",https://www.linkedin.com/in/hawrre-m-bibani-asmec%C2%AE-phd-33986816,,GroFin,Investment Manager,21 Jan 2024
+Mustafa,Sirri,https://www.linkedin.com/in/mustafa-sirri,,Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH,Head of Component 3: Financial Inclusion CBI Advisor,14 Jan 2024
+Ibrahem,Kh 🇵🇸,https://www.linkedin.com/in/ibrahem-kh-%F0%9F%87%B5%F0%9F%87%B8-780a0a129,,BRANDWISE,Founder,13 Jan 2024
+Mustafa,Barzenji,https://www.linkedin.com/in/mustafa-barzenji-6a8b3877,,Chemonics International,Program Manager,13 Jan 2024
+yousif,Hashim,https://www.linkedin.com/in/yousif-hashim-117810153,,Tashgheel,HR Recruiter,13 Jan 2024
+Ali M.,Ismail 🇵🇸🇱🇧,https://www.linkedin.com/in/3lawim,,Wayl,Product,12 Jan 2024
+Tuqa,Rahman,https://www.linkedin.com/in/tuqa-rahman,,Istanbul Technical University,AI Research Assistant,09 Jan 2024
+Ranya,Bakr,https://www.linkedin.com/in/ranya-bakr,,National Bank of Iraq,AVP - Private Wealth Management,06 Jan 2024
+Tabarak,Sameer,https://www.linkedin.com/in/tabarak-samir,,Holly Wally,Founder and Executive,05 Jan 2024
+Mustafa,Dawood,https://www.linkedin.com/in/mustafadawood,,The Engine ,Partner,05 Jan 2024
+Jozef ,Pokrivčák,https://www.linkedin.com/in/jozefpokrivcak,,Scene.io,Researcher & Community Manager,03 Jan 2024
+🍃 Haytham,Hakim,https://www.linkedin.com/in/haythamhakim,,Tribbel,CEO & Co-founder,03 Jan 2024
+Ahmed,Shallal,https://www.linkedin.com/in/a7md9a,,Middle East Broadcasting Networks,Visuals Editor,01 Jan 2024
+Insaf,SENSRI (PhD),https://www.linkedin.com/in/insaf-sensri-phd-8059b725a,,American University of Iraq - Baghdad,Academic Coach,01 Jan 2024
+Danyar,Noaman,https://www.linkedin.com/in/danyar-noaman-b256a2237,,National Bank of Iraq,POS sales associate ,01 Jan 2024
+Sarah,Edgcumbe,https://www.linkedin.com/in/sarah-edgcumbe-593910153,,"Research Network on Gypsy, Romani, and Travelling Peoples in the Middle East",Co-Founder,31 Dec 2023
+Abdulazeez,Salam,https://www.linkedin.com/in/abdulazeez-salam-091039135,,MedMasters,Full Stack Developer,30 Dec 2023
+Bnwar,Rzgar,https://www.linkedin.com/in/bnwar-rzgar-6498b618a,,leopards beyond borders,Volunteer,29 Dec 2023
+Shwan,Ali Qaradaghi,https://www.linkedin.com/in/shwan-ali-qaradaghi-8a565753,,Five One Labs,‪‪Managing Director Of Iraq | Programs,27 Dec 2023
+Surra,Hussein,https://www.linkedin.com/in/surra-hussein-612420140,,University of Mosul,Assistant Lecturer,26 Dec 2023
+Basem,Jaffal,https://www.linkedin.com/in/bmjaffal,,Elm Company,Director of Innovation,26 Dec 2023
+Lilibeth,Bustos Linares,https://www.linkedin.com/in/lili-bustos,,Memorisely,Instructor,21 Dec 2023
+Fred,Seale,https://www.linkedin.com/in/fred-seale-a9352652,,The Intrapreneurs Club,Speaker,17 Dec 2023
+Mohammed Sadeq,Sabah,https://www.linkedin.com/in/moh-sadeq,,1001,Associate Product Manager,15 Dec 2023
+Fadi,Ramzi 🇵🇸✌️,https://www.linkedin.com/in/fadi-ramzi-%F0%9F%87%B5%F0%9F%87%B8%E2%9C%8C%EF%B8%8F-7b8268145,,SWITCH®,Head of Integration Unit,15 Dec 2023
+Alexandre,Miyake,https://www.linkedin.com/in/alexandremiyake,,Druxia,Lead Product Designer,15 Dec 2023
+Mustafa,Ghaith,https://www.linkedin.com/in/mustafa-ghaith-029776215,,Health 360,Chief Financial Officer,14 Dec 2023
+Sirian,Maathuis,https://www.linkedin.com/in/sirian-maathuis,,The Fire Company,Mede-oprichter Fireview,11 Dec 2023
+Ghada,Ahmed,https://www.linkedin.com/in/ghada-ahmed-6b92991b1,,QiCard,Senior Sales Support Specialist,10 Dec 2023
+Zainab,Ayad Dheyaa,https://www.linkedin.com/in/zainab-ayad-dheyaa-b1010b258,,National Bank of Iraq,Senior Associate public relations and conferences \ department Marketing and corporate communication,04 Dec 2023
+Ahmed,Aladwani,https://www.linkedin.com/in/ahmed-aladwani-agcy,,Tarweej agency,Chief Executive Officer,04 Dec 2023
+Asif,Agha,https://www.linkedin.com/in/asifagha,,theatron,Co-Founder - CEO,02 Dec 2023
+fatima,Alsafi,https://www.linkedin.com/in/fatima-alsafi-6151a0287,,Freelance (Self employed),Marketing Copywriter,29 Nov 2023
+AbdulAziz,Ahsaan,https://www.linkedin.com/in/abdulaziz-ahsaan-23b807280,,Supercell Network,Frontend Developer,26 Nov 2023
+,,,,,,18 Nov 2023
+Faridon,Abdulkader,https://www.linkedin.com/in/faridon-abdulkader-235683181,,PFX professional,Trading Analyst,16 Nov 2023
+Gleb,Rozenberg,https://www.linkedin.com/in/rozenberggleb,,AIR Media-Tech,CHRO AIR Media-Tech,16 Nov 2023
+Savo,Bakhtiar Rasoul,https://www.linkedin.com/in/savo-bakhtiar-rasoul-a2499b71,,Five One Labs,Managing Director Of Iraq | Ecosystem Growth,15 Nov 2023
+Brad,Frost,https://www.linkedin.com/in/bradfrost,,Big Medium,Principal and Design System Consultant,14 Nov 2023
+Thuan,Nguyen,https://www.linkedin.com/in/thuann,,Equip,Senior Product Designer,13 Nov 2023
+Ahmed,Al-Kawoosh,https://www.linkedin.com/in/ahmed-al-kawoosh-79154bb8,,Pure Platform,Business Development Analyst,12 Nov 2023
+Gillian,Harshami,https://www.linkedin.com/in/gillianharshami,,Nestlé,CDE-Nutrition,12 Nov 2023
+mohamad,Al-ameen,https://www.linkedin.com/in/mohamad-al-ameen-3b70a721b,,,,11 Nov 2023
+Najat,AL-Dawoodi,https://www.linkedin.com/in/najat-al-dawoodi-7242a2109,,NGO Coordination Committee for Iraq (NCCI),Sr. Development and Advocacy Coordinator,09 Nov 2023
+Soran,Dler,https://www.linkedin.com/in/soran-dler-07a57a225,,Great Service Company,Founder & CEO,07 Nov 2023
+Zarya,Salah,https://www.linkedin.com/in/zarya-salah-80a008a5,,Civil Development Organization,Team Leader,07 Nov 2023
+Aeshah,Mohammed,https://www.linkedin.com/in/aeshah-mohammed-797252153,,Rwanga Foundation,Project Coordinator,07 Nov 2023
+Basheer,Alniaimi ,https://www.linkedin.com/in/basheer-alniaimi-685627199,,Crowe,Microsoft Cloud Solutions Consultant - Manufacturing and Supply Chain Unit,06 Nov 2023
+,,,,,,06 Nov 2023
+Anas,Al-Chalabi,https://www.linkedin.com/in/anas97chalabi,,New Sabaa Medicine Store,Sales Officer Assistant,06 Nov 2023
+Hasan,Alsoud,https://www.linkedin.com/in/hasan-alsoud-tiptop,hasan@trytiptop.app,Ticktat,Founder,06 Nov 2023
+Mohammad,Almoayad,https://www.linkedin.com/in/mohammadalmoayad,,Pure Platform,Business Analyst,06 Nov 2023
+Ammar,Al-khatib,https://www.linkedin.com/in/ammarata,,uplevel,Co-Founder and CEO,05 Nov 2023
+Nawar,Ihsan,https://www.linkedin.com/in/nawar-ihsan,,Iraq Museum,Antiquities conservator ,04 Nov 2023
+Yann,Sydow,https://www.linkedin.com/in/yann-sydow-9ab307292,,UM Chess,Board Member,02 Nov 2023
+Amrit,Swali,https://www.linkedin.com/in/amrit-swali-b68b61165,,Ofcom,Policy Manager,02 Nov 2023
+Dimitri,Choufatinski,https://www.linkedin.com/in/dimitri-choufatinski-53282097,,whathappened.io,Founder / Chief Editor,01 Nov 2023
+Aryan,Azeez,https://www.linkedin.com/in/aryan-azeez-110674221,,Business Insight,Research And Development Specialist,01 Nov 2023
+Derman,Sultan,https://www.linkedin.com/in/derman-sultan,,Confluent,Product Designer 2,30 Oct 2023
+Anas,Morshed,https://www.linkedin.com/in/anasmorshed,,Morshed,Founder,30 Oct 2023
+Erin,Wilson,https://www.linkedin.com/in/erin-wilson-4b2477212,,Erin Wilson Studios,Writer and Photographer,30 Oct 2023
+Mohammed,Alsoufi,https://www.linkedin.com/in/mo-alsoufi,,ALSOUFI LTD,Senior Architect & Managing Partner,29 Oct 2023
+Tuqa,Rammahi,https://www.linkedin.com/in/tuqarmahi,,AMBERO Consulting Gesellschaft mbH,Communications Specialist,29 Oct 2023
+Zeena,Alobaydie,https://www.linkedin.com/in/zeena-alobaydie-86abba188,,Aswar Group,Marketing Specialist,28 Oct 2023
+Manar,Ahmed,https://www.linkedin.com/in/manar-ahmed-9a12a9188,,TNFX,Human Resources Executive,28 Oct 2023
+Ali,Al-Fatlawi,https://www.linkedin.com/in/ali-a-49487239,,urakypost Film GmbH,"Film maker, writer / Owner-manager by Urakypost film Gmbh Picture design/  Performance Artist.",27 Oct 2023
+Tabea,Uthmann,https://www.linkedin.com/in/tabea-uthmann-1160bb243,,CyberFame.io,Technical Writer,26 Oct 2023
+Mustafa,L. Taha,https://www.linkedin.com/in/layeah,,UNDP Iraq,Corporate Graphic Designer,23 Oct 2023
+Ahmed,Jawad,https://www.linkedin.com/in/ahmed-jawad-11b529246,,,,23 Oct 2023
+Sara,Fadhil,https://www.linkedin.com/in/sarafadhil,,Kashkul,Social Media & Social Event Coordinator,22 Oct 2023
+Aya,Jafar,https://www.linkedin.com/in/aya-jafar,,Aswar Group,Frontend Developer,22 Oct 2023
+Neshaat,Al-Shammari,https://www.linkedin.com/in/neshaat-al-shammari-1447a2214,studioneshaat@gmail.com,Studio Neshaat,Artist,21 Oct 2023
+Sarah,"Basim (HRM Certified , MBA)",https://www.linkedin.com/in/sarah-basim-hrm-certified-mba-198a8a1a3,,ربان السفينة لمشاريع الطاقة Raban Al Safina for Energy Projects,Deputy HR Manager,21 Oct 2023
+Saif,Al-Dabbagh,https://www.linkedin.com/in/kensaiftion,,eSports Middle East,Digital PR & Social Media Manager,21 Oct 2023
+Ayat,E Ali,https://www.linkedin.com/in/ayat-e-ali,,"Princeton IT Services, Inc",Marketing Associate,21 Oct 2023
+Dana,Hekmat,https://www.linkedin.com/in/dana-hekmat-a847811aa,,Anythink Libraries,Human Resources Manager,20 Oct 2023
+Michael,Riddering,https://www.linkedin.com/in/michaelriddering,,Dive,Creator,20 Oct 2023
+Ahmed,Al-Musawi 🇵🇸,https://www.linkedin.com/in/iahmedalmusawi,,Sindibad,Founder & CEO,20 Oct 2023
+Ammar,Salam,https://www.linkedin.com/in/ammar-salam-b0b734133,,Asiacell Communications PJSC,Experienced Court Affairs,19 Oct 2023
+Muthanna,Alfaris,https://www.linkedin.com/in/al-faris,,Meta,"Project Manager, Integrity Operations",18 Oct 2023
+Mahmood,Al Sudani,https://www.linkedin.com/in/mahmood-al-sudani-19490a1b9,,Standard Chartered Bank,Trade Finance & Operation Officer,18 Oct 2023
+Ibrahim,Khudhur ,https://www.linkedin.com/in/ibrahim-khudhur-9379741b6,,ARFADA For Development And Consultations.,Team Supervisor,18 Oct 2023
+Dekran,Alexanderian,https://www.linkedin.com/in/dekran-alexanderian-041687287,,Digital Logic,UX/UI Designer,18 Oct 2023
+Mariam,Al-Ghariri (aPHRi™),https://www.linkedin.com/in/mariam-hussein97,,GlobalTek iq,Head Of Talent Management & Development ,17 Oct 2023
+Deepika,Bodapati ,https://www.linkedin.com/in/deepika-bodapati-10229773,,Commure,COO,16 Oct 2023
+Osama,Alahmed,https://www.linkedin.com/in/osama-alahmed-a7b131160,,QAF Lab,Software Engineer,16 Oct 2023
+Redwan,Faris,https://www.linkedin.com/in/redwanfaris,,QAF Lab,Back End Developer,15 Oct 2023
+Yara,Alassade,https://www.linkedin.com/in/yara-alassade,,Sakura Finetek Europe,Learning Specialist,14 Oct 2023
+Larysa,Doroshchuk,https://www.linkedin.com/in/larisa-doroshchuk,,,Frontend Developer,13 Oct 2023
+Lowi,Sahi,https://www.linkedin.com/in/lowinazal,,Sahi Media,Founder - Creative Director,13 Oct 2023
+,,,,,,13 Oct 2023
+Sara,Faiq,https://www.linkedin.com/in/sara-faiq-a904901b6,,Human Capital Iraq,Human Resources Specialist,11 Oct 2023
+Samaya,Sinha,https://www.linkedin.com/in/samayasinha,,Ideate Labs LLC,UX Manager & Co-Founder,11 Oct 2023
+Cora Y.H.,Xu,https://www.linkedin.com/in/coraxu,,Green Dot Corporation,Senior Internal Auditor,10 Oct 2023
+Iman,Hadi,https://www.linkedin.com/in/imanshie,,Zain Iraq,Enterprise Date Warehouse Mngt Analyst,10 Oct 2023
+Yamam,Mohamad,https://www.linkedin.com/in/yamam-mohamad-bb4054268,,High Performance,Human Resources Executive,10 Oct 2023
+Majd Al din,Shams,https://www.linkedin.com/in/majdshams,majd.shams.sy@gmail.com,MakanE,Operational Specialist,09 Oct 2023
+Rusul,A. Khaleel,https://www.linkedin.com/in/rusul-a-khaleel-923333244,,Eversheds Sutherland,Associate,09 Oct 2023
+Mustafa,Wissam,https://www.linkedin.com/in/mustafa-wissam-468a20200,,Iraqi Islamic Bank for Investment & Development,Head of treasury and investment,08 Oct 2023
+MUKHALAD,RAAD,https://www.linkedin.com/in/mukhalad-raad,,First Iraqi Bank,Products Manager,08 Oct 2023
+Haider,A. Jabbar,https://www.linkedin.com/in/eng-hider,,تجمع افلام العراق,Founder,08 Oct 2023
+Zeina,Halabi,https://www.linkedin.com/in/zeina-halabi-30100a100,,AL KOUKH Fashion Stores,Human Resources Manager,08 Oct 2023
+Falah,Hasan,https://www.linkedin.com/in/devfalah,,Gateway,Android Developer,07 Oct 2023
+Yehya,Lezgin Chali,https://www.linkedin.com/in/yehya-chali,,Ovanya,CEO,07 Oct 2023
+Patrick,Isaacs,https://www.linkedin.com/in/patrick-isaacs-71b93b243,,The National Modern Languages SCITT,Trainee Teacher,06 Oct 2023
+Maryna,Repekh,https://www.linkedin.com/in/maryna-repekh-a33a117b,,MilX,Global Brand Manager,06 Oct 2023
+Mina,Emad,https://www.linkedin.com/in/minna-emaad-mh,,Hala FTTH ,Payroll and Compensation Officer,06 Oct 2023
+Peter,Finlan,https://www.linkedin.com/in/peterfinlan,,Google,UX Lead,05 Oct 2023
+Abdallah,Saad,https://www.linkedin.com/in/abdallah-saad-274951192,,Ekur Market,Senior Data Analyst,05 Oct 2023
+Ahmed,Ali ,https://www.linkedin.com/in/ahmed-ali-31234b289,,BRK for industrial Company,Human Resources Assistant,05 Oct 2023
+Ali,Tariq,https://www.linkedin.com/in/ali-tariq-09883328,,The Station المحطة,Chairman Of The Board,05 Oct 2023
+Mustafa,Hadi,https://www.linkedin.com/in/mustafahadiali,,Palm Of Babylon- POB,Head of Digital Marketing,05 Oct 2023
+Khalid,Alrawi,https://www.linkedin.com/in/khalid-alrawi-b86b2a192,,International Committee of the Red Cross - ICRC,Human Resources Assistant,05 Oct 2023
+Deborah,Simmons ,https://www.linkedin.com/in/deborah-simmons-65465916,,Camino insight Ltd,Strategic Insight Consultant,04 Oct 2023
+May,A. AlShabibi,https://www.linkedin.com/in/may-a-500446122,,PwC Middle East,Senior Consultant,04 Oct 2023
+Hussein,Ghassan,https://www.linkedin.com/in/hussein-ghassan,,Mass Group Holding Ltd.,Field operator Engineer,04 Oct 2023
+Mohammed,Talabani,https://www.linkedin.com/in/aktalabani,,Careem,Marketing Manager,04 Oct 2023
+Mays,Alsheikhly,https://www.linkedin.com/in/mays-alsheikhly-4b5b21176,,Star Sphere Information Technology,Human Resources Specialist & people and Culture specialist,03 Oct 2023
+Omar,Mahir,https://www.linkedin.com/in/omarmahir44,,BALY,Marketplace and Business Analytics Manager,03 Oct 2023
+Hassan,Atmeh,https://www.linkedin.com/in/hassanatmeh,,Repzo,CEO @ Repzo Inc.,02 Oct 2023
+Razbar,Sulaiman,https://www.linkedin.com/in/razbar-sulaiman,,Ramada by Wyndham Sulaymaniyah Salim Street,Sales and Marketing Manager,02 Oct 2023
+Huda,Al-Hayali,https://www.linkedin.com/in/huda-al-hayali-933930102,,Twokeyok,Human Resources Manager,02 Oct 2023
+Bashar,O. Sabbar,https://www.linkedin.com/in/bashar-omar-sabbar,,Bahar Holding,Data Analyst,01 Oct 2023
+Abdullah,Hussein,https://www.linkedin.com/in/abdullah-hussein-259a9028a,,UNDP,Professional interpreter ,01 Oct 2023
+Mohsen,Tayyebi,https://www.linkedin.com/in/mohsen-tayyebi,,TiBi Talent,Founder,01 Oct 2023
+Maad,Waleed,https://www.linkedin.com/in/maad-waleed-33080819a,,EAT & GO,General Accountant,01 Oct 2023
+Ahmed,Falah,https://www.linkedin.com/in/ahmed-falah,,Leaders Of Tomorrow Digital Exchange Program,Facilitator,01 Oct 2023
+Sayran,Hadi,https://www.linkedin.com/in/sayranhadi,,Damazrandn,Independent HR Consultant ,01 Oct 2023
+Silda,Zaza karajoly,https://www.linkedin.com/in/silda-zaza-karajoly-839b2a149,,Delos International,Human Resources Manager,01 Oct 2023
+Noor,Ali,https://www.linkedin.com/in/noor-ali-03a446162,,toters delivery,Assistant Human Recourses Manager  ,01 Oct 2023
+Saif Salah,Aglawee,https://www.linkedin.com/in/saifsaglawee,,Fedshi,Senior Commercial Specialist,30 Sep 2023
+Diana,Yousuf,https://www.linkedin.com/in/diana-yousuf-631442188,,Folkekirkens Nødhjælp (DanChurchAid),Senior Human Resources/Administrative Officer,30 Sep 2023
+Fawaz,Al-Abassi,https://www.linkedin.com/in/fawaz-al-abassi-933062235,,IQ Agency,Human Resources Agency,30 Sep 2023
+Ramy,Arab,https://www.linkedin.com/in/ramy-arab-2589509a,,مدن للتطوير العقاري,مدير موارد بشرية,30 Sep 2023
+Sedeeq,Al-khazraji,https://www.linkedin.com/in/sedeeq-alkhazraji,,Ocean Solutions,System Engineer,30 Sep 2023
+Mohammed,Salm Karim,https://www.linkedin.com/in/mohammedsalm22,,Yari Plus,Business Owner,30 Sep 2023
+Khogir,Mohammed,https://www.linkedin.com/in/khogir-mohammed-86847392,,Middle East Research Institute,Senior Research Fellow,30 Sep 2023
+Sanarya,Mohammed,https://www.linkedin.com/in/sanarya-m-59521b222,,24HD TV,Human Resources Specialist,30 Sep 2023
+Fahad Gailan,SHRM/PHRI/CEH/CIPPUS/NCSE.,https://www.linkedin.com/in/fahadmohammedseth,,أور للتطوير و الخدمات الاستشارية : UR Learning & Advisory Services ,Admissions Manager,30 Sep 2023
+Subhy,Adnan,https://www.linkedin.com/in/subhy-adnan-11595925b,,EarthLink Telecommunications,Talent Acquisition officer,30 Sep 2023
+Mohamed,Magdy,https://www.linkedin.com/in/magdonalzzz,,MediaHub - سعدي جوهر,Associate Creative Director,30 Sep 2023
+Lana,Shekha,https://www.linkedin.com/in/lana-shekha,,Investigator Organization for the Rule of Law,Reporter,30 Sep 2023
+Sarah,Mahmood,https://www.linkedin.com/in/sarah-mahmood-5620aa248,,Al-taawon food corporation,Recruitment Supervisor,30 Sep 2023
+akram,Qasim,https://www.linkedin.com/in/akram-qasim-3472405b,,VTech,Founder / CEO ,29 Sep 2023
+Ahang,"Ashti, (EMBA)",https://www.linkedin.com/in/ahengkurd,,grei,Co-Founder & CEO,29 Sep 2023
+Zainab,Sakhai,https://www.linkedin.com/in/zainab-sakhai-a851b5268,,Muften Holding Group,HR Manager,29 Sep 2023
+Abdalluh,Ali,https://www.linkedin.com/in/abdalluh-ali-3b5896104,,Al-Jadeed Company For Contracting & General Trading,Human Resources Manager,29 Sep 2023
+Sara,Ibrahim,https://www.linkedin.com/in/sara-ibrahim-822430201,,Al Rida Investment,Senior Recruitment Officer,29 Sep 2023
+Zainab,Muayad,https://www.linkedin.com/in/zainab-muayad-204116210,,RIGT,Human Resources Administrator,29 Sep 2023
+Rana,Mansour,https://www.linkedin.com/in/rana-mansour-6768091b0,,FFC الاولى للحلول التمويلية,Public Relations Specialist,29 Sep 2023
+Zaid,AlQazzan,https://www.linkedin.com/in/zaid-alqazzan-05164017b,,Inhouse,HR Manager,29 Sep 2023
+walaa,Altikriti,https://www.linkedin.com/in/walaa-altikriti-2bb2711b4,,العطار الدولية القابضة,Human Resources Specialist,29 Sep 2023
+Zahraa,Mohammed,https://www.linkedin.com/in/zahraa-mohammed-a71445226,,Iraqi Ministry of health,Biomedical Engineer,29 Sep 2023
+Mohammed,Zuher,https://www.linkedin.com/in/mohammed-zuher-b884a8221,,EarthLink Telecommunications,Marketing Specialist,29 Sep 2023
+Shaalan,Marwan,https://www.linkedin.com/in/shaalanmarwan,,QAF Lab,Lead Software Engineer,29 Sep 2023
+Abdullah,Kamal,https://www.linkedin.com/in/abdullah-kamal-aa7089281,,Cambridge International School - Kurdistan,Physics Teacher,29 Sep 2023
+Harith,al Hadithy,https://www.linkedin.com/in/harith-al-hadithy,,Misk Islamic Bank - مصرف مسك الإسلامي,HR Assistant Director,29 Sep 2023
+Hayder,Akab,https://www.linkedin.com/in/hayder-akab,,Zain Iraq,Director Corporate Communications,29 Sep 2023
+Muthana,Harith,https://www.linkedin.com/in/muthana-harith-8a3b111b7,,Al Rida Investment,Head of Talent Management & Recruitment,29 Sep 2023
+Lava,Kamaran,https://www.linkedin.com/in/lava-kamaran-973371234,,Sardar Group,Junior Human Resources Officer,29 Sep 2023
+Haneen,Raad,https://www.linkedin.com/in/haneen-raad-a1b5a6218,,iQ Cars,Assistant Marketing Manager,29 Sep 2023
+Doaa,Faisal,https://www.linkedin.com/in/doaa-faisal-556277219,,SWITCH®,HR Talent Management & Development & Talent Acquisition,29 Sep 2023
+Lara.,A,https://www.linkedin.com/in/lara-a-977a0849,,S.K.Co.,HR Manager,29 Sep 2023
+Zahraa,A. Hasan,https://www.linkedin.com/in/zahraa-a-hasan,,Aswar Group,Human Resources Generalist,29 Sep 2023
+Shuaib,Barzinji,https://www.linkedin.com/in/shuaib-barzinji-459895115,,PASSAR Agency,Founder & CEO,29 Sep 2023
+Peyman,Ghaderkourehpaz,https://www.linkedin.com/in/peiman-ghader-kurehpaz,,fraud0.com,Sr. Full Stack Engineer,28 Sep 2023
+Sean,Robertson MSc    شون روبرتسون,https://www.linkedin.com/in/seanfrobertson,,IN2,Chief Commercial Officer,28 Sep 2023
+Rameesha,Shafique,https://www.linkedin.com/in/rameesha-shafique-64412a19a,,Bedrock Business Outsourcing,Market Researcher,28 Sep 2023
+Ali,Mahdi Aljamali,https://www.linkedin.com/in/ali-mahdi-aljamali-420917232,,United Sections,Process Development Manager,28 Sep 2023
+Rawan,Mam Ali,https://www.linkedin.com/in/rawan-mam-ali-6a339898,,Chemonics International,Senior Grants Manager,28 Sep 2023
+ahmed,Ammar,https://www.linkedin.com/in/ahmed-ammar-422a69224,,Etihad,Talent Acquisition for HR Business Partner,28 Sep 2023
+Doaa,Abd alkarim,https://www.linkedin.com/in/doaa-abd-alkarim-505a2b161,duaa.94915@gmail.com,,,27 Sep 2023
+Ahmed,Al-Mukhtar,https://www.linkedin.com/in/ahmed-basim91,,EarthLink Telecommunications,Sr. Talent Acquisition Officer,27 Sep 2023
+Noor,Hashim,https://www.linkedin.com/in/noor-hashim-b6160755,,tamata - طماطة ,Marketing Manager,27 Sep 2023
+Anna,Lukianova,https://www.linkedin.com/in/anna-lukianova-a1ab7a100,,Wedo,Head of Marketing & Business Development,27 Sep 2023
+Reema,M. Al-Baghdadi,https://www.linkedin.com/in/reemaalbaghdadi,,BALY,Research and Strategy Analyst,27 Sep 2023
+HANEEN,AMMAR AHMED,https://www.linkedin.com/in/haneen-ammar-ahmed-7b92751bb,haneen.ammar20@gmail.com,Iraq Venture Partners,Project Coordinator,27 Sep 2023
+Ali,Al-Sharefi,https://www.linkedin.com/in/ali-al-sharefi-155b3019b,,SWITCH®,AML Compliance Officer,26 Sep 2023
+Omar,Ali,https://www.linkedin.com/in/omar-ali-b94b34171,,BMW Iraq,Certified Service Advisor,26 Sep 2023
+Ahmed,Adel,https://www.linkedin.com/in/ahmed-adel-7bb634266,,ULTRA,Operations Manager,26 Sep 2023
+Moe,Alkhafaji,https://www.linkedin.com/in/malkhafaji,,Pure Platform,Founder and CEO,26 Sep 2023
+Ahmed,Razzaq,https://www.linkedin.com/in/ahmed-razzaq-9a6ab511b,,EarthLink Telecommunications,Lead Software Developer,26 Sep 2023
+Tiffany,Spahl-Nally,https://www.linkedin.com/in/tiffany-spahl-nally,,RevEnvy,Chief Executive Officer,26 Sep 2023
+Walid,"Yassin, ACCA",https://www.linkedin.com/in/walidyassinacca,,GUPCO,Auditing Assistant Manager,26 Sep 2023
+Asma,Amin,https://www.linkedin.com/in/asma-amin-b82639121,,HMU,Research Assistant,26 Sep 2023
+Farah,Alazawi,https://www.linkedin.com/in/farah-alazawi-02a076248,,OG,Marketing Officer,26 Sep 2023
+Muhammad,Falah,https://www.linkedin.com/in/muhammad-falah-381149261,,The Engine ,Associate Researcher,26 Sep 2023
+Hussain,Salih,https://www.linkedin.com/in/shubbair,,عمل مستقل,Machine Learning Engineer & Research,26 Sep 2023
+,,,,,,26 Sep 2023
+Ayaat,Raoof,https://www.linkedin.com/in/ayaat-raoof-742b32218,,OXShare,Human Resources Manager,26 Sep 2023
+Jawad ,Al-Samarraie,https://www.linkedin.com/in/jawad-al-samarraie-81bb701a4,,TIC Quality Control,Junior Quality Consultant,26 Sep 2023
+Hayder,Jaafar,https://www.linkedin.com/in/hayder-jaafar-bb5a9096,,Cooldown CyberCafe,"Co-Founder, Executive Director",25 Sep 2023
+Basima,Abdulrahman,https://www.linkedin.com/in/basima-abdulrahman,,KESK,Founder & CEO,25 Sep 2023
+Zahraa,Qassem,https://www.linkedin.com/in/zahraa-qassem,,IQ Dev House,Frontend Developer,24 Sep 2023
+Kanar,Adil,https://www.linkedin.com/in/kanar-adil-a30544180,,BALY,Data Analyst,24 Sep 2023
+Kawther,AlMalaki,https://www.linkedin.com/in/kawther-almalaki-5423a4115,,Mercy Corps,Regional Gender Equality and Social Inclusion Advisor,24 Sep 2023
+Moslim,Aqeel Al-Hattab,https://www.linkedin.com/in/moslim-aqeel-al-hattab,,Khana Jobs,Chief Executive Officer,24 Sep 2023
+Sara,Abdullah,https://www.linkedin.com/in/sara-abdullah-365313212,,Visit Kurdistan,Account Manager,24 Sep 2023
+Salim,Ba,https://www.linkedin.com/in/salim-baira,salim.baira@gmail.com,IN2,Head of Programme,24 Sep 2023
+Aliya,Jameel,https://www.linkedin.com/in/aliya-jameel-30b19b261,,JRS (Jesuit Refugee Service),Social Worker ,24 Sep 2023
+Treska,Ali,https://www.linkedin.com/in/treskaali,,Sardar Group,Junior MIS Executive ,24 Sep 2023
+Marwah,Alnoaime,https://www.linkedin.com/in/marwah-alnoaime-3b0bab237,,Freelance,Trainer for green skills ,24 Sep 2023
+saif,neamah,https://www.linkedin.com/in/saif-neamah-72a31224a,,Post Agency,Graphic Designer,24 Sep 2023
+Rana,Alghazal,https://www.linkedin.com/in/rana-alghazal-90845b120,,Expertise France,Gender Expert,24 Sep 2023
+Ahmad,Zahdeh,https://www.linkedin.com/in/ahmadzahdeh,,IN2,Graphic Designer,24 Sep 2023
+Amira,Helal,https://www.linkedin.com/in/amira-helal-6980a4228,,Mansoura University,Salesperson,24 Sep 2023
+Abbas,Ahmed,https://www.linkedin.com/in/abbas-ahmed-b4b356118,,Baghdad Medical City,Resident Doctor,23 Sep 2023
+Ameer,Alsudani,https://www.linkedin.com/in/ameer-alsudani-88203a1b1,,HSA,Software Developer,23 Sep 2023
+Ali,Abo-Jadya,https://www.linkedin.com/in/ali-abojadya,,IN2,Data Analytics Researcher,23 Sep 2023
+Bushra,Idrees,https://www.linkedin.com/in/bushra-idrees-875824268,,PAKY Hospital / مستشفی پاکي / نەخۆشخانەی پاکی,Clinical Nutritionist,23 Sep 2023
+ALI,MULLA,https://www.linkedin.com/in/ali-mulla-0ab4aa260,,UN Environment Programme,National Program Consultant ,23 Sep 2023
+Zainab,Faris,https://www.linkedin.com/in/zainab-faris-1b5339225,,Al-Yarmouk teaching hospital,Medical instrumentation engineer,23 Sep 2023
+Rawan ,Barzan ,https://www.linkedin.com/in/rawan-barzan-210a8a156,,IN2,Senior Socio-Political Research Analyst ,23 Sep 2023
+Hajar,Muthana,https://www.linkedin.com/in/hajar-muthana,,Somer.iq,Performance Marketing Executive,23 Sep 2023
+Baha (Bahaeddin),Nakiboglu,https://www.linkedin.com/in/bahaeddin,,Affiliate Marketing,Serial Affiliate Marketer | Profit-Driven Affiliate Strategist,22 Sep 2023
+Ali,Hamid,https://www.linkedin.com/in/ellyhamidsm,,EarthLink Telecommunications,Global Network Security Section Head,22 Sep 2023
+Hasan,Mudafer,https://www.linkedin.com/in/hasan-m-mudafer,,Sindibad,Customer partner agent,22 Sep 2023
+Ibrahim,Alkhatib,https://www.linkedin.com/in/ibrahim-alkhatib-86523b19a,,Iraq Green Building Council,Chairman,22 Sep 2023
+Abdulaziz,Alsaleh .. CIPD / GRP,https://www.linkedin.com/in/abdulaziz-alsaleh-cipd-grp-305872129,,المركز الوطني للتعليم الإلكتروني | National eLearning Center ,Organizational Development Manager,22 Sep 2023
+Badr,"AlGhamdi - ACIM, MSA",https://www.linkedin.com/in/badr-a-4955b158,,"Zakat, Tax and Customs Authority",Government Partnerships Director,22 Sep 2023
+Shahad,Ahmed,https://www.linkedin.com/in/shahad-ahmed-7a23b128a,,QiCard,Project Manager,21 Sep 2023
+Ahmad,Abuazza,https://www.linkedin.com/in/ahmadabuazza,,Careem,Smart Mobility-KSA,21 Sep 2023
+Abdullatif,Sleibi,https://www.linkedin.com/in/abdullatif-sleibi-02776616a,,PAX for peace,Senior - Data Analyst & Project Officer,21 Sep 2023
+Esraa,N.alhamadany,https://www.linkedin.com/in/esraa-n-alhamadany-5349b7209,,Horizon Scope Telecom,Marketing and planning Specialist,21 Sep 2023
+Kateryna,Shyrokova,https://www.linkedin.com/in/katerynashyrokova,,Powercoders,Bootcamp Participant,21 Sep 2023
+Munaf,Ahmed,https://www.linkedin.com/in/munaf-ahmed-b79450ba,,Qualitynet,Iraq Bid Manager,21 Sep 2023
+Farah,Afef,https://www.linkedin.com/in/farah-afef,,Fasila agency ,Social Media Specialist,20 Sep 2023
+Hayder,Kareem,https://www.linkedin.com/in/hayder-kareem,,Daw Alfada,Founder and CEO,20 Sep 2023
+Ahmed,Almoosawi ,https://www.linkedin.com/in/ahmed-almoosawi-6702a0b8,,Human Capital Iraq,Executive Officer,20 Sep 2023
+Raber,Talaat,https://www.linkedin.com/in/raber-talaat-b2531874,,Sbey Research,Director,20 Sep 2023
+Abdullah,şükür,https://www.linkedin.com/in/abdullah-%C5%9F%C3%BCk%C3%BCr-705351203,,Mercure Dmc Travel Turkiye,Co-Chief Executive Officer,20 Sep 2023
+Mohammed,Esmail,https://www.linkedin.com/in/mohammed-esmail-750b531a7,,AKA Power ( AKA FITNESS ),Software Engineer,20 Sep 2023
+Mohammed,Seror,https://www.linkedin.com/in/mohammed-seror-06992a130,,talabat,Specialist Talent Acquisition,20 Sep 2023
+Rezgar,Mohammed,https://www.linkedin.com/in/rezgar-mohammed-23666662,,University of Duhok,Associate Professor,20 Sep 2023
+Ali,Saad,https://www.linkedin.com/in/ali-saad-730985258,,Asiacell Communications PJSC,Social Media Ambassador,20 Sep 2023
+AlaaEldin,Elgobbah,https://www.linkedin.com/in/alaaelgobbah,,InkWell,CEO & Co-Founder,19 Sep 2023
+Laith,Raaed,https://www.linkedin.com/in/laith-raaed-899361134,,NorthLadder,Head of dealers network,19 Sep 2023
+Wajeeh,Zain,https://www.linkedin.com/in/wajeehz,,QiCard,Sr. Financial Data Analyst,19 Sep 2023
+Ahmed,Mudher,https://www.linkedin.com/in/ahmed-mudher-56b759190,,Asiacell Communications PJSC,Customer Service Agent,19 Sep 2023
+Guled K,Abdi,https://www.linkedin.com/in/guled-k-abdi,,,,19 Sep 2023
+Hussein,Hamed,https://www.linkedin.com/in/hussein-hamed-746b05207,,MFN Art & Entertainment,Co-Founder,19 Sep 2023
+Amina,Yaqoob,https://www.linkedin.com/in/amina-yaqoob-4b3123250,,Oxfam,MEAL Assistant ,19 Sep 2023
+Bahast,Mohammed Baba Ali,https://www.linkedin.com/in/bahast-muhammed-babaali00,,mselect,Office Administrator,19 Sep 2023
+Yousif,Alneamy,https://www.linkedin.com/in/yousifalneamy,,Falaq - فلق,Co-founder at Falaq,19 Sep 2023
+Batool,K. Hamdi,https://www.linkedin.com/in/batoolhamdi1999,,Médecins Sans Frontières Belgium,Head of Mission Support ,19 Sep 2023
+Asmaa,Khalid,https://www.linkedin.com/in/asmaa-khalid-abdulrazzaq,,Sagerlabs,Marketing Communications Intern,19 Sep 2023
+Sun,Lau,https://www.linkedin.com/in/sun-lau,,Uni-China (Market) Management Ltd.,Senior Business Control Manager,19 Sep 2023
+Mehmet,Yuksel,https://www.linkedin.com/in/yukselmehmet,,Missafir,Founder & CEO,19 Sep 2023
+Inès,Khalifa,https://www.linkedin.com/in/in%C3%A8s-khalifa-a6821b56,,Freelance,Mediation and Negotiation Consultant,19 Sep 2023
+Turgut,Guney,https://www.linkedin.com/in/turgut-guney,,Chatty,Founder of Chatty,19 Sep 2023
+Sadeq,Almoayed,https://www.linkedin.com/in/sadeq-almoayed,,1001,Commercial and Strategy Analyst,19 Sep 2023
+Ismael,Issa,https://www.linkedin.com/in/ismael-issa-a80881288,,SAPCO GROUP,Sales Engineer,19 Sep 2023
+Shumoos Ghanim,Jaber,https://www.linkedin.com/in/shumoosghanim,,European Commission,Programme Manager - EU Delegation to Iraq,19 Sep 2023
+Goran,"Mutalib, MBA",https://www.linkedin.com/in/goranmutalib,,Azady Industries ,HR & Admin Manager,19 Sep 2023
+Cem,Otkun,https://www.linkedin.com/in/cemotkun,,Bounce Watch,Co-Founder & CEO,18 Sep 2023
+Saja,Albanaa,https://www.linkedin.com/in/sajaalbanaa,,"Department of surgery, University of Baghdad, College of Medicine",Teaching Assistant,18 Sep 2023
+Ahmed,Siddiqui,https://www.linkedin.com/in/siddiquiahmed,,Branch,Product,18 Sep 2023
+Mahmoud,Ghazi,https://www.linkedin.com/in/mahmoud-ghazi-686b88216,,Akad adv,Marketing Manager,18 Sep 2023
+Alyaarub,Omar,https://www.linkedin.com/in/alyaarub-omar-738a45249,,MEDWR,Founder,18 Sep 2023
+Layth,Hussein,https://www.linkedin.com/in/laith7ussein,,Mediazan,Chief Technology Officer,18 Sep 2023
+Ahmed,Al Jasim,https://www.linkedin.com/in/ahmed-al-jasim-5b0786115,,Medico Store,Chief Executive Officer,18 Sep 2023
+Wisam,Ali,https://www.linkedin.com/in/wisam-ali-250066167,,BMW Iraq,Sales projects officer,18 Sep 2023
+Dashty,Mustafa,https://www.linkedin.com/in/dashty-mustafa-56702114b,,Korek Telecom,Data Analyst,18 Sep 2023
+Zaid,Al-Zamili,https://www.linkedin.com/in/zaid-alzamili,,Saleem | سليم,Chief Technology Officer,18 Sep 2023
+ALI,EMAD,https://www.linkedin.com/in/ali-emad-81831b26a,,Miswag,Team Leader,18 Sep 2023
+Warqaa,Lowi,https://www.linkedin.com/in/warqaa-lowi-7a0a22274,,sonu3 mahhali صنع محلي,Founder and Creative Content Creator,18 Sep 2023
+Leen,Abou Taka,https://www.linkedin.com/in/leen-abou-taka,,PFC International,Human Resources Officer,18 Sep 2023
+Zaid,Basim,https://www.linkedin.com/in/zaid-basim-a8a26a1b4,,Alandalus private hospital,IT Manager,17 Sep 2023
+Dunya,Salih,https://www.linkedin.com/in/dunya-salih-072780181,,Kirklees Museums and Galleries,Researcher,17 Sep 2023
+Raed,Matti,https://www.linkedin.com/in/raedmatti,,QiCard,Business Analyst,17 Sep 2023
+Hayman,Awrahim,https://www.linkedin.com/in/hayman-awrahim-58643836,,Euromonitor International,In-Country Analyst ,17 Sep 2023
+Iman,Adil,https://www.linkedin.com/in/iman-adil99,,Ninevah University,Engineer|Laboratory Teaching Assistant,17 Sep 2023
+Md. Adnan,Faizee,https://www.linkedin.com/in/adnan-faizee-rishi,,IFIC BANK PLC,Management Trainee,17 Sep 2023
+Mustafa,Fuad,https://www.linkedin.com/in/mustafa-fuad-43b8a51ba,,Karwanchi Group مجموعة كرونجي,Payroll Specialist,17 Sep 2023
+Mobasher,Mohmmad,https://www.linkedin.com/in/mobasher-mohmmad-355109211,,QAF Lab,Project Coordinator,17 Sep 2023
+Buroj,Omar ,https://www.linkedin.com/in/buroj-omar-557761207,,Uruk Wall,Co-Founder,17 Sep 2023
+Ibrahim,Salah,https://www.linkedin.com/in/ibrahim-salah-9371a4119,,Parla Marketing,Founder & CEO,17 Sep 2023
+Abdallh,Bashar,https://www.linkedin.com/in/abdallh-bashar-1729261b8,,Tamayouz Excellence Award,National Ambassador ,17 Sep 2023
+Rayan,Ahmadieh,https://www.linkedin.com/in/rayan-ahmadieh-374377234,,Lebanese Red Cross,Finance Committee,17 Sep 2023
+Muhanad,Habba,https://www.linkedin.com/in/muhanad-habba,,The Khana,Marketing Specialist,17 Sep 2023
+Ezzulddin,Salman,https://www.linkedin.com/in/ezzulddin-salman-179aa5152,,BALY,Group Research and Strategy Lead,16 Sep 2023
+Mariam,Mohammed,https://www.linkedin.com/in/mariam-mohammed,mazabtex@gmail.com,AHK Iraq,Marketing Manager,15 Sep 2023
+Mohammed A.,Hussein,https://www.linkedin.com/in/mohammed-a-hussein-2104601b6,,LALIGA,Commercial and partnership strategist,15 Sep 2023
+Fadi,Alwash,https://www.linkedin.com/in/fadialwash,,KAPITA Business Hub,Digital Marketing Officer ,15 Sep 2023
+Ali,Bayati,https://www.linkedin.com/in/alibayati,bayatiali03@gmail.com,Atras Tejarat arwin Trading Company,Company Owner,14 Sep 2023
+Munqith,Alazzawi Ph.D.,https://www.linkedin.com/in/munqithalazzawi,,BALY,Vice President Operations,14 Sep 2023
+Ameen,Aljubouri,https://www.linkedin.com/in/ameen-a-145889183,,Al Mustashar Islamic Bank مصرف المستشار الأسلامي,Human Resources Generalist,14 Sep 2023
+حسين,سلام,https://www.linkedin.com/in/husseinsalma,,m ,Copywriter,14 Sep 2023
+Soma,Ferman,https://www.linkedin.com/in/soma-ferman-679226156,,Missions Publiques,Fellow Member,11 Sep 2023
+yahya,abd,https://www.linkedin.com/in/yahya-abd-22815493,,Kar group company,Data Analyst,11 Sep 2023
+Karam,Robeil,https://www.linkedin.com/in/karam-robeil-151840179,,Institute of Regional and International Studies,Research Associate,11 Sep 2023
+Jean-Luc,Marcelin,https://www.linkedin.com/in/jeanlucmarcelin,,UNDP,Talent Acquisition and Partnership Specialist,11 Sep 2023
+Aryan,Govil,https://www.linkedin.com/in/aryangovil,,Synaptrix Labs,Founder,11 Sep 2023
+Mustafa,Mawla,https://www.linkedin.com/in/mustafa-mawla-1b4378a6,,tamata - طماطة ,Business Analyst,10 Sep 2023
+Fareeha,Amjad,https://www.linkedin.com/in/fareeha-amjad,,UN City Copenhagen,(Junior) Multimedia Consultant,10 Sep 2023
+Mahdi,Al Haideri,https://www.linkedin.com/in/mahdi-al-haideri-35a893b3,,ALRAFFSH Advertising,Founder,10 Sep 2023
+Sajjad,Thaer,https://www.linkedin.com/in/sajjad-thaer-837b03178,,Digital Zone,Data Analyst,09 Sep 2023
+Halo,Hassan,https://www.linkedin.com/in/halohassan,,Prime Group Co,Owner,09 Sep 2023
+MUROOJ,MOHAMMAD,https://www.linkedin.com/in/murooj-mohammad-257519171,, شبكة باحثي مركز المنصة للتنمية المستدامة,Researcher,08 Sep 2023
+Mariam,Sabah,https://www.linkedin.com/in/mariam-sabah-946791186,,KAPITA Business Hub,Data Analyst,08 Sep 2023
+,,,,,,08 Sep 2023
+Abdulrahman,Ali,https://www.linkedin.com/in/abdulrahman-ali-3bb27a1aa,,Sindibad,Commercial Generalist,08 Sep 2023
+Yuliia,Novikova,https://www.linkedin.com/in/ynovikova,,ACCA,Student,08 Sep 2023
+Sofia,Kopetska,https://www.linkedin.com/in/sofia-kopetska-536789232,,appflame,Middle Influencer Marketing Manager,08 Sep 2023
+Hassan,Safaa,https://www.linkedin.com/in/hassan-safaa-00ba12163,,Iraqi Franchise,Marketing Manager,08 Sep 2023
+Gaelle,Gakavian,https://www.linkedin.com/in/gaelle-gakavian,,Five One Invest,Program Assistant,07 Sep 2023
+Omar,Alshogre,https://www.linkedin.com/in/omaralshogre,omar.alshogre@gmail.com,Syrian Emergency Task Force,Project Manager,06 Sep 2023
+Abdullah,Sabah,https://www.linkedin.com/in/abdullah-sabah-a284841b9,,Al-Yarmouk Teaching Hospital,Internal Medicine Resident,05 Sep 2023
+Maha,Yassin,https://www.linkedin.com/in/maha-yassin-54474543,,Free Press Unlimited,Senior Programme Officer - MENA Region,05 Sep 2023
+ABBAS,ALSHARIFI,https://www.linkedin.com/in/abbas-alsharifi-569b9b226,,ALSHARIFI FOR GENERAL TRADING ,Business Owner,04 Sep 2023
+Fatima,Abbas,https://www.linkedin.com/in/fatima-abbas-20b17022a,,Waffir - وفِّر,Copywriter,04 Sep 2023
+Shahad,Al-Rikabi,https://www.linkedin.com/in/shahad-al-rikabi,,Alma Mater Studiorum – Università di Bologna,PhD Student,04 Sep 2023
+Shanga ,Saadallah,https://www.linkedin.com/in/shanga-saadallah-177a63126,,Tevin Data,Co-Founder & Data Analyst,04 Sep 2023
+Falah,Kamil,https://www.linkedin.com/in/falah-kamil-855351a8,, Federation of Chambers of Commerce,Director of Entrepreneurship  ,04 Sep 2023
+Anas,Mahmood,https://www.linkedin.com/in/anas-mahmood-9b8a59286,,,,03 Sep 2023
+Raghad,Maher,https://www.linkedin.com/in/raghad-maher-ba1349117,,Asiacell Communications PJSC,Talent MGT Sr Expert,03 Sep 2023
+Noor,Al-Naser,https://www.linkedin.com/in/noor-al-naser-134846b8,,United Nations Office of Counter-Terrorism,Senior Officer - Programme Management,03 Sep 2023
+Zaid,Falih,https://www.linkedin.com/in/zaid-falih-26b232228,,Abwaab,Data Analyst,03 Sep 2023
+Arish,Omar,https://www.linkedin.com/in/arish-omar,,Mediam Group ,"Senior Client Partner, Google",03 Sep 2023
+Yasameen,"Thaer, MBA",https://www.linkedin.com/in/yasameenthaer,,VMLY&R,Sr. Digital Insight Analyst,03 Sep 2023
+Abdullah,Al-Masoudi,https://www.linkedin.com/in/abodyz,,tamata - طماطة ,Content Creator and Copywriter ,03 Sep 2023
+Mario,Makary,https://www.linkedin.com/in/mario-makary-42533014,,Visa,Vice President - Levant,02 Sep 2023
+Zahraa,al faisaly,https://www.linkedin.com/in/zahraa-al-faisaly-352a23196,,ZainCash,Talent Acquisition Recruiter,02 Sep 2023
+Sajjad,Adil,https://www.linkedin.com/in/sajjad-adil,,Health 360,IT Support,01 Sep 2023
+Afeaa,Khudur,https://www.linkedin.com/in/afeaa-khudur-301386249,,NASS AL-IRAQ HOLDING,Frontend Developer,01 Sep 2023
+Mustafa Tariq,Alqaissi,https://www.linkedin.com/in/mustafa-tariq-alqaissi,,Boxy,Senior Marketing Specialist,01 Sep 2023
+Rahmah,Fadhil,https://www.linkedin.com/in/rahmah-fadhil,,Al-Noor University College,Information Technology Coordinator,01 Sep 2023
+Maryam,Alfakhrey,https://www.linkedin.com/in/maryam-alfakhrey,,QAF Lab,Programs Manager,01 Sep 2023
+Janna,Firas,https://www.linkedin.com/in/janna-firas,,The Station المحطة,Senior Programs Officer,31 Aug 2023
+Hind,Abdulrahman,https://www.linkedin.com/in/hind-abdulrahman-343492aa,,IOM - UN Migration,National partnership officer,31 Aug 2023
+Zubaidah,Bilal,https://www.linkedin.com/in/zubaidah-bilal,,University of Baghdad,Assistant Engineer,31 Aug 2023
+jaafar,alrummani,https://www.linkedin.com/in/jaafar-hussein,,Almansour pharmaceuticals,Production Supervisor,29 Aug 2023
+Skalla,Balisany ,https://www.linkedin.com/in/skalla-balisany-b4ab10250,,KESK,Sales Business Development,28 Aug 2023
+Speda,Kardo,https://www.linkedin.com/in/speda-kardo-345b771a5,,Future Citizen,Self Development Trainer,28 Aug 2023
+Ahmed Dawood,Salman,https://www.linkedin.com/in/ahmed-dawood-salman,,UC San Diego Extended Studies,Program Manager for Technology and Engineering,27 Aug 2023
+saja,qahtan,https://www.linkedin.com/in/saja-qahtan,,Abr Alsharq Petroleum Services,Logistics Coordinator,27 Aug 2023
+Lara R. ,Saadallah,https://www.linkedin.com/in/geshben,,Tornet Co.,Vuejs specialist,26 Aug 2023
+Yasir Talal,.,https://www.linkedin.com/in/yasir-talal-981a76199,,Wasla-وصلة,Co-founder • Managing director ,26 Aug 2023
+Tina,Karim Rash,https://www.linkedin.com/in/tina-karim-rash-1903a9140,,World Food Programme,Training and Capacity Development Officer,26 Aug 2023
+Yasir,Aldulaimi,https://www.linkedin.com/in/yasir-aldulaimi-005482249,,ADIB - Abu Dhabi Islamic Bank,Branch Support Specialist,25 Aug 2023
+Rand,Alattar,https://www.linkedin.com/in/rand-alattar,,Mosul Space,Finance and Admin coordinator,25 Aug 2023
+Ghadeer,Husni,https://www.linkedin.com/in/ghadeerhusni9,,Waad Orgnizaion - منظمة وعد للتنمية الشبابية,Program Coordinator/Translator ,24 Aug 2023
+Mohammed,Raed,https://www.linkedin.com/in/mohammed-raed-637641135,,SWITCH®,Head of Unit E-payment and Online channels,24 Aug 2023
+Mohammed,Hallaj,https://www.linkedin.com/in/mohammed-hallaj-2b7888143,,Hallaj Creatives,Founder,23 Aug 2023
+Mustafa,Al-Ashaa,https://www.linkedin.com/in/mustafa-al-ashaa-420260226,,AUIB FM,Radio Presenter,23 Aug 2023
+Mohammad,alqatan,https://www.linkedin.com/in/mohammad-alqatan-99055a1a0,,Mosul solar لانظمة الطاقة الشمسية ,المدير التنفيذي,23 Aug 2023
+Adel,"AlOmairi, PhD",https://www.linkedin.com/in/adel-alomairi,,Al Warkaa International Company for Medical Devices,Managing Director,22 Aug 2023
+Mohd,Santarissy,https://www.linkedin.com/in/mohsantarissy,,Founder Institute,Regional Director,22 Aug 2023
+Mohammed,Almoumin,https://www.linkedin.com/in/mohammed-almoumin,,DW Akademie,Digital media trainer,21 Aug 2023
+Fatima,Alatar,https://www.linkedin.com/in/fatima-alatar-00122b173,,Ahjaz tabibak app,Founder,21 Aug 2023
+Amin,Salim,https://www.linkedin.com/in/amin-salim-7aabb5207,,Miswag,Chief Financial Officer,21 Aug 2023
+Rania,Akram,https://www.linkedin.com/in/rania-akram-ab76001b5,,KAPITA Business Hub,Senior Program Analyst,21 Aug 2023
+Abdulrhman,Abdulkareem,https://www.linkedin.com/in/abdulrhman-abdulkareem-eco,,Baghdad Game Lab,Project Manager,21 Aug 2023
+Mariam,Ayad,https://www.linkedin.com/in/mariam-ayad-,,Five One Labs,Junior Program Officer,20 Aug 2023
+Dr.Adnan,Almadi,https://www.linkedin.com/in/dr-adnan-almadi-759a24239,,تداوي للرعاية الصحية,Co founder / CEO,20 Aug 2023
+Aya,Almahdi,https://www.linkedin.com/in/aya-almahdi,,KAPITA Business Hub,Senior Development Analyst,20 Aug 2023
+..Khalidah,A.Majed Ahmed,https://www.linkedin.com/in/khalidah-a-b05836215,,KAPITA Business Hub,HR Associate,20 Aug 2023
+Anmar,Ahmed,https://www.linkedin.com/in/anmar-ahmed-49858419a,,ODD Agency,Digital Marketing Manager,19 Aug 2023
+Imama,Obaida,https://www.linkedin.com/in/imama-obaida-9ab733112,,UNDP,Programme Coordinator ,19 Aug 2023
+"J. William ""Bill""",DeMarco,https://www.linkedin.com/in/m100group,,Air University,"Director, Innovation and Analysis A39 (AUiX)",19 Aug 2023
+Hiba,Sattar,https://www.linkedin.com/in/hibasattar,,Be My Eyes,Volunteer,19 Aug 2023
+Aymen,Al Juboori,https://www.linkedin.com/in/aymen-al-juboori-20446680,,Aymen Mahdi AlJuboori & Partners,شركة ايمن مهدي الجبوري وشركاؤه للخدمات القانونية والمالية والمحاماه,19 Aug 2023
+Tahseen,Hasan Ahmed,https://www.linkedin.com/in/tahseen-hasan-ahmed-0569a31a0,,Mercy Corps,Intervention Lead – Agricultural Market Development,19 Aug 2023
+Noor,Assad,https://www.linkedin.com/in/noorassad,,Doinc,Product Development Associate,18 Aug 2023
+Sama A.,Abedi,https://www.linkedin.com/in/samaabedi,,CoWork.rent,Marketing Manager,18 Aug 2023
+Mouj ,Sattar,https://www.linkedin.com/in/mouj-sattar-39961a260,,KAPITA Business Hub,Accountant,18 Aug 2023
+,,,,,,18 Aug 2023
+Jabreel,Hanoon,https://www.linkedin.com/in/jabreelah,,UNDP Iraq,Trainee,18 Aug 2023
+Anas,Alchalabi,https://www.linkedin.com/in/anasalchalabi,,The World Bank,Private Sector and Financial Sector Specialist,17 Aug 2023
+Muklah,Naji,https://www.linkedin.com/in/muklah-naji-664a5485,,Computiq - كومبيوتك,Co-Founder & CEO,17 Aug 2023
+Karam,Al Snjarae,https://www.linkedin.com/in/karam-al-snjarae-106531154,,Shopini express,Mosul branch manager,17 Aug 2023
+Noor,Mousa,https://www.linkedin.com/in/noormusah,,Norwegian Refugee Council,Policy & Communication Manager,17 Aug 2023
+Dr.Mouath Salim,Alrawii,https://www.linkedin.com/in/dr-mouath-salim-alrawii-42218a91,,International Academy for Leadership and Development (IALD),President,17 Aug 2023
+Laith A.,Ali,https://www.linkedin.com/in/laith-a-ali-a403029a,,QiCard,Finance Manager - Group Investments ,17 Aug 2023
+Mohammed,Alyasiri,https://www.linkedin.com/in/mohammed-alyasiri-7aaa4691,,Sodexo Live!,Human Resources Generalist,17 Aug 2023
+Hasan,Mustafa,https://www.linkedin.com/in/hasan-mustafa-4813951b2,,Tina Company,Marketing Specialist,17 Aug 2023
+Basma,Al-qadhi,https://www.linkedin.com/in/basma-al-qadhi-36b08b24b,,ZainCash,Wallet Card Management - Officer,17 Aug 2023
+Motaz,Ali,https://www.linkedin.com/in/motaz-ali-31743621b,,BALY,Back End Developer,17 Aug 2023
+Sara,Yousif سارة يوسف,https://www.linkedin.com/in/sara-yousif-,,Business by Design,Business Developer,17 Aug 2023
+Hala,Nihad,https://www.linkedin.com/in/hala-nihad-334b9529,,iQ Group,HR Manager,17 Aug 2023
+Hussein,Alamshawi,https://www.linkedin.com/in/hussein-alamshawi-735bb9155,,Memac Ogilvy,Content Creator,16 Aug 2023
+Zana,Ahmed,https://www.linkedin.com/in/zanamahmood,,Enlightors,Founder & CEO ,16 Aug 2023
+Jylan,Ameen,https://www.linkedin.com/in/jylan-ameen-852412176,,Coca-Cola CCI,Human Resources Specialist,16 Aug 2023
+Mohammed,Taqi,https://www.linkedin.com/in/mohammed-taqi-165085203,,Miswag,Android Engineer,16 Aug 2023
+Amna,Akram,https://www.linkedin.com/in/amnaakram0,,Digital Zone,Marketing Manager,16 Aug 2023
+Rawan Ahmed,Alzaidi,https://www.linkedin.com/in/rawan-ahmed-alzaidi-203509152,rawanalzaidi97@gmail.com,"Al-Nakhla for agricultural and livestock production, L.L.C",Board Member,16 Aug 2023
+Mohammed,Moaayed,https://www.linkedin.com/in/mohammedmoaayed,,UNDP,Project Coordinator,16 Aug 2023
+Ayat,Farazdaq,https://www.linkedin.com/in/ayat-farazdaq,,Coca-Cola CCI,Order Operations Associate,16 Aug 2023
+Muslim,Qazimi,https://www.linkedin.com/in/muslim-qazimi,,UN-Habitat (United Nations Human Settlements Programme),Head of UN-Habitat Iraq & Yemen (acting) ,16 Aug 2023
+Hussein,Hanary,https://www.linkedin.com/in/hussein-hanary-4785a26a,,Toyota Iraq,Human Resources General Manager,16 Aug 2023
+Haider,Shabaan,https://www.linkedin.com/in/haider-shabaan-21a4121a6,,Ta3leem | تعليم,Sales Team Lead,16 Aug 2023
+Hussain,Muttar,https://www.linkedin.com/in/hussain-muttar-773b61282,,American University of Iraq - Baghdad,Simultaneous interpreter,16 Aug 2023
+Zana,Omar,https://www.linkedin.com/in/zana-omar-04b794139,,UNDP Iraq,Project Officer,16 Aug 2023
+Mustafa,A. Ali,https://www.linkedin.com/in/mustafa-a-ali-720175237,,UNDP,Project Associate,16 Aug 2023
+Awan,AL-Zangana,https://www.linkedin.com/in/awan-al-zangana-1142aa128,,Atomic Habits Club,Founder,16 Aug 2023
+Ahmed,Alhareeri,https://www.linkedin.com/in/ahmed-alhareeri-0488a913a,,Elnukhba Engineering Company شركة النخبة الهندسية,Training Center Manager,15 Aug 2023
+Muntadher Alabdaly,منتظر العبدلي,https://www.linkedin.com/in/muntadheralabdaly,,World Learning,Regional Program Assistant,15 Aug 2023
+Azad,Hassan,https://www.linkedin.com/in/azadhassan,,LVNG+,Head of Strategy,15 Aug 2023
+Ahmed,Besman,https://www.linkedin.com/in/ahmed-besman,,Kaso Group,Marketing Director,15 Aug 2023
+Hayde,Dizeyi,https://www.linkedin.com/in/hayde-dizeyi-329680274,,Fastlink Telecom - Official,Product Manager,15 Aug 2023
+Zahraa,Albachachy,https://www.linkedin.com/in/zahraa-albachachy-3a1513a1,,Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH,Economic Policy Advisor in Strengthening Economic Transformation (SET) Project,15 Aug 2023
+Budoor,Khazaal,https://www.linkedin.com/in/bedorkhazal,,Baghdad Provincial Council,English Language Trainer,15 Aug 2023
+Fatima,Ahmed,https://www.linkedin.com/in/fatima-ahmed-57975223b,,Lelav,"Executive Director, Lelav",15 Aug 2023
+Leqaa,Matar,https://www.linkedin.com/in/leqaa-matar-b07b92235,,BUTTER WORLD,Volunteer,15 Aug 2023
+Twana,Kamal,https://www.linkedin.com/in/twana-kamal-b0812915b,,UN-Habitat (United Nations Human Settlements Programme),Programme Associate,15 Aug 2023
+Abdullah,Hassan ,https://www.linkedin.com/in/abdullah-hassan-57b274192,,Goethe-Universität Frankfurt a. Main,PhD Candidate,15 Aug 2023
+Sura,Najm,https://www.linkedin.com/in/sura-najm-523411147,,Multimedia Agency,Human Resources Director,15 Aug 2023
+Mohammed,Hilal,https://www.linkedin.com/in/mohammed-hilal-2b015920b,,Zain Iraq,Direct Sales Customer Service Representative,14 Aug 2023
+Ahmed,Khamas ALSaadi,https://www.linkedin.com/in/ahmed-khamas-alsaadi-848869235,,NorthLadder,Team Lead,14 Aug 2023
+Sarah,Hayder,https://www.linkedin.com/in/sarah-hayder,,Inhouse,Marketing Manager,14 Aug 2023
+Khalid,Rawi,https://www.linkedin.com/in/khalid-rawi,,The Station المحطة,Program Specialist,14 Aug 2023
+Elaph,Ahmed,https://www.linkedin.com/in/elaph-ahmed-754854234,,QiCard,Network Operation Center| Fraud Monitoring Analyst,14 Aug 2023
+Zaid,Alaa,https://www.linkedin.com/in/zaid-alaa-1b965525b,,Murny,Project Manager,14 Aug 2023
+AlHassan,Mazin,https://www.linkedin.com/in/alhassan-mazin-0a3198105,,BASRAH ENERGY FZC,Business Development Lead,13 Aug 2023
+Zahraa,Sarraf,https://www.linkedin.com/in/zahraa-sarraf,,Médecins du Monde,Program Manager,13 Aug 2023
+Mateen,Fakhree,https://www.linkedin.com/in/mateenfakhree,mateenbarzani7@gmail.com,Fercademy,CEO,13 Aug 2023
+Passant,Faheem,https://www.linkedin.com/in/passant-faheem-a19357223,,Riba Haus,Co-Founder & CEO ,12 Aug 2023
+Aws A.,Saeed,https://www.linkedin.com/in/aws-a-saeed-12153560,,Rabee Securities,Deputy CEO & Board Member,12 Aug 2023
+Muhannad,AlQaissy,https://www.linkedin.com/in/muhannad-alqaissy-43b457142,,First Iraqi Bank,PMO Manager,12 Aug 2023
+Amina,Judi,https://www.linkedin.com/in/amina-judi,,Business by Design,Account Manager,12 Aug 2023
+Basim,Mahmood,https://www.linkedin.com/in/basim-mahmood-1bb95847,,University of Mosul,Associate Professor,12 Aug 2023
+Sozy,Nadir,https://www.linkedin.com/in/sozy-nadir-247360234,,"Millennium Hotels and Resorts, Sulaimani",Cluster Sales Coordinator,11 Aug 2023
+Elaf Ali,Hussein,https://www.linkedin.com/in/elaf-ali-hussein-042092221,the.divergent.olaf@gmail.com,United Nations,National Youth Consultant,11 Aug 2023
+Zahraa,Mahmood Salih,https://www.linkedin.com/in/zahraa-mahmood,,1001,Backend Engineer,11 Aug 2023
+Ammar,Yousif,https://www.linkedin.com/in/ammar-yousif-31029051,,Freelance,Business Consultant - Product Development,11 Aug 2023
+Amanj,Ali,https://www.linkedin.com/in/amanjali,,Next Step Fair,Co Organizer,11 Aug 2023
+Rawen,Hemin,https://www.linkedin.com/in/rawen-hemin-0172991b6,,World Economic Forum,Curator,10 Aug 2023
+Ibrahim,Al-Zararee,https://www.linkedin.com/in/izararee,,Miswag,Head of Product & Growth,10 Aug 2023
+Sufian,N. Alarbili ,https://www.linkedin.com/in/sufian-n-alarbili,,MAX,Graphic Designer,10 Aug 2023
+Mohammed,Hameed,https://www.linkedin.com/in/mohammed-hameed-b59b35181,,KAPITA Business Hub,Programs Manager,10 Aug 2023
+Duha,Faris,https://www.linkedin.com/in/duha-faris-59b120250,, The Ambassador Newspaper,Editor,10 Aug 2023
+Zaid,Daher,https://www.linkedin.com/in/zaid-daher-360892152,,KAPITA Business Hub,Research Analyst,09 Aug 2023
+Hanguin,Safa,https://www.linkedin.com/in/hanguin-safa,,The Station المحطة,Program Manager,09 Aug 2023
+Hala,Sarraf,https://www.linkedin.com/in/hala-sarraf-3bba5718,,Iraq Health Access Organization,Executive Director,09 Aug 2023
+Fatimah,Jihad,https://www.linkedin.com/in/fatimah-jihad-61b1981a1,,UNDP Iraq,Project Assistant,08 Aug 2023
+Mahmood,Khalid,https://www.linkedin.com/in/mahmood-khalid-622287251,,University of Raparin,Network Engineer supervisor,08 Aug 2023
+Steven,"Terner, PhD, CAMS",https://www.linkedin.com/in/steven-terner,,"Terner Consulting, LLC",Geopolitical Consultant,08 Aug 2023
+Shaymaa,Alhadhrea,https://www.linkedin.com/in/shaymaa-alhadhrea,,KAPITA Business Hub,Programs Assistant  ,07 Aug 2023
+Mohammed,Aladdin,https://www.linkedin.com/in/mohammed-aladdin-217189245,,C Agency,Chief Executive Officer,07 Aug 2023
+Mohammed Mustafa,Imran,https://www.linkedin.com/in/mohammed-mustafa1,,KAPITA Business Hub,Research Analyst,06 Aug 2023
+Ranja,Ali,https://www.linkedin.com/in/ranja-ali-2a119b122,,World Learning,Advisory Council,04 Aug 2023
+Abdullah,Ghalyoun,https://www.linkedin.com/in/abdullah-ghalyoun-2580b4228,,Crystal Enterprises Contracting Co.,Business Development ,04 Aug 2023
+Mohamed,S. Ameen,https://www.linkedin.com/in/m0hamed-ameen,,Sindibad,Commercial Manager,03 Aug 2023
+Mujahed,Waisi,https://www.linkedin.com/in/mujahed-waisi-79439143,,KAPITA Business Hub,Founder & CEO,03 Aug 2023
+Hala,Saad,https://www.linkedin.com/in/hala-saad-20182a14b,,KAPITA Business Hub,Monitoring & Evaluation Officer,03 Aug 2023
+Safwan,Al_Daoudy,https://www.linkedin.com/in/safwan-al-daoudy-b80064204,,University of Ninevah,Electronics Engineer ,02 Aug 2023
+Taher,Tameem,https://www.linkedin.com/in/taher-tameem-621564169,,IN2,Iraq Business Development Lead,01 Aug 2023
+Raghad,al-Abboodi,https://www.linkedin.com/in/raghadhav,,She Codes Too;,Founder and Director ,01 Aug 2023
+Ali,Ihsan Yahya,https://www.linkedin.com/in/ali-ihsan-yahya-b90319143,,Doinc,Co-Founder |  Head of Consulting Services,01 Aug 2023
+Moamin,Alkakaei,https://www.linkedin.com/in/moamin94,,Uppsala University,PHD Student,01 Aug 2023
+Hussein,Fadhel,https://www.linkedin.com/in/hussein-fadhel-33a815151,,Health 360,Chief Executive Officer,01 Aug 2023
+Mohammed,Al-Samarrai,https://www.linkedin.com/in/mohammed-al-samarrai-b4119831,,IN2,Iraq Country Manager,31 Jul 2023
+Ali,Jasim,https://www.linkedin.com/in/eng-ali-jasim,,Mosul Space,Project Assistant,31 Jul 2023
+Ahmed,mohammed,https://www.linkedin.com/in/ahmed-mohammed-a9b57a213,,teatro agency,Marketing Team Lead,31 Jul 2023
+Basmala,Bayer,https://www.linkedin.com/in/basmala-bayer-2554b5255,,,,31 Jul 2023
+Mustafa,Mazin,https://www.linkedin.com/in/mustafa-mazin,,Aqsa Al-madena (AMCO),Product Engineer,31 Jul 2023
+Taha Qais,Al-Tuwaijri,https://www.linkedin.com/in/taha-qais-al-tuwaijri-1b3187200,,Oxfam,Project Facilitator,31 Jul 2023
+Noora,Kamal,https://www.linkedin.com/in/noora-kamal-720578185,,Al Hikma Univsersity College,Assistant Lecturer,31 Jul 2023
+Shahed,Al Khazraji,https://www.linkedin.com/in/shahed-al-khazraji-75a73520a,,Freelance,English Language Trainer,31 Jul 2023
+Markus,Schindler,https://www.linkedin.com/in/markus-schindler-mine-action,,FSD (Fondation suisse de déminage),Program Manager,31 Jul 2023
+Isam,Al-Sibahee,https://www.linkedin.com/in/essam1995,,Journal of Clinical Neuroscience,Editorial Board Member,31 Jul 2023
+Issa,Mohammed Issa,https://www.linkedin.com/in/issa-mohammed-issa-8a1204a4,,Morshed,Communications Specialist,30 Jul 2023
+Riyadh,Radhi,https://www.linkedin.com/in/riyadh-radhi,riyadhradhi0@gmail.com,KAPITA Business Hub,Senior Data Associate ,30 Jul 2023
+Sama,A.AlDelfi,https://www.linkedin.com/in/sama-a-aldelfi-38262a212,,QiCard,Senior Sales Support Specialist,29 Jul 2023
+Tuqa,Chasib,https://www.linkedin.com/in/tuqa-chasib-3b4b7619b,,The PRO Company,Campaign Manager,28 Jul 2023
+Zamzam,Talal,https://www.linkedin.com/in/zamzam-t-baa1b118a,,Aynalfahad,Brand Senior Specialist,28 Jul 2023
+Snur,Hamid,https://www.linkedin.com/in/snur-hamid-0ba45172,,QiCard,Technical Project Manager,28 Jul 2023
+Yahya,Mohnd,https://www.linkedin.com/in/yahya-mohnd-04b0821b0,,Cloudvests,DevOps Engineer,26 Jul 2023
+Marwa,Thair,https://www.linkedin.com/in/marwathair,,,,26 Jul 2023
+Fatima,Suhail ,https://www.linkedin.com/in/fatima-suhail-44409119a,,KAPITA Business Hub,Research Analyst,25 Jul 2023
+Sarah,Alrawi,https://www.linkedin.com/in/sarah90alrawi,,IALD (institution),Media Manager,24 Jul 2023
+Diyar Talal ,AL-Zuhiri,https://www.linkedin.com/in/diyar-talal-al-zuhiri-79896b144,,Norwegian People's Aid / Norsk Folkehjelp,Communication Officer,24 Jul 2023
+Mustafa,Kronfol,https://www.linkedin.com/in/mustafa-kronfol-762734259,,Neon Media,Senior Content Writer,23 Jul 2023
+Batool,Qasim,https://www.linkedin.com/in/batool-qasim,batool.qm261@gmail.com,Blue Pay,Compliance Manager,20 Jul 2023
+Abdulla,Thaier,https://www.linkedin.com/in/abdulla-thaier,,Mosul Space,Business Development Officer,20 Jul 2023
+Nada,Fatah,https://www.linkedin.com/in/nada-fatah-994592206,,Appen,Team Leader,19 Jul 2023
+📈Hisham,Alibraheem 🏦,https://www.linkedin.com/in/%F0%9F%93%88hisham-alibraheem-%F0%9F%8F%A6-755015155,,Profound Properties,Investment & Property Consultant,19 Jul 2023
+Mohammed,Jamal,https://www.linkedin.com/in/mja153,,Baghdad Business School,IREX-BBS Coordinator,18 Jul 2023
+Asma,Hriz,https://www.linkedin.com/in/asma-hriz-63677964,,elbarlament,Project Officer Iraq/Middle East,18 Jul 2023
+Kinan,Azzouz,https://www.linkedin.com/in/kinan-azzouz-9b192750,,Badael _ منظمة بدائــل ,Operations Director,18 Jul 2023
+Anna,Woźniak,https://www.linkedin.com/in/anna-teresa-wozniak,,Dyme Consulting Group,Chief Growth Officer,18 Jul 2023
+Amani,Ammar,https://www.linkedin.com/in/amani-ammar-05183a208,,Zain Iraq,Women in tech,18 Jul 2023
+Anette,Schwitzke,https://www.linkedin.com/in/anette-schwitzke-564b522a,,EUAM Ukraine,Gender Adviser in Operations,18 Jul 2023
+Diana,Rehan,https://www.linkedin.com/in/diana-rehan,,Vector Game Studio,IT Member,18 Jul 2023
+Zahraa,Mohammed,https://www.linkedin.com/in/zahraa-mohammed-846861231,,Agropur,Distribution Supervisor,17 Jul 2023
+Ahmed,Ziada,https://www.linkedin.com/in/ahmed-ziada-15bb181b9,,UNESCO Iraq,Civil Engineer at UNESCO-Iraq ,17 Jul 2023
+Ani,Barbakadze,https://www.linkedin.com/in/ani-barbakadze,,Jung von Matt SPREE,Creative Art Director,17 Jul 2023
+Anni-Loo,Viljamaa,https://www.linkedin.com/in/anni-loo-viljamaa,,Workers' Samaritan Federation (ASB),Head of Program,17 Jul 2023
+Aya,Toutoungi,https://www.linkedin.com/in/toutoungi-aya,,elbarlament,Project Consultant,17 Jul 2023
+Hussam,Al-Hassan,https://www.linkedin.com/in/hussam-f-hassan,,Oxfam,Enterprise development specialist ,17 Jul 2023
+Ammar,Hamid,https://www.linkedin.com/in/ammar-hamid-809879143,,REACH Initiative,Senior Field Officer,17 Jul 2023
+Hewa,Hama,https://www.linkedin.com/in/hewa-hama-3a06b194,,Kosan Company For Importing & Distributing Of Medicines & Medical Supplies,Co-Owner,17 Jul 2023
+Rafah,H. Abed,https://www.linkedin.com/in/rafah-h-abed-478561146,,مجلة طموح IT,رئيس تحرير ,17 Jul 2023
+Zaid,Jawad,https://www.linkedin.com/in/zaid-jawad-12290890,,,owner,17 Jul 2023
+Khoolud,Sarmad,https://www.linkedin.com/in/khoolud-sarmad,,BALY,Copywriter and Traffic Manager,17 Jul 2023
+Meer,Akreyi,https://www.linkedin.com/in/meer-akreyi,,MHA Plus,Chief Executive Officer,16 Jul 2023
+wisam,khalid,https://www.linkedin.com/in/wisam-khalid-3a91a01b0,,University of Mosul,College Lecturer & Researcher,16 Jul 2023
+Halah,Alkamoosi,https://www.linkedin.com/in/halahalkamoosi,,alrajhi bank,Senior IT Business Analyst,15 Jul 2023
+Yadgar,Merani,https://www.linkedin.com/in/y-merani,,Lezzoo,Co-founder and CEO,12 Jul 2023
+Ekram,Amin,https://www.linkedin.com/in/ekram-amin-254bb3162,,Banzeeni,Software Engineer,11 Jul 2023
+Ahmed,Nashwan,https://www.linkedin.com/in/ahmed-nashwan,,Freelance,Freelance Graphic Designer,11 Jul 2023
+Mohammed,Rila,https://www.linkedin.com/in/mohammed-rila-225572214,,E.Universe Corp.,Data Scientist & COO,07 Jul 2023
+,,,,,,07 Jul 2023
+Christine,van den Toorn,https://www.linkedin.com/in/christine-van-den-toorn-4b5132ab,,Baghdad Business School,Founder & Director,25 Jun 2023
+Bassam,Al-Ateia,https://www.linkedin.com/in/bassam-al-ateia-aa6484a9,,"Al-Ateia Group. www.alateiagroup.com, Alsaree3 Holding www.alsaree3.com","Founder, CEO",22 Jun 2023
+Ammar,Ahmed,https://www.linkedin.com/in/ammar-ahmed-93210378,,Amideast/Iraq,Program and Operations Manager,21 Jun 2023
+Mohammed,Azzam,https://www.linkedin.com/in/mazzam996,,Iraq Venture Partners,Investment Lead,14 Jun 2023
+Isadora,Gotts,https://www.linkedin.com/in/isadora-gotts-4250ab12a,,Conflict Research Society,Conference Chair Conflict Research Society Annual Conference,14 Jun 2023
+Mustafa Muafaq,مصطفى موفق,https://www.linkedin.com/in/mustafamuafaq,mustafa.muafaq782@gmail.com,Dream Media,Founder And CEO,14 Jun 2023
+Ashley,Barlow,https://www.linkedin.com/in/ashley-barlow-37a880161,,Creative Iraq Consulting,Director,13 Jun 2023
+‪Ali,Amer,https://www.linkedin.com/in/aliamerai,,ODD Agency,Graphic Designer,12 Jun 2023
+Shahab,Zebari,https://www.linkedin.com/in/shahab-zebari,,Badinan Soft,Project Manager & Senior Software Engineer,09 Jun 2023
+Yasmin,E(she/her),https://www.linkedin.com/in/yasminemam,,Regional company,Digital Marketing Consultant,07 Jun 2023
+Muhammad,Al-Healy,https://www.linkedin.com/in/munabeel95,,أفق - UFUQ,Co-Founder,06 Jun 2023
+Saif,ALJUBOURI,https://www.linkedin.com/in/saif-aljubouri-54668122,,AlMurbat SB,Business Development Manager,06 Jun 2023
+Nazneen,Naqshabandi,https://www.linkedin.com/in/nnaqshabandi,,Five One Labs,Entrepreneurship Trainer,06 Jun 2023
+Muhammad,"Lutfi, MBA",https://www.linkedin.com/in/mohd96lutfi,,Bank of Jordan,Corporate Relationship Manager,05 Jun 2023
+,,,,,,05 Jun 2023
+Abdullah,AlFakhrey,https://www.linkedin.com/in/abdullah-alfakhrey,,University of Mosul,Faculty Lecturer,04 Jun 2023
+Jameel,Amir - جميل عامر,https://www.linkedin.com/in/jameel-amir,,Tajarib,Founder & Host,01 Jun 2023
+Thalles,Almeida,https://www.linkedin.com/in/thalleshsa,,SELAZ,Tech Lead,29 May 2023
+Eva,Haaser,https://www.linkedin.com/in/evahaaser,,emmy sharing 🤜🏼🤛🏼 GoTo,Junior Finance Managerin,24 May 2023
+Rafik,Adel,https://www.linkedin.com/in/rafik-adel-64b42236,,Feed App Information Technology,People and Culture Manager,23 May 2023
+Karam,Aldulaimi,https://www.linkedin.com/in/karam-aldulaimi-a84538150,,WebAck PL AB,Full-stack Developer,22 May 2023
+Josip,Bilen,https://www.linkedin.com/in/josip-bilen-7b16b7261,,,,20 May 2023
+Zeena,Salam,https://www.linkedin.com/in/zeena-s-403ab9200,,Snono-Systems,Software Programmer,19 May 2023
+Omar,Walleed,https://www.linkedin.com/in/omar-walleed,,officaial and private schools,English Teacher,18 May 2023
+Khalid,Alsaady,https://www.linkedin.com/in/khalid-alsaady-49755557,,جميلة.كوم,Founder & CEO at Jaamila.com App,11 May 2023
+sarkaw,salar,https://www.linkedin.com/in/sarkaw-salar-7b3b531b9,,DevSpace,Back End Developer,08 May 2023
+Auns,Ahmed,https://www.linkedin.com/in/auns-ahmed,,Miswag,Associate Product Manager,07 May 2023
+Abdulrahman,Sami,https://www.linkedin.com/in/abdalrhman-sami,,QAF Lab,Software Developer,07 May 2023
+Zahraa,Zaidoon,https://www.linkedin.com/in/zahraa-zaidoon-3b7021177,,Sihatkom LLC,Data Entry Assistant,02 May 2023
+Alannah,Travers,https://www.linkedin.com/in/alannah-travers-308bb5115,,SOAS University of London,"Master of Laws (LLM) Conflict, Justice, and Human Rights ",01 May 2023
+Mustafa,Jasam,https://www.linkedin.com/in/mustafa-jasam-92a77a1b6,,Red Wheel,Co-Founder,01 May 2023
+Hayder,Al Shakeri,https://www.linkedin.com/in/hayderalshakeri,,Chatham House,Research Fellow,01 May 2023
+Suha,Mustafa,https://www.linkedin.com/in/suha-mustafa,,QAF Lab,Business Development Associate,26 Apr 2023
+Abdullah,Salih,https://www.linkedin.com/in/abdullah9sa,,E2NEXT,Senior Software Developer,26 Apr 2023
+Abdulrahman,Alfawal,https://www.linkedin.com/in/alfawal,,MSAAQ | مساق,Product Owner,21 Apr 2023
+Ali Hilli,'MBA,https://www.linkedin.com/in/alihilli,,Miswag,Marketing & Communications Director,21 Apr 2023
+Elissa,Makhoul,https://www.linkedin.com/in/elissa-makhoul-bb2ab3205,,VALOORES,Software Developer,20 Apr 2023
+Saeed,abada,https://www.linkedin.com/in/saeed-abada-0370931b8,,FAJR GROUP,Graphic Designer,19 Apr 2023
+Nabigha,Mogharbel,https://www.linkedin.com/in/nabigha-mogharbel,,Vianeos,iOS Developer,19 Apr 2023
+Zainab,Aldabagh,https://www.linkedin.com/in/zainab-aldabbagh,,Al-Sulaymanyia Food & Dairy Production Ltd. Co,Human Resources Officer,19 Apr 2023
+Khaled,Waleed,https://www.linkedin.com/in/khaleddiz,,Digital Zone,Senior Software Engineer,19 Apr 2023
+Rubén,Yagüe,https://www.linkedin.com/in/ruben-yague,,SGS,Customer Service Management,18 Apr 2023
+Sarah,Abou Dalal,https://www.linkedin.com/in/sarah-abou-dalal-977891250,,NARD POS,Frontend Developer,18 Apr 2023
+Sara,Zuhair,https://www.linkedin.com/in/sara-zuhair-5b2b4622a,,UE Capital,Support Manager,17 Apr 2023
+Mateo,Garcia Prieto,https://www.linkedin.com/in/mateogprieto,,Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH,Communication Expert,17 Apr 2023
+,,,,,,17 Apr 2023
+Zainab,Azzam,https://www.linkedin.com/in/zainab-azzam-95bb0518b,,GDG Mosul,Founder,16 Apr 2023
+Ahmed,Jamal,https://www.linkedin.com/in/ahmedlj,,Padash,Chief Executive Officer,16 Apr 2023
+𝐀𝐥𝐢,𝐇𝐚𝐦𝐦𝐚𝐝,https://www.linkedin.com/in/al1hammad,,Produx Studio LTD,Founder / Product Director,16 Apr 2023
+Yara,Yahia,https://www.linkedin.com/in/yara-yahia-136130232,,,,15 Apr 2023
+Athar ,Hakeem ,https://www.linkedin.com/in/athar-hakeem-36a7061aa,,Abwaab,Sales Operations Officer,15 Apr 2023
+Mustafa,Ali,https://www.linkedin.com/in/ch3rlo,,Miswag,Senior Software Engineer,15 Apr 2023
+Hala,Alkhellow,https://www.linkedin.com/in/halakhellow,,TalentLift Canada,Data Engineer,14 Apr 2023
+Rafeef,Dawood,https://www.linkedin.com/in/rafeef-dawood,,The Engine ,Research Associate,14 Apr 2023
+Saif,Altahan,https://www.linkedin.com/in/saif-altahan-b63492186,,soft-y,Co-Founder,14 Apr 2023
+Mohamad,Fanar,https://www.linkedin.com/in/mhmdfnr,,ariika,Senior Graphic Designer,14 Apr 2023
+Ali,Ammar,https://www.linkedin.com/in/ali-ammar-odoo,,Arados Software,Odoo Developer ,14 Apr 2023
+Mukhtar,Talip,https://www.linkedin.com/in/mukhtar-talip-0192b5228,,Lawh | لَوحْ,Founder & CEO,14 Apr 2023
+Bewar,Salah,https://www.linkedin.com/in/bewar-salah,,Korek Telecom,Technical Analyst Sr. Specialist,14 Apr 2023
+Ghadaq Al-ani,(غدق),https://www.linkedin.com/in/ghadaq-al-ani-%D8%BA%D8%AF%D9%82-816336196,,Falaq - فلق,Finance Specialist,14 Apr 2023
+Ali,Salah,https://www.linkedin.com/in/ali-salah-21b631209,,Future Of Technology,Technical Support,14 Apr 2023
+Yousif,Almufti,https://www.linkedin.com/in/yousif-almufti-532685209,,رواد الحلول لتكنولوجيا المعلومات,Odoo developer,13 Apr 2023
+Mortada,Al-Khateeb,https://www.linkedin.com/in/mortadaalkhateeb,,Docrep,Co-Founder,12 Apr 2023
+Ali,Alwan,https://www.linkedin.com/in/ali-alwan-117a688b,alwan9117@gmail.com,Business Skills (BS) for Training and Consulting مهارات الاعمال للاستشارات والتدريب,Founder,12 Apr 2023
+"Rafal A. Al-Chalabi,",aPHRi™,https://www.linkedin.com/in/rafal-a-al-chalabi,,EarthLink Telecommunications,HR Talent Management Specialist,11 Apr 2023
+Kim Cuong,Vo,https://www.linkedin.com/in/camelliavo29,,MedVision AG,UX/UI Designer,11 Apr 2023
+Ahmed,Aldazdi,https://www.linkedin.com/in/ahmedaldazdi,,DevSpace,Business Development Consultant,11 Apr 2023
+Hameed Mahmood,Salih,https://www.linkedin.com/in/h-m-reseng,,Miswag,Data Engineer,11 Apr 2023
+Othman,Ali,https://www.linkedin.com/in/othman-ali-437a81188,,QiCard,Merchant Technical Support Specialist    Acquiring Operaton,10 Apr 2023
+Kamyar,Raza,https://www.linkedin.com/in/kamyar-raza-636228182,,Freelance,Software Developer,10 Apr 2023
+Timothy,Stephens,https://www.linkedin.com/in/hitimstephens,,Le Wagon,Podcast Host,09 Apr 2023
+Khaled,Waleed,https://www.linkedin.com/in/kwaleedkhalid,,Moshafer,Software Engineer,09 Apr 2023
+Wail,Hayaly,https://www.linkedin.com/in/wailashraf71,,Freelancer,Mobile Application Developer,06 Apr 2023
+Kevin,Stratvert,https://www.linkedin.com/in/kevinstratvert,,Stratvert Media Group,Chief Content Creator,05 Apr 2023
+Rodrigo,Gonçalves Rodrigues,https://www.linkedin.com/in/rodrigo-rodrigues-developer,,Interfocus Tecnologia,Desenvolvedor Web,03 Apr 2023
+Haya,Al-Taie,https://www.linkedin.com/in/haya-al-taie-95276514b,,EarthLink Telecommunications,Wordpress Developer,03 Apr 2023
+Liza,Mihhedko,https://www.linkedin.com/in/jelizaveta-v-mihhedko,,MFAR CLINICAL RESEARCH SL,Junior Web Developer,29 Mar 2023
+Husam A.,Mal Allah,https://www.linkedin.com/in/husamalmalallah,,BilWeekend - بالعطلة,Business Strategist,28 Mar 2023
+Farah,Mazid,https://www.linkedin.com/in/farah-mazid-6b247583,,Digital Zone,Senior People Operations Associate,27 Mar 2023
+hatem,mazid,https://www.linkedin.com/in/hatem-mazid,,Caffeine,Frontend Developer,27 Mar 2023
+Danar,Kayfi,https://www.linkedin.com/in/danarkayfi,,Danar Dev,Indie Game Developer,27 Mar 2023
+Mohammed,Tahir,https://www.linkedin.com/in/mhamadtahir,,TAURUS ENERGY,Jr. Application Support Engineer,26 Mar 2023
+Carolin,Rieche,https://www.linkedin.com/in/carolin-rieche,,Selbstständig,Full Stack Entwicklerin | Projektmanagerin,26 Mar 2023
+Carlos,Ziegler,https://www.linkedin.com/in/carlos-ziegler,,MediaMarktSaturn,Senior Full Stack Developer,25 Mar 2023
+Omar,Khaled,https://www.linkedin.com/in/omar-khaled-3243681b1,,Cairo University,Student,25 Mar 2023
+Mena,Jamal,https://www.linkedin.com/in/menajamal,,Oil Exploration Company,Senior Petroleum Geologist,22 Mar 2023
+Vika,Shcherbak ,https://www.linkedin.com/in/vika-s-986007211,,Delivery Hero,Software Engineer I,21 Mar 2023
+Aro,Dana,https://www.linkedin.com/in/arokurd,,AK Group,Chief Executive Officer,21 Mar 2023
+Muntadher,Al-kaabi,https://www.linkedin.com/in/muntadherkaabi,,Lune,Lead Machine Learning Engineer,19 Mar 2023
+,,,,,,18 Mar 2023
+Ahmed,Taha,https://www.linkedin.com/in/ahmedtaha93t,,Alba Corporation,Graphic Designer,18 Mar 2023
+Ahmad,Sekmani,https://www.linkedin.com/in/ahmadmsekmani,,AQAR عقار,Senior Ui/UX Designer,14 Mar 2023
+Salman,Sarray,https://www.linkedin.com/in/4msal,,limehome,Senior Full Stack Engineer,12 Mar 2023
+Mohammed,Maher,https://www.linkedin.com/in/maherapp,,Falaq - فلق,Software Engineer,12 Mar 2023
+Shoko,Itabashi,https://www.linkedin.com/in/shoko-itabashi,,Secret Escapes,Workplace and People Coordinator,12 Mar 2023
+Lina,Mohammed,https://www.linkedin.com/in/lina-mohammed-5958bb210,,Dijlah University جامعة دجلة ,Full-stack Developer,09 Mar 2023
+Mahmoud,Zlitni,https://www.linkedin.com/in/mahmoud-zlitni-935399197,,Bu bank,Senior System Administrator & Azure Solution Architect,08 Mar 2023
+Mohammed,Al-Sabaawi,https://www.linkedin.com/in/mohammed-alabd,,unboxed,Lead Software Engineer,07 Mar 2023
+Nina,Hartig,https://www.linkedin.com/in/nina-hartig-50a3801bb,,KM2 >> GmbH,UI/UX Designer,06 Mar 2023
+Mohammad,Nawfal,https://www.linkedin.com/in/specoper99,,University of Mosul,Associate Software Engineer,06 Mar 2023
+Eslam,Medhat,https://www.linkedin.com/in/ieslammedhat,,Google developers,Google Developer Expert in Firebase,06 Mar 2023
+,,,,,,06 Mar 2023
+Zahra,Shah,https://www.linkedin.com/in/zahrashah,,The Social Value Exchange,Delivery Lead,04 Mar 2023
+Abbas,Salah,https://www.linkedin.com/in/abbas-salah,,TwoAbstracts,Software Engineer,04 Mar 2023
+Mohammed,Alfareq,https://www.linkedin.com/in/alfareq94,,Farqe Studio,Founder,04 Mar 2023
+Omar,Abdulazeez - عمر عبدالعزيز,https://www.linkedin.com/in/omar-abdulazeez-%D8%B9%D9%85%D8%B1-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2-881a26223,,Dahlia Energy,Project Engineer,04 Mar 2023
+Mustafa,Omar,https://www.linkedin.com/in/mofakhri,,QAF Lab,Software Engineer,28 Feb 2023
+DARA,KHALEELZADA,https://www.linkedin.com/in/dara-khaleelzada-b5b1b0254,,Researcher Langeuech,Languege and Literature,27 Feb 2023
+Astera,Diyar,https://www.linkedin.com/in/astera-diyar-1687a91ba,,,,19 Feb 2023
+,,,,,,19 Feb 2023
+Ibrahim,Al-Zubaidi,https://www.linkedin.com/in/ibrahim-al-zubaidi-0a13ab24a,,Archi.Media Trust Onlus,Individual Consultant,20 Dec 2022
+Omar,Sinan,https://www.linkedin.com/in/omar-sinan-3361941ba,,Al-Ghad Radio,Marketing Manager,17 Dec 2022
+Yassir,Alkhalifa,https://www.linkedin.com/in/yastalks,,QAF Lab,Production Manager,05 Dec 2022
+Diyaa,AlObaidy,https://www.linkedin.com/in/diyaaalobaidy1994,,University of Mosul,Back End Developer,03 Dec 2022
+Saleh,Hazim,https://www.linkedin.com/in/saleh-hazim-a036561ba,,TipTop,Operations Officer,03 Dec 2022
+Hatem,Hameed,https://www.linkedin.com/in/hatem-hameed,,Qafia Creative Agency,Creative Graphic Designer,26 Nov 2022
+Mohammed,Al-Hashimie,https://www.linkedin.com/in/mohammed-al-hashimie-380a6520,,IN2,Senior Project Manager,25 Nov 2022
+Zaid,Mahmood,https://www.linkedin.com/in/zaid-mahmood-a520b6102,,Alnoor College University,Senior Lecturer,25 Nov 2022
+Anas,Zeyad,https://www.linkedin.com/in/anas-zeyad-01739a171,,UNESCO,Site Coordinator,23 Nov 2022
+Salih,Mahmod,https://www.linkedin.com/in/salih-mahmod,,International Trade Centre,Programme Specialist- Green skills and Entrepreneurship ,22 Nov 2022
+Rania,Yasir,https://www.linkedin.com/in/rania-yasir-a560b2221,,Digital Logic,Project Manager,11 Jul 2022
+Shoryu,Saigo,https://www.linkedin.com/in/shoryu-saigo-688b08224,,UCL,Research Assistant,10 Apr 2022
+Hussein,Moustafa,https://www.linkedin.com/in/hussein-moustafa-201105141,,Protection Specialists SAL Offshore,Technical Team leader,04 Feb 2022
+Ali,AWAD,https://www.linkedin.com/in/ali-awad-a0a06940,,Protection Specialists SAL Offshore,CHAIRMAN & CEO ,31 Dec 2020
+,,,,,,12 May 2020
+Sarmad,Al-Hasany,https://www.linkedin.com/in/sarmad-al-hasany-a6745457,,Rumaila Operating Organisation,Facilities Optimization Engineer,20 Feb 2020
+,,,,,,16 Feb 2020
+,,,,,,11 Dec 2019
+Hasanain,M. Majeed,https://www.linkedin.com/in/hasanain-m-majeed-b03659119,,EarthLink Telecommunications,Graphic Design Specialist,05 Aug 2019
+Alaa,Kamoona,https://www.linkedin.com/in/alaakamoona,,MICT - Media in Cooperation and Transition,Digital Communication Officer ,21 Jul 2019
