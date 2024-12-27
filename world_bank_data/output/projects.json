@@ -1,0 +1,6187 @@
+{
+  "rows": 100,
+  "os": "0",
+  "page": "1",
+  "total": "22720",
+  "projects": {
+    "P178923": {
+      "curr_total_commitment": "314",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "314",
+      "id": "P178923",
+      "regionname": "Western and Central Africa",
+      "countryname": [
+        "Western and Central Africa"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "WAPP Ghana-Cote d'Ivoire Interconnection Project - Phase 1 WA-REMP MPA",
+      "board_approval_month": "December",
+      "totalamt": "314,000,000",
+      "borrower": "Republic of Ghana, Ministry of Energy, Ministry of Oil, Energy and Development of Renewable Energies, Republic of C\ufffdte d'Ivoire",
+      "impagency": "West Africa Power Pool (WAPP) Secretariat",
+      "countrycode": [
+        "3W"
+      ],
+      "countryshortname": "Western and Central Africa",
+      "p2a_updated_date": "2024-12-23 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "314,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "7",
+      "teamleadname": "Tamaro Kane,Claire Marion Nicolas,Frederic Verdol,Maame Tabuah Ankoh,Tu Chi Nguyen",
+      "boardapprovaldate": "2024-12-22T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P178923",
+      "proj_and_ln_country": [
+        "3W"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "7"
+        }
+      ],
+      "country_namecode": "415000000!$!3W",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "314,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "421,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P176429": {
+      "curr_total_commitment": "280",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "280",
+      "id": "P176429",
+      "regionname": "South Asia",
+      "countryname": [
+        "People's Republic of Bangladesh"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Chattogram Water Supply Improvement Project",
+      "board_approval_month": "December",
+      "totalamt": "280,000,000",
+      "borrower": "People's Republic of Bangladesh",
+      "impagency": "Chattogram Water Supply and Sewerage Authority",
+      "countrycode": [
+        "BD"
+      ],
+      "countryshortname": "Bangladesh",
+      "p2a_updated_date": "2024-12-22 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "280,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "1",
+      "teamleadname": "NIL,Arif Ahamed,Harsh Goyal",
+      "boardapprovaldate": "2024-12-19T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P176429",
+      "proj_and_ln_country": [
+        "BD"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "1"
+        }
+      ],
+      "country_namecode": "391000000!$!BD",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "280,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "397,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": [],
+      "theme_list": [
+        {
+          "name": "Environment and Natural Resource Management",
+          "code": "80",
+          "seqno": "1",
+          "percent": "0",
+          "theme2": [
+            {
+              "name": "Energy",
+              "code": "86",
+              "seqno": "2",
+              "percent": "0",
+              "theme3": [
+                {
+                  "name": "Energy Efficiency",
+                  "code": "861",
+                  "seqno": "3",
+                  "percent": "0"
+                }
+              ]
+            },
+            {
+              "name": "Water Resource Management",
+              "code": "85",
+              "seqno": "2",
+              "percent": "0",
+              "theme3": [
+                {
+                  "name": "Water Institutions, Policies and Reform",
+                  "code": "851",
+                  "seqno": "3",
+                  "percent": "0"
+                }
+              ]
+            },
+            {
+              "name": "Climate change",
+              "code": "81",
+              "seqno": "2",
+              "percent": "0",
+              "theme3": [
+                {
+                  "name": "Adaptation",
+                  "code": "812",
+                  "seqno": "3",
+                  "percent": "0"
+                },
+                {
+                  "name": "Mitigation",
+                  "code": "811",
+                  "seqno": "3",
+                  "percent": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Urban and Rural Development",
+          "code": "70",
+          "seqno": "1",
+          "percent": "0",
+          "theme2": [
+            {
+              "name": "Urban Development",
+              "code": "71",
+              "seqno": "2",
+              "percent": "0",
+              "theme3": [
+                {
+                  "name": "Urban Water and Sanitation",
+                  "code": "716",
+                  "seqno": "3",
+                  "percent": "0"
+                },
+                {
+                  "name": "Urban Infrastructure and Service Delivery",
+                  "code": "711",
+                  "seqno": "3",
+                  "percent": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Human Development and Gender",
+          "code": "60",
+          "seqno": "1",
+          "percent": "0"
+        },
+        {
+          "name": "Social Development and Protection",
+          "code": "50",
+          "seqno": "1",
+          "percent": "0"
+        },
+        {
+          "name": "Public Sector Management",
+          "code": "40",
+          "seqno": "1",
+          "percent": "0"
+        },
+        {
+          "name": "Private Sector Development",
+          "code": "20",
+          "seqno": "1",
+          "percent": "0"
+        }
+      ]
+    },
+    "P507508": {
+      "curr_total_commitment": "0",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "0",
+      "id": "P507508",
+      "regionname": "South Asia",
+      "countryname": [
+        "Republic of India"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Program-for-Results Financing",
+      "lendinginstrtype": "PR",
+      "projectstatusdisplay": "Active",
+      "project_name": "Amaravati Integrated Urban Development Program",
+      "board_approval_month": "December",
+      "totalamt": "0",
+      "countrycode": [
+        "IN"
+      ],
+      "countryshortname": "India",
+      "p2a_updated_date": "2024-12-22 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "0",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "8",
+      "teamleadname": "Balakrishna Menon Parameswaran,Gerald Paul Ollivier",
+      "boardapprovaldate": "2024-12-19T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P507508",
+      "proj_and_ln_country": [
+        "IN"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "8"
+        }
+      ],
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "0",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P180439": {
+      "curr_total_commitment": "500",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "500",
+      "id": "P180439",
+      "regionname": "South Asia",
+      "countryname": [
+        "People's Republic of Bangladesh"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Development Policy Lending",
+      "lendinginstrtype": "AD",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Second Bangladesh Green and Climate Resilient Development Credit",
+      "board_approval_month": "December",
+      "totalamt": "500,000,000",
+      "borrower": "People's Republic of Bangladesh",
+      "impagency": "Finance Division, Ministry of Finance",
+      "countrycode": [
+        "BD"
+      ],
+      "countryshortname": "Bangladesh",
+      "p2a_updated_date": "2024-12-22 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "500,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "5",
+      "teamleadname": "Ana Luisa Gomes Lima,Souleymane Coulibaly",
+      "boardapprovaldate": "2024-12-19T00:00:00Z",
+      "closingdate": "1/15/2026 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180439",
+      "proj_and_ln_country": [
+        "BD"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "5"
+        }
+      ],
+      "country_namecode": "0!$!BD",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "500,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "500,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P507116": {
+      "curr_total_commitment": "0",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "0",
+      "id": "P507116",
+      "regionname": "Eastern and Southern Africa",
+      "countryname": [
+        "Republic of Zambia"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Development Policy Lending",
+      "lendinginstrtype": "AD",
+      "projectstatusdisplay": "Active",
+      "project_name": "First Zambia Climate and Economic Resilience Programmatic DPF with Cat-DDO",
+      "board_approval_month": "December",
+      "totalamt": "0",
+      "countrycode": [
+        "ZM"
+      ],
+      "countryshortname": "Zambia",
+      "p2a_updated_date": "2024-12-20 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "0",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "8",
+      "teamleadname": "Albert Pijuan Sala,Ignacio M. Urrutia Duarte,Jorge Fernando Tudela Pye",
+      "boardapprovaldate": "2024-12-18T00:00:00Z",
+      "closingdate": "12/31/2027 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P507116",
+      "proj_and_ln_country": [
+        "ZM"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "8"
+        }
+      ],
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "0",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P179138": {
+      "curr_total_commitment": "100",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "100",
+      "id": "P179138",
+      "regionname": "Western and Central Africa",
+      "countryname": [
+        "Republic of Togo"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Togo Digital Acceleration Project",
+      "board_approval_month": "December",
+      "totalamt": "100,000,000",
+      "borrower": "Togolese Republic",
+      "impagency": "Ministry of Digital Economy and Digital Transformation",
+      "countrycode": [
+        "TG"
+      ],
+      "countryshortname": "Togo",
+      "p2a_updated_date": "2024-12-20 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "100,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "7",
+      "teamleadname": "Aneliya Muller,Natalija Gelvanovska-Garcia,Xavier Stephane Decoster",
+      "boardapprovaldate": "2024-12-18T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P179138",
+      "proj_and_ln_country": [
+        "TG"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "7"
+        }
+      ],
+      "country_namecode": "100000000!$!TG",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "100,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "100,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P506463": {
+      "curr_total_commitment": "0",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "0",
+      "id": "P506463",
+      "regionname": "Europe and Central Asia",
+      "countryname": [
+        "Ukraine"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Development Policy Lending",
+      "lendinginstrtype": "AD",
+      "projectstatusdisplay": "Active",
+      "project_name": "Second Growth Foundations Development Policy Operation",
+      "board_approval_month": "December",
+      "totalamt": "0",
+      "countrycode": [
+        "UA"
+      ],
+      "countryshortname": "Ukraine",
+      "p2a_updated_date": "2024-12-19 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "0",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "10",
+      "teamleadname": "Karlis Smits,Florian Michael Blum",
+      "boardapprovaldate": "2024-12-17T00:00:00Z",
+      "closingdate": "6/30/2026 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P506463",
+      "proj_and_ln_country": [
+        "UA"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "10"
+        }
+      ],
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "0",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P181166": {
+      "curr_total_commitment": "187",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "187",
+      "id": "P181166",
+      "regionname": "Latin America and Caribbean",
+      "countryname": [
+        "Republic of Honduras"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Honduras Sustainable Connectivity Project",
+      "board_approval_month": "December",
+      "totalamt": "187,000,000",
+      "countrycode": [
+        "HN"
+      ],
+      "countryshortname": "Honduras",
+      "p2a_updated_date": "2024-12-20 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "187,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "1",
+      "teamleadname": "Eric R. Lancelot,Rohan Shah",
+      "boardapprovaldate": "2024-12-17T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181166",
+      "proj_and_ln_country": [
+        "HN"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "1"
+        }
+      ],
+      "country_namecode": "150000000!$!HN",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "187,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "150,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P504629": {
+      "curr_total_commitment": "86",
+      "curr_ibrd_commitment": "86",
+      "curr_ida_commitment": "0",
+      "id": "P504629",
+      "regionname": "Eastern and Southern Africa",
+      "countryname": [
+        "Republic of the Sudan"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "projectstatusdisplay": "Active",
+      "project_name": "Sudan Health Assistance and Response to Emergencies",
+      "board_approval_month": "December",
+      "totalamt": "86,000,000",
+      "countrycode": [
+        "SD"
+      ],
+      "countryshortname": "Sudan",
+      "p2a_updated_date": "2024-12-16 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "86,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "2",
+      "teamleadname": "Amr Elshalakani,Abeyah A. Al-Omair,Moustafa Mohamed ElSayed Mohamed Abdalla",
+      "boardapprovaldate": "2024-12-13T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P504629",
+      "proj_and_ln_country": [
+        "SD"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "2"
+        }
+      ],
+      "country_namecode": "0!$!SD",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "86,000,000",
+      "lendprojectcost": "86,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P505963": {
+      "curr_total_commitment": "100",
+      "curr_ibrd_commitment": "100",
+      "curr_ida_commitment": "0",
+      "id": "P505963",
+      "regionname": "Eastern and Southern Africa",
+      "countryname": [
+        "Republic of the Sudan"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "projectstatusdisplay": "Active",
+      "project_name": "Sudan SANAD - Emergency Crisis Response Safety Net Project",
+      "board_approval_month": "December",
+      "totalamt": "100,000,000",
+      "countrycode": [
+        "SD"
+      ],
+      "countryshortname": "Sudan",
+      "p2a_updated_date": "2024-12-16 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "100,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "7",
+      "teamleadname": "Endashaw Tadesse Gossa,Mohamed Abdel Jelil",
+      "boardapprovaldate": "2024-12-13T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P505963",
+      "proj_and_ln_country": [
+        "SD"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "7"
+        }
+      ],
+      "country_namecode": "0!$!SD",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "100,000,000",
+      "lendprojectcost": "100,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P506425": {
+      "curr_total_commitment": "0",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "0",
+      "id": "P506425",
+      "regionname": "East Asia and Pacific",
+      "countryname": [
+        "Republic of Kiribati"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "projectstatusdisplay": "Active",
+      "project_name": "Kiribati Kiritimati Infrastructure Project",
+      "board_approval_month": "December",
+      "totalamt": "0",
+      "countrycode": [
+        "KI"
+      ],
+      "countryshortname": "Kiribati",
+      "p2a_updated_date": "2024-12-16 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "0",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "11",
+      "teamleadname": "Joyce Onguglo,Anita Shrestha,Fiona J Collin",
+      "boardapprovaldate": "2024-12-13T00:00:00Z",
+      "closingdate": "3/31/2031 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P506425",
+      "proj_and_ln_country": [
+        "KI"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "11"
+        }
+      ],
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "0",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P181310": {
+      "curr_total_commitment": "25",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "25",
+      "id": "P181310",
+      "regionname": "Western and Central Africa",
+      "countryname": [
+        "Republic of Cabo Verde"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Development Policy Lending",
+      "lendinginstrtype": "AD",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Cabo Verde Second Fiscal Space and Sustainable Growth Development Policy Financing",
+      "board_approval_month": "December",
+      "totalamt": "25,000,000",
+      "borrower": "Gilson Pina",
+      "countrycode": [
+        "CV"
+      ],
+      "countryshortname": "Cabo Verde",
+      "p2a_updated_date": "2024-12-16 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "25,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "11",
+      "teamleadname": "Anna Carlotta Allen Massingue,Rosa Oteldina Delgado De Brito Delgado",
+      "boardapprovaldate": "2024-12-12T00:00:00Z",
+      "closingdate": "12/30/2025 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181310",
+      "proj_and_ln_country": [
+        "CV"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "11"
+        }
+      ],
+      "country_namecode": "0!$!CV",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "25,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "25,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P171422": {
+      "curr_total_commitment": "240",
+      "curr_ibrd_commitment": "240",
+      "curr_ida_commitment": "0",
+      "id": "P171422",
+      "regionname": "South Asia",
+      "countryname": [
+        "Islamic Republic of Pakistan"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Second Karachi Water and Sewerage Services Improvement Project (KWSSIP-2)",
+      "board_approval_month": "December",
+      "totalamt": "240,000,000",
+      "borrower": "Islamic Republic of Pakistan",
+      "impagency": "Province of Sindh through the Karachi Water and Sewerage Board (KWSB)",
+      "countrycode": [
+        "PK"
+      ],
+      "countryshortname": "Pakistan",
+      "p2a_updated_date": "2024-12-16 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "240,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "5",
+      "teamleadname": "Khairy Al-Jamal,Davison Muchadenyika,Tiziana Smith",
+      "boardapprovaldate": "2024-12-12T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P171422",
+      "proj_and_ln_country": [
+        "PK"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "5"
+        }
+      ],
+      "country_namecode": "997000000!$!PK",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "240,000,000",
+      "lendprojectcost": "997,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": [],
+      "theme_list": [
+        {
+          "name": "Environment and Natural Resource Management",
+          "code": "80",
+          "seqno": "3",
+          "percent": "0",
+          "theme2": [
+            {
+              "name": "Water Resource Management",
+              "code": "85",
+              "seqno": "9",
+              "percent": "0",
+              "theme3": [
+                {
+                  "name": "Water Institutions, Policies and Reform",
+                  "code": "851",
+                  "seqno": "12",
+                  "percent": "0"
+                }
+              ]
+            },
+            {
+              "name": "Renewable Natural Resources Asset Management",
+              "code": "83",
+              "seqno": "8",
+              "percent": "0",
+              "theme3": [
+                {
+                  "name": "Watershed Management",
+                  "code": "837",
+                  "seqno": "11",
+                  "percent": "0"
+                }
+              ]
+            },
+            {
+              "name": "Environmental Health and Pollution Management",
+              "code": "82",
+              "seqno": "7",
+              "percent": "0",
+              "theme3": [
+                {
+                  "name": "Water Pollution",
+                  "code": "822",
+                  "seqno": "10",
+                  "percent": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Urban and Rural Development",
+          "code": "70",
+          "seqno": "2",
+          "percent": "0",
+          "theme2": [
+            {
+              "name": "Urban Development",
+              "code": "71",
+              "seqno": "5",
+              "percent": "0",
+              "theme3": [
+                {
+                  "name": "Urban Water and Sanitation",
+                  "code": "716",
+                  "seqno": "6",
+                  "percent": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Human Development and Gender",
+          "code": "60",
+          "seqno": "1",
+          "percent": "0",
+          "theme2": [
+            {
+              "name": "Gender",
+              "code": "61",
+              "seqno": "4",
+              "percent": "0"
+            }
+          ]
+        }
+      ]
+    },
+    "P178687": {
+      "curr_total_commitment": "100",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "100",
+      "id": "P178687",
+      "regionname": "South Asia",
+      "countryname": [
+        "Nepal"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Development Policy Lending",
+      "lendinginstrtype": "AD",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "NEPAL SECOND GREEN, RESILIENT, AND INCLUSIVE PROGRAMMATIC DEVELOPMENT POLICY CREDIT",
+      "board_approval_month": "December",
+      "totalamt": "100,000,000",
+      "borrower": "Nepal",
+      "impagency": "Ministry of Finance",
+      "countrycode": [
+        "NP"
+      ],
+      "countryshortname": "Nepal",
+      "p2a_updated_date": "2024-12-16 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "100,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "11",
+      "teamleadname": "Stephen Danyo,George Joseph,Martin Heger",
+      "boardapprovaldate": "2024-12-12T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P178687",
+      "proj_and_ln_country": [
+        "NP"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "11"
+        }
+      ],
+      "country_namecode": "0!$!NP",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "100,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "100,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P178253": {
+      "curr_total_commitment": "325.1",
+      "curr_ibrd_commitment": "325.1",
+      "curr_ida_commitment": "0",
+      "id": "P178253",
+      "regionname": "South Asia",
+      "countryname": [
+        "Republic of India"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Uttar Pradesh Agriculture Growth and Rural Enterprise Ecosystem Strengthening Project",
+      "board_approval_month": "December",
+      "totalamt": "325,100,000",
+      "impagency": "Department of Agriculture, Government of Uttar Pradesh",
+      "countrycode": [
+        "IN"
+      ],
+      "countryshortname": "India",
+      "p2a_updated_date": "2024-12-16 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "325,100,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "6",
+      "teamleadname": "Vinayak Narayan Ghatate,Andrew D. Goodland,Harsh Jhanjaria",
+      "boardapprovaldate": "2024-12-12T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P178253",
+      "proj_and_ln_country": [
+        "IN"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "6"
+        }
+      ],
+      "country_namecode": "500000000!$!IN",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "325,100,000",
+      "lendprojectcost": "500,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P500536": {
+      "curr_total_commitment": "0",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "0",
+      "id": "P500536",
+      "regionname": "South Asia",
+      "countryname": [
+        "Kingdom of Bhutan"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Development Policy Lending",
+      "lendinginstrtype": "AD",
+      "projectstatusdisplay": "Active",
+      "project_name": "Bhutan Climate and Disaster Resilience Development Policy Financing with a Catastrophe Deferred Drawdown Option",
+      "board_approval_month": "December",
+      "totalamt": "0",
+      "countrycode": [
+        "BT"
+      ],
+      "countryshortname": "Bhutan",
+      "p2a_updated_date": "2024-12-13 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "0",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "4",
+      "teamleadname": "Naho Shibuya,Yumeka Hirano",
+      "boardapprovaldate": "2024-12-11T00:00:00Z",
+      "closingdate": "12/31/2027 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P500536",
+      "proj_and_ln_country": [
+        "BT"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "4"
+        }
+      ],
+      "country_namecode": "0!$!BT",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "0",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P181238": {
+      "curr_total_commitment": "200",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "200",
+      "id": "P181238",
+      "regionname": "Western and Central Africa",
+      "countryname": [
+        "Republic of Togo"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Development Policy Lending",
+      "lendinginstrtype": "AD",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Togo's Second Sustainable and Inclusive Development Policy Financing",
+      "board_approval_month": "December",
+      "totalamt": "200,000,000",
+      "borrower": "Ministry of Economy and Finance",
+      "impagency": "Republic of Togo",
+      "countrycode": [
+        "TG"
+      ],
+      "countryshortname": "Togo",
+      "p2a_updated_date": "2024-12-12 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "200,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "8",
+      "teamleadname": "Marc Stocker",
+      "boardapprovaldate": "2024-12-10T00:00:00Z",
+      "closingdate": "5/31/2026 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181238",
+      "proj_and_ln_country": [
+        "TG"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "8"
+        }
+      ],
+      "country_namecode": "0!$!TG",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "200,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "200,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P181174": {
+      "curr_total_commitment": "200",
+      "curr_ibrd_commitment": "200",
+      "curr_ida_commitment": "0",
+      "id": "P181174",
+      "regionname": "Latin America and Caribbean",
+      "countryname": [
+        "Republic of Costa Rica"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Costa Rica Results in Education (CORE)",
+      "board_approval_month": "December",
+      "totalamt": "200,000,000",
+      "borrower": "Republic of Costa Rica",
+      "impagency": "Ministry of Public Education",
+      "countrycode": [
+        "CR"
+      ],
+      "countryshortname": "Costa Rica",
+      "p2a_updated_date": "2024-12-08 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "200,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "8",
+      "teamleadname": "Suhas D. Parandekar",
+      "boardapprovaldate": "2024-12-06T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181174",
+      "proj_and_ln_country": [
+        "CR"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "8"
+        }
+      ],
+      "country_namecode": "200000000!$!CR",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "200,000,000",
+      "lendprojectcost": "200,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P181633": {
+      "curr_total_commitment": "142",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "142",
+      "id": "P181633",
+      "regionname": "Middle East and North Africa",
+      "countryname": [
+        "Republic of Yemen"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "Y",
+      "projectstatusdisplay": "Active",
+      "project_name": "Third Additional Financing Yemen Emergency Human Capital Project",
+      "board_approval_month": "December",
+      "totalamt": "142,000,000",
+      "borrower": "World Health Organization, United Nations Office for Project Services, United Nations Children's Fund",
+      "impagency": "World Health Organization, United Nations Office for Project Services, United Nations Children's Fund",
+      "countrycode": [
+        "RY"
+      ],
+      "countryshortname": "Yemen, Republic of",
+      "p2a_updated_date": "2024-12-08 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "142,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "8",
+      "teamleadname": "Avril Dawn Kaplan,Arsala Deane,Naif Mohammed Abu-Lohom",
+      "boardapprovaldate": "2024-12-06T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181633",
+      "proj_and_ln_country": [
+        "RY"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "8"
+        }
+      ],
+      "country_namecode": "450000000!$!RY",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "142,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "150,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P181752": {
+      "curr_total_commitment": "543.5",
+      "curr_ibrd_commitment": "543.5",
+      "curr_ida_commitment": "0",
+      "id": "P181752",
+      "regionname": "Western and Central Africa",
+      "countryname": [
+        "Republic of Cote d'Ivoire"
+      ],
+      "prodline": "GU",
+      "lendinginstr": "Development Policy Lending",
+      "lendinginstrtype": "AD",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Cote d'Ivoire DPO3 Guarantee",
+      "board_approval_month": "December",
+      "totalamt": "543,500,000",
+      "countrycode": [
+        "CI"
+      ],
+      "countryshortname": "Cote d'Ivoire",
+      "p2a_updated_date": "2024-12-10 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "543,500,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "2",
+      "teamleadname": "Nathalie Picarelli,Markus Kitzmuller,Vincent Francois Jean Launay",
+      "boardapprovaldate": "2024-12-05T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181752",
+      "proj_and_ln_country": [
+        "CI"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "2"
+        }
+      ],
+      "country_namecode": "0!$!CI",
+      "p2a_flag": "Y",
+      "prodlinetext": "Guarantees",
+      "idacommamt": "0",
+      "ibrdcommamt": "543,500,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P502012": {
+      "curr_total_commitment": "25",
+      "curr_ibrd_commitment": "25",
+      "curr_ida_commitment": "0",
+      "id": "P502012",
+      "regionname": "Western and Central Africa",
+      "countryname": [
+        "Republic of The Gambia"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Development Policy Lending",
+      "lendinginstrtype": "AD",
+      "projectstatusdisplay": "Active",
+      "project_name": "The Gambia Second Boosting Resilience and Unlocking Productive Potential DPF",
+      "board_approval_month": "December",
+      "totalamt": "25,000,000",
+      "countrycode": [
+        "GM"
+      ],
+      "countryshortname": "Gambia, The",
+      "p2a_updated_date": "2024-12-08 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "25,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "10",
+      "teamleadname": "Wilfried Anicet Kouakou Kouame,Ephrem Niyongabo",
+      "boardapprovaldate": "2024-12-05T00:00:00Z",
+      "closingdate": "12/31/2025 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P502012",
+      "proj_and_ln_country": [
+        "GM"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "10"
+        }
+      ],
+      "country_namecode": "0!$!GM",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "25,000,000",
+      "lendprojectcost": "25,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P502565": {
+      "curr_total_commitment": "0",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "0",
+      "id": "P502565",
+      "regionname": "Western and Central Africa",
+      "countryname": [
+        "Republic of Liberia"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Development Policy Lending",
+      "lendinginstrtype": "AD",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Liberia First Resilient and Inclusive Growth Development Policy Financing",
+      "board_approval_month": "December",
+      "totalamt": "0",
+      "countrycode": [
+        "LR"
+      ],
+      "countryshortname": "Liberia",
+      "p2a_updated_date": "2024-12-08 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "0",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "11",
+      "teamleadname": "Muhammad Waheed,Mary Elinor Boyer",
+      "boardapprovaldate": "2024-12-05T00:00:00Z",
+      "closingdate": "12/31/2027 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P502565",
+      "proj_and_ln_country": [
+        "LR"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "11"
+        }
+      ],
+      "country_namecode": "0!$!LR",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "0",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P180781": {
+      "curr_total_commitment": "250",
+      "curr_ibrd_commitment": "250",
+      "curr_ida_commitment": "0",
+      "id": "P180781",
+      "regionname": "Europe and Central Asia",
+      "countryname": [
+        "Republic of Turkiye"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "T\u00fcrkiye Preparedness for Public Health Emergencies Project",
+      "board_approval_month": "December",
+      "totalamt": "250,000,000",
+      "countrycode": [
+        "TR"
+      ],
+      "countryshortname": "Turkiye",
+      "p2a_updated_date": "2024-12-08 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "250,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "10",
+      "teamleadname": "Nadwa Rafeh",
+      "boardapprovaldate": "2024-12-05T00:00:00Z",
+      "closingdate": "10/31/2029 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180781",
+      "proj_and_ln_country": [
+        "TR"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "10"
+        }
+      ],
+      "country_namecode": "300000000!$!TR",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "250,000,000",
+      "lendprojectcost": "300,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P180234": {
+      "curr_total_commitment": "310.6",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "310.6",
+      "id": "P180234",
+      "regionname": "Western and Central Africa",
+      "countryname": [
+        "Republic of Cote d'Ivoire"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Development Policy Lending",
+      "lendinginstrtype": "AD",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Cote d'Ivoire Investment for Growth DPF3/PBG/D4D",
+      "board_approval_month": "December",
+      "totalamt": "310,600,000",
+      "countrycode": [
+        "CI"
+      ],
+      "countryshortname": "Cote d'Ivoire",
+      "p2a_updated_date": "2024-12-08 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "310,600,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "2",
+      "teamleadname": "Nathalie Picarelli,Markus Kitzmuller,Vincent Francois Jean Launay",
+      "boardapprovaldate": "2024-12-05T00:00:00Z",
+      "closingdate": "12/31/2025 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180234",
+      "proj_and_ln_country": [
+        "CI"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "2"
+        }
+      ],
+      "country_namecode": "0!$!CI",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "310,600,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "310,600,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P181090": {
+      "curr_total_commitment": "15",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "15",
+      "id": "P181090",
+      "regionname": "East Asia and Pacific",
+      "countryname": [
+        "Kingdom of Tonga"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "Y",
+      "projectstatusdisplay": "Active",
+      "project_name": "Second Additional Financing for Tonga Safe and Resilient Schools Project",
+      "board_approval_month": "December",
+      "totalamt": "15,000,000",
+      "borrower": "Ministry of Finance",
+      "impagency": "Ministry of Education and Training",
+      "countrycode": [
+        "TO"
+      ],
+      "countryshortname": "Tonga",
+      "p2a_updated_date": "2024-12-08 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "15,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "11",
+      "teamleadname": "Simone Lillian Esler,Janssen Edelweiss Nunes Fernandes Teixeira",
+      "boardapprovaldate": "2024-12-05T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181090",
+      "proj_and_ln_country": [
+        "TO"
+      ],
+      "ln_country_id": [
+        "TO"
+      ],
+      "ln_country_id_desc": [
+        "Tonga"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "11"
+        }
+      ],
+      "country_namecode": "28250000!$!TO",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "15,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "20,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P505964": {
+      "curr_total_commitment": "20.2",
+      "curr_ibrd_commitment": "2.7",
+      "curr_ida_commitment": "17.5",
+      "id": "P505964",
+      "regionname": "Europe and Central Asia",
+      "countryname": [
+        "Montenegro"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "projectstatusdisplay": "Active",
+      "project_name": "Montenegro Energy Sector Decarbonization Project",
+      "board_approval_month": "December",
+      "totalamt": "20,200,000",
+      "countrycode": [
+        "ME"
+      ],
+      "countryshortname": "Montenegro",
+      "p2a_updated_date": "2024-12-06 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "20,200,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "4",
+      "teamleadname": "Yuriy Myroshnychenko,Claudio Protano",
+      "boardapprovaldate": "2024-12-04T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P505964",
+      "proj_and_ln_country": [
+        "ME"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "4"
+        }
+      ],
+      "country_namecode": "0!$!ME",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "17,500,000",
+      "ibrdcommamt": "2,700,000",
+      "lendprojectcost": "20,200,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P504398": {
+      "curr_total_commitment": "0",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "0",
+      "id": "P504398",
+      "regionname": "Middle East and North Africa",
+      "countryname": [
+        "Kingdom of Morocco"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "projectstatusdisplay": "Active",
+      "project_name": "Morocco Second Identity and Targeting for Social Protection Project",
+      "board_approval_month": "December",
+      "totalamt": "0",
+      "countrycode": [
+        "MA"
+      ],
+      "countryshortname": "Morocco",
+      "p2a_updated_date": "2024-12-06 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "0",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "11",
+      "teamleadname": "Mahdi Barouni",
+      "boardapprovaldate": "2024-12-04T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P504398",
+      "proj_and_ln_country": [
+        "MA"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "11"
+        }
+      ],
+      "country_namecode": "0!$!MA",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "0",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P505179": {
+      "curr_total_commitment": "300",
+      "curr_ibrd_commitment": "150",
+      "curr_ida_commitment": "150",
+      "id": "P505179",
+      "regionname": "Latin America and Caribbean",
+      "countryname": [
+        "Argentine Republic"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Program-for-Results Financing",
+      "lendinginstrtype": "PR",
+      "projectstatusdisplay": "Active",
+      "project_name": "Supporting the Federal Policy for Enhancing Foundational Literacy",
+      "board_approval_month": "November",
+      "totalamt": "300,000,000",
+      "countrycode": [
+        "AR"
+      ],
+      "countryshortname": "Argentina",
+      "p2a_updated_date": "2024-11-29 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "300,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "2",
+      "teamleadname": "Guadalupe Rojo,Juan Diego Alonso",
+      "boardapprovaldate": "2024-11-27T00:00:00Z",
+      "closingdate": "4/30/2029 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P505179",
+      "proj_and_ln_country": [
+        "AR"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "2"
+        }
+      ],
+      "country_namecode": "0!$!AR",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "150,000,000",
+      "ibrdcommamt": "150,000,000",
+      "lendprojectcost": "300,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P176924": {
+      "curr_total_commitment": "47.7",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "47.7",
+      "id": "P176924",
+      "regionname": "Western and Central Africa",
+      "countryname": [
+        "Republic of The Gambia"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Program-for-Results Financing",
+      "lendinginstrtype": "PR",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "The Gambia Public Administration Modernization for Citizen Centric Service Delivery",
+      "board_approval_month": "November",
+      "totalamt": "47,700,000",
+      "borrower": "Ministry of Finance and Economic Affairs",
+      "impagency": "Ministry of Finance and Economic Affairs",
+      "countrycode": [
+        "GM"
+      ],
+      "countryshortname": "Gambia, The",
+      "p2a_updated_date": "2024-11-29 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "47,700,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "10",
+      "teamleadname": "Yousif Mubarak Elmahdi,Fatou Mbacke Dieng,Jason Allen Weaver",
+      "boardapprovaldate": "2024-11-27T00:00:00Z",
+      "closingdate": "11/30/2029 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P176924",
+      "proj_and_ln_country": [
+        "GM"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "10"
+        }
+      ],
+      "country_namecode": "40000000!$!GM",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "47,700,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "50,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P506960": {
+      "curr_total_commitment": "0",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "0",
+      "id": "P506960",
+      "regionname": "Eastern and Southern Africa",
+      "countryname": [
+        "Republic of Seychelles"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Development Policy Lending",
+      "lendinginstrtype": "AD",
+      "projectstatusdisplay": "Active",
+      "project_name": "Seychelles First Sustainable and Inclusive Growth Development Policy Operation",
+      "board_approval_month": "November",
+      "totalamt": "0",
+      "countrycode": [
+        "SC"
+      ],
+      "countryshortname": "Seychelles",
+      "p2a_updated_date": "2024-11-29 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "0",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "8",
+      "teamleadname": "Andrew Blackman",
+      "boardapprovaldate": "2024-11-27T00:00:00Z",
+      "closingdate": "12/31/2025 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P506960",
+      "proj_and_ln_country": [
+        "SC"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "8"
+        }
+      ],
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "0",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P178768": {
+      "curr_total_commitment": "250",
+      "curr_ibrd_commitment": "250",
+      "curr_ida_commitment": "0",
+      "id": "P178768",
+      "regionname": "Middle East and North Africa",
+      "countryname": [
+        "Kingdom of Morocco"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Program-for-Results Financing",
+      "lendinginstrtype": "PR",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Morocco Municipal Solid Waste Management Support Program",
+      "board_approval_month": "November",
+      "totalamt": "250,000,000",
+      "borrower": "Ministry of Economy and Finance",
+      "impagency": "Ministry of Interior, Ministry of Energy Transition and Sustainable Development",
+      "countrycode": [
+        "MA"
+      ],
+      "countryshortname": "Morocco",
+      "p2a_updated_date": "2024-11-28 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "250,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "4",
+      "teamleadname": "Sateh Chafic El-Arnaout,Dahlia Lotayef,Dahlia Lotayef",
+      "boardapprovaldate": "2024-11-26T00:00:00Z",
+      "closingdate": "12/31/2030 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P178768",
+      "proj_and_ln_country": [
+        "MA"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "4"
+        }
+      ],
+      "country_namecode": "200000000!$!MA",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "250,000,000",
+      "lendprojectcost": "200,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P181372": {
+      "curr_total_commitment": "200",
+      "curr_ibrd_commitment": "200",
+      "curr_ida_commitment": "0",
+      "id": "P181372",
+      "regionname": "Latin America and Caribbean",
+      "countryname": [
+        "Republic of Costa Rica"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Development Policy Lending",
+      "lendinginstrtype": "AD",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Costa Rica Social Risk Management DPL DDO",
+      "board_approval_month": "November",
+      "totalamt": "200,000,000",
+      "countrycode": [
+        "CR"
+      ],
+      "countryshortname": "Costa Rica",
+      "p2a_updated_date": "2024-11-27 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "200,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "2",
+      "teamleadname": "Luz Stella Rodriguez,Barbara Cunha",
+      "boardapprovaldate": "2024-11-25T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181372",
+      "proj_and_ln_country": [
+        "CR"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "2"
+        }
+      ],
+      "country_namecode": "0!$!CR",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "200,000,000",
+      "lendprojectcost": "200,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P507190": {
+      "curr_total_commitment": "0",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "0",
+      "id": "P507190",
+      "regionname": "Latin America and Caribbean",
+      "countryname": [
+        "Barbados"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "projectstatusdisplay": "Active",
+      "project_name": "BERRP",
+      "board_approval_month": "November",
+      "totalamt": "0",
+      "countrycode": [
+        "BB"
+      ],
+      "countryshortname": "Barbados",
+      "p2a_updated_date": "2024-11-25 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "0",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "9",
+      "teamleadname": "Naraya Carrasco,Alexander Agosti",
+      "boardapprovaldate": "2024-11-21T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P507190",
+      "proj_and_ln_country": [
+        "BB"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "9"
+        }
+      ],
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "0",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P506846": {
+      "curr_total_commitment": "0",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "0",
+      "id": "P506846",
+      "regionname": "Latin America and Caribbean",
+      "countryname": [
+        "Argentine Republic"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "projectstatusdisplay": "Active",
+      "project_name": "Support to the Sustainability and Equity of Public Transport Project",
+      "board_approval_month": "November",
+      "totalamt": "0",
+      "countrycode": [
+        "AR"
+      ],
+      "countryshortname": "Argentina",
+      "p2a_updated_date": "2024-11-21 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "0",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "11",
+      "teamleadname": "Javier Morales Sarriera,Veronica Ines Raffo",
+      "boardapprovaldate": "2024-11-19T00:00:00Z",
+      "closingdate": "12/30/2027 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P506846",
+      "proj_and_ln_country": [
+        "AR"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "11"
+        }
+      ],
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "0",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P504621": {
+      "curr_total_commitment": "0",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "0",
+      "id": "P504621",
+      "regionname": "Eastern and Southern Africa",
+      "countryname": [
+        "Republic of the Sudan"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "projectstatusdisplay": "Active",
+      "project_name": "Sudan Education",
+      "board_approval_month": "November",
+      "totalamt": "0",
+      "countrycode": [
+        "SD"
+      ],
+      "countryshortname": "Sudan",
+      "p2a_updated_date": "2024-11-20 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "0",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "8",
+      "teamleadname": "Mari Shojo,Ruth Karimi Charo",
+      "boardapprovaldate": "2024-11-19T00:00:00Z",
+      "closingdate": "12/31/2026 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P504621",
+      "proj_and_ln_country": [
+        "SD"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "8"
+        }
+      ],
+      "country_namecode": "0!$!SD",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "0",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P506430": {
+      "curr_total_commitment": "0",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "0",
+      "id": "P506430",
+      "regionname": "Latin America and Caribbean",
+      "countryname": [
+        "Argentine Republic"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "projectstatusdisplay": "Active",
+      "project_name": "Supporting the Transition to a Sustainable Electricity Sector in Argentina",
+      "board_approval_month": "November",
+      "totalamt": "0",
+      "countrycode": [
+        "AR"
+      ],
+      "countryshortname": "Argentina",
+      "p2a_updated_date": "2024-11-21 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "0",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "8",
+      "teamleadname": "Lucia Spinelli",
+      "boardapprovaldate": "2024-11-19T00:00:00Z",
+      "closingdate": "12/31/2028 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P506430",
+      "proj_and_ln_country": [
+        "AR"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "8"
+        }
+      ],
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "0",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P500565": {
+      "curr_total_commitment": "326.63",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "326.63",
+      "id": "P500565",
+      "regionname": "Europe and Central Asia",
+      "countryname": [
+        "Republic of Kazakhstan"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "projectstatusdisplay": "Active",
+      "project_name": "Transport Resilience and Connectivity Enhancement Project (Jezkazgan-Karagandy Section of TCITR (Middle Corridor))",
+      "board_approval_month": "November",
+      "totalamt": "326,630,000",
+      "countrycode": [
+        "KZ"
+      ],
+      "countryshortname": "Kazakhstan",
+      "p2a_updated_date": "2024-11-18 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "326,630,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "11",
+      "teamleadname": "Nijat Valiyev,Irina Li",
+      "boardapprovaldate": "2024-11-15T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P500565",
+      "proj_and_ln_country": [
+        "KZ"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "11"
+        }
+      ],
+      "country_namecode": "0!$!KZ",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "326,630,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "326,630,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P505025": {
+      "curr_total_commitment": "0",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "0",
+      "id": "P505025",
+      "regionname": "Western and Central Africa",
+      "countryname": [
+        "Republic of Mali"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "projectstatusdisplay": "Active",
+      "project_name": "Mali Community Resilience and Inclusive Services Project - Malidenko",
+      "board_approval_month": "November",
+      "totalamt": "0",
+      "countrycode": [
+        "ML"
+      ],
+      "countryshortname": "Mali",
+      "p2a_updated_date": "2024-11-18 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "0",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "9",
+      "teamleadname": "Susan Wong,Manuel Emilio Figueredo Thomson",
+      "boardapprovaldate": "2024-11-14T00:00:00Z",
+      "closingdate": "11/30/2028 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P505025",
+      "proj_and_ln_country": [
+        "ML"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "9"
+        }
+      ],
+      "country_namecode": "0!$!ML",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "0",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P178190": {
+      "curr_total_commitment": "51.8",
+      "curr_ibrd_commitment": "47",
+      "curr_ida_commitment": "4.8",
+      "id": "P178190",
+      "regionname": "East Asia and Pacific",
+      "countryname": [
+        "Mongolia"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Third Energy Sector Project",
+      "board_approval_month": "November",
+      "totalamt": "51,800,000",
+      "borrower": "NPTG",
+      "impagency": "Ministry of Energy",
+      "countrycode": [
+        "MN"
+      ],
+      "countryshortname": "Mongolia",
+      "p2a_updated_date": "2024-11-15 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "51,800,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "11",
+      "teamleadname": "Yanqin Song,Hiroaki Yamada",
+      "boardapprovaldate": "2024-11-13T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P178190",
+      "proj_and_ln_country": [
+        "MN"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "11"
+        }
+      ],
+      "country_namecode": "38082500!$!MN",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "4,800,000",
+      "ibrdcommamt": "47,000,000",
+      "lendprojectcost": "120,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P181127": {
+      "curr_total_commitment": "750",
+      "curr_ibrd_commitment": "750",
+      "curr_ida_commitment": "0",
+      "id": "P181127",
+      "regionname": "East Asia and Pacific",
+      "countryname": [
+        "Republic of the Philippines"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Development Policy Lending",
+      "lendinginstrtype": "AD",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Philippines Second Digital Transformation DPL",
+      "board_approval_month": "November",
+      "totalamt": "750,000,000",
+      "borrower": "Department of Finance (DOF)",
+      "impagency": "Bureau of the Treasury (BTr), Bangko Sentral ng Pilipinas (BSP), Philippine Competition Commission, Department of Information And Communications Technology (DICT), Department of Budget and Management (DBM), Civil Aeronautics Board (CAB), Department of Trade and Industry (DTI), National Economic and Development Authority (NEDA), Intellectual Property Office of the Philippines (IPOPHL), Department of Labor and Employment (DOLE)",
+      "countrycode": [
+        "PH"
+      ],
+      "countryshortname": "Philippines",
+      "p2a_updated_date": "2024-11-15 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "750,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "7",
+      "teamleadname": "Jaime Andres Uribe Frias,Davit Melikyan,Naoto Kanehira",
+      "boardapprovaldate": "2024-11-12T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181127",
+      "proj_and_ln_country": [
+        "PH"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "7"
+        }
+      ],
+      "country_namecode": "0!$!PH",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "750,000,000",
+      "lendprojectcost": "750,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P504773": {
+      "curr_total_commitment": "750",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "750",
+      "id": "P504773",
+      "regionname": "Europe and Central Asia",
+      "countryname": [
+        "Ukraine"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Program-for-Results Financing",
+      "lendinginstrtype": "PR",
+      "projectstatusdisplay": "Active",
+      "project_name": "Supporting Reconstruction through Smart Fiscal Governance (SURGE)",
+      "board_approval_month": "November",
+      "totalamt": "750,000,000",
+      "countrycode": [
+        "UA"
+      ],
+      "countryshortname": "Ukraine",
+      "p2a_updated_date": "2024-11-11 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "750,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "8",
+      "teamleadname": "Urska Zrinski,Iryna Shcherbyna,Oleksii Balabushko",
+      "boardapprovaldate": "2024-11-07T00:00:00Z",
+      "closingdate": "3/31/2027 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P504773",
+      "proj_and_ln_country": [
+        "UA"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "8"
+        }
+      ],
+      "country_namecode": "0!$!UA",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "750,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "750,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P180429": {
+      "curr_total_commitment": "100",
+      "curr_ibrd_commitment": "100",
+      "curr_ida_commitment": "0",
+      "id": "P180429",
+      "regionname": "Latin America and Caribbean",
+      "countryname": [
+        "Federative Republic of Brazil"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Bahia Sustainable Rural Development Project",
+      "board_approval_month": "November",
+      "totalamt": "100,000,000",
+      "borrower": "Government of the State of Bahia",
+      "impagency": "CAR - Companhia de Desenvolvimento e Acao Regional",
+      "countrycode": [
+        "BR"
+      ],
+      "countryshortname": "Brazil",
+      "p2a_updated_date": "2024-11-11 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "100,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "10",
+      "teamleadname": "Eirivelthon Santos Lima,Carlos Bellas Lamas,Luis Alfonso Alvestegui Justiniano",
+      "boardapprovaldate": "2024-11-07T00:00:00Z",
+      "closingdate": "10/30/2030 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180429",
+      "proj_and_ln_country": [
+        "BR"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "10"
+        }
+      ],
+      "country_namecode": "150000000!$!BR",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "100,000,000",
+      "lendprojectcost": "150,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P506476": {
+      "curr_total_commitment": "0",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "0",
+      "id": "P506476",
+      "regionname": "Europe and Central Asia",
+      "countryname": [
+        "Ukraine"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "projectstatusdisplay": "Active",
+      "project_name": "Strengthening Government Capacity for Fiscal Reform Implementation",
+      "board_approval_month": "November",
+      "totalamt": "0",
+      "countrycode": [
+        "UA"
+      ],
+      "countryshortname": "Ukraine",
+      "p2a_updated_date": "2024-11-06 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "0",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "4",
+      "teamleadname": "Mariia Nikitova,Iryna Shcherbyna,Oleksii Balabushko,Urska Zrinski",
+      "boardapprovaldate": "2024-11-05T00:00:00Z",
+      "closingdate": "12/31/2028 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P506476",
+      "proj_and_ln_country": [
+        "UA"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "4"
+        }
+      ],
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "0",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P178254": {
+      "curr_total_commitment": "200",
+      "curr_ibrd_commitment": "200",
+      "curr_ida_commitment": "0",
+      "id": "P178254",
+      "regionname": "South Asia",
+      "countryname": [
+        "Republic of India"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Kerala Climate Resilient Agri- Value Chain Modernization (KERA) Project",
+      "board_approval_month": "October",
+      "totalamt": "200,000,000",
+      "impagency": "Ishita Roy",
+      "countrycode": [
+        "IN"
+      ],
+      "countryshortname": "India",
+      "p2a_updated_date": "2024-11-04 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "200,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "5",
+      "teamleadname": "Christopher Paul Jackson,Amadou Dem,Azeb Fissha Mekonnen",
+      "boardapprovaldate": "2024-10-31T00:00:00Z",
+      "closingdate": "11/30/2029 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P178254",
+      "proj_and_ln_country": [
+        "IN"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "5"
+        }
+      ],
+      "country_namecode": "285000000!$!IN",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "200,000,000",
+      "lendprojectcost": "285,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P181457": {
+      "curr_total_commitment": "150",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "150",
+      "id": "P181457",
+      "regionname": "Western and Central Africa",
+      "countryname": [
+        "Republic of Benin"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Development Policy Lending",
+      "lendinginstrtype": "AD",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Benin Second Boosting Inclusive Growth and Resilience DPF and PBG",
+      "board_approval_month": "October",
+      "totalamt": "150,000,000",
+      "borrower": "Ministry of Economy and Finance",
+      "impagency": "Customs Service",
+      "countrycode": [
+        "BJ"
+      ],
+      "countryshortname": "Benin",
+      "p2a_updated_date": "2024-11-04 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "150,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "5",
+      "teamleadname": "Felix Oppong,Van Anh Vu Hong,Vincent Francois Jean Launay",
+      "boardapprovaldate": "2024-10-31T00:00:00Z",
+      "closingdate": "12/31/2025 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181457",
+      "proj_and_ln_country": [
+        "BJ"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "5"
+        }
+      ],
+      "country_namecode": "0!$!BJ",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "150,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "150,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P181746": {
+      "curr_total_commitment": "150",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "150",
+      "id": "P181746",
+      "regionname": "Western and Central Africa",
+      "countryname": [
+        "Republic of Benin"
+      ],
+      "prodline": "GU",
+      "lendinginstr": "Development Policy Lending",
+      "lendinginstrtype": "AD",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Benin Boosting Inclusive Growth and Resilience DPF2 FY25 Guarantee",
+      "board_approval_month": "October",
+      "totalamt": "221,500,000",
+      "countrycode": [
+        "BJ"
+      ],
+      "countryshortname": "Benin",
+      "p2a_updated_date": "2024-11-12 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "221,500,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "4",
+      "teamleadname": "Felix Oppong",
+      "boardapprovaldate": "2024-10-31T00:00:00Z",
+      "closingdate": "12/13/2039 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181746",
+      "proj_and_ln_country": [
+        "BJ"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "4"
+        }
+      ],
+      "country_namecode": "0!$!BJ",
+      "p2a_flag": "Y",
+      "prodlinetext": "Guarantees",
+      "idacommamt": "221,500,000",
+      "ibrdcommamt": "0",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P505616": {
+      "curr_total_commitment": "3429.89",
+      "curr_ibrd_commitment": "1900",
+      "curr_ida_commitment": "1529.89",
+      "id": "P505616",
+      "regionname": "Europe and Central Asia",
+      "countryname": [
+        "Ukraine"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Program-for-Results Financing",
+      "lendinginstrtype": "PR",
+      "projectstatusdisplay": "Active",
+      "project_name": "Resilient, Inclusive and Sustainable Enterprise Program for Results",
+      "board_approval_month": "October",
+      "totalamt": "3,429,890,000",
+      "countrycode": [
+        "UA"
+      ],
+      "countryshortname": "Ukraine",
+      "p2a_updated_date": "2024-11-04 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "3,429,890,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "2",
+      "teamleadname": "Alberto Criscuolo,Johanna Jaeger",
+      "boardapprovaldate": "2024-10-31T00:00:00Z",
+      "closingdate": "10/31/2027 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P505616",
+      "proj_and_ln_country": [
+        "UA"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "2"
+        }
+      ],
+      "country_namecode": "0!$!UA",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "1,529,890,000",
+      "ibrdcommamt": "1,900,000,000",
+      "lendprojectcost": "3,429,890,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P180965": {
+      "curr_total_commitment": "30",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "30",
+      "id": "P180965",
+      "regionname": "East Asia and Pacific",
+      "countryname": [
+        "Kingdom of Tonga"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Health Enhancement and Resiliency in Tonga Project",
+      "board_approval_month": "October",
+      "totalamt": "30,000,000",
+      "countrycode": [
+        "TO"
+      ],
+      "countryshortname": "Tonga",
+      "p2a_updated_date": "2024-11-01 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "30,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "10",
+      "teamleadname": "Kari L. Hurt",
+      "boardapprovaldate": "2024-10-30T00:00:00Z",
+      "closingdate": "6/28/2030 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180965",
+      "proj_and_ln_country": [
+        "TO"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "10"
+        }
+      ],
+      "country_namecode": "23000000!$!TO",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "30,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "23,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P180807": {
+      "curr_total_commitment": "20.05",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "20.05",
+      "id": "P180807",
+      "regionname": "East Asia and Pacific",
+      "countryname": [
+        "Samoa"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Digitally Connected and Resilient Samoa Project",
+      "board_approval_month": "October",
+      "totalamt": "20,050,000",
+      "countrycode": [
+        "WS"
+      ],
+      "countryshortname": "Samoa",
+      "p2a_updated_date": "2024-10-20 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "20,050,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "10",
+      "teamleadname": "Shivnesh Roynendra Prasad,Ji Eun Choi",
+      "boardapprovaldate": "2024-10-18T00:00:00Z",
+      "closingdate": "10/30/2029 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180807",
+      "proj_and_ln_country": [
+        "WS"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "10"
+        }
+      ],
+      "country_namecode": "20050000!$!WS",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "20,050,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "35,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P181456": {
+      "curr_total_commitment": "21",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "21",
+      "id": "P181456",
+      "regionname": "East Asia and Pacific",
+      "countryname": [
+        "Samoa"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Samoa Finance Sector Resilience and Development Project",
+      "board_approval_month": "October",
+      "totalamt": "21,000,000",
+      "countrycode": [
+        "WS"
+      ],
+      "countryshortname": "Samoa",
+      "p2a_updated_date": "2024-10-20 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "21,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "11",
+      "teamleadname": "Rekha Reddy,Christopher David Miller,Ji Eun Choi",
+      "boardapprovaldate": "2024-10-18T00:00:00Z",
+      "closingdate": "12/17/2029 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181456",
+      "proj_and_ln_country": [
+        "WS"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "11"
+        }
+      ],
+      "country_namecode": "17000000!$!WS",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "21,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "17,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P181584": {
+      "curr_total_commitment": "40",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "40",
+      "id": "P181584",
+      "regionname": "Latin America and Caribbean",
+      "countryname": [
+        "Republic of Haiti"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "Y",
+      "projectstatusdisplay": "Active",
+      "project_name": "Additional Financing: Haiti Renewable Energy For All",
+      "board_approval_month": "October",
+      "totalamt": "40,000,000",
+      "borrower": "Ministry of Finance",
+      "impagency": "MTPTC Energy Cell, Ministry of Public Works, Transportation and Communication",
+      "countrycode": [
+        "HT"
+      ],
+      "countryshortname": "Haiti",
+      "p2a_updated_date": "2024-10-20 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "40,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "8",
+      "teamleadname": "Alassane Agalassou",
+      "boardapprovaldate": "2024-10-18T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181584",
+      "proj_and_ln_country": [
+        "HT"
+      ],
+      "ln_country_id": [
+        "HT"
+      ],
+      "ln_country_id_desc": [
+        "Haiti"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "8"
+        }
+      ],
+      "country_namecode": "20000000!$!HT",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "40,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "20,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P181624": {
+      "curr_total_commitment": "95",
+      "curr_ibrd_commitment": "95",
+      "curr_ida_commitment": "0",
+      "id": "P181624",
+      "regionname": "Europe and Central Asia",
+      "countryname": [
+        "Republic of Turkiye"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "Y",
+      "projectstatusdisplay": "Active",
+      "project_name": "Additional Financing: T\u00fcrkiye Irrigation Modernization Project",
+      "board_approval_month": "October",
+      "totalamt": "95,000,000",
+      "borrower": "Republic of Turkey",
+      "impagency": "Devlet Su Isleri (DSI)",
+      "countrycode": [
+        "TR"
+      ],
+      "countryshortname": "Turkiye",
+      "p2a_updated_date": "2024-10-20 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "95,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "10",
+      "teamleadname": "Regassa Ensermu Namara,Ahmed Shawky Mohamed Abdelghany,Canan Yildiz Uz",
+      "boardapprovaldate": "2024-10-17T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181624",
+      "proj_and_ln_country": [
+        "TR"
+      ],
+      "ln_country_id": [
+        "TR"
+      ],
+      "ln_country_id_desc": [
+        "Turkey"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "10"
+        }
+      ],
+      "country_namecode": "95000000!$!TR",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "95,000,000",
+      "lendprojectcost": "95,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P507316": {
+      "curr_total_commitment": "0",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "0",
+      "id": "P507316",
+      "regionname": "Latin America and Caribbean",
+      "countryname": [
+        "St. Vincent and the Grenadines"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "projectstatusdisplay": "Active",
+      "project_name": "Saint Vincent and the Grenadines: Beryl Emergency Resilient Recovery Project",
+      "board_approval_month": "October",
+      "totalamt": "0",
+      "countrycode": [
+        "VC"
+      ],
+      "countryshortname": "St. Vincent and the Grenadines",
+      "p2a_updated_date": "2024-10-20 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "0",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "8",
+      "teamleadname": "Jared Phillip Mercadante,Elad Shenfeld",
+      "boardapprovaldate": "2024-10-17T00:00:00Z",
+      "closingdate": "10/30/2031 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P507316",
+      "proj_and_ln_country": [
+        "VC"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "8"
+        }
+      ],
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "0",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P501648": {
+      "curr_total_commitment": "540",
+      "curr_ibrd_commitment": "150",
+      "curr_ida_commitment": "390",
+      "id": "P501648",
+      "regionname": "Eastern and Southern Africa",
+      "countryname": [
+        "Republic of Kenya"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Program-for-Results Financing",
+      "lendinginstrtype": "PR",
+      "projectstatusdisplay": "Active",
+      "project_name": "Kenya Secondary Education Equity and Quality Improvement Program",
+      "board_approval_month": "October",
+      "totalamt": "540,000,000",
+      "countrycode": [
+        "KE"
+      ],
+      "countryshortname": "Kenya",
+      "p2a_updated_date": "2024-10-20 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "540,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "7",
+      "teamleadname": "Ruth Karimi Charo",
+      "boardapprovaldate": "2024-10-17T00:00:00Z",
+      "closingdate": "12/31/2029 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P501648",
+      "proj_and_ln_country": [
+        "KE"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "7"
+        }
+      ],
+      "country_namecode": "0!$!KE",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "390,000,000",
+      "ibrdcommamt": "150,000,000",
+      "lendprojectcost": "540,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P181295": {
+      "curr_total_commitment": "20.2",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "20.2",
+      "id": "P181295",
+      "regionname": "East Asia and Pacific",
+      "countryname": [
+        "Solomon Islands"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Community Access and Urban Services Enhancement Project II",
+      "board_approval_month": "October",
+      "totalamt": "20,200,000",
+      "countrycode": [
+        "SB"
+      ],
+      "countryshortname": "Solomon Islands",
+      "p2a_updated_date": "2024-10-17 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "20,200,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "7",
+      "teamleadname": "Sonya Woo,Andre A. Bald,Ifeta Smajic",
+      "boardapprovaldate": "2024-10-15T00:00:00Z",
+      "closingdate": "9/30/2030 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181295",
+      "proj_and_ln_country": [
+        "SB"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "7"
+        }
+      ],
+      "country_namecode": "15000000!$!SB",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "20,200,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "15,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P178237": {
+      "curr_total_commitment": "56",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "56",
+      "id": "P178237",
+      "regionname": "East Asia and Pacific",
+      "countryname": [
+        "Federated States of Micronesia"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Pacific Islands Regional Oceanscape Program - Second Phase for Economic Resilience: Federated States of Micronesia (FSM PROPER)",
+      "board_approval_month": "October",
+      "totalamt": "56,000,000",
+      "borrower": "Department of Finance and Administration",
+      "impagency": "National Oceanic Resource Management Authority, Department of Resource & Development",
+      "countrycode": [
+        "FM"
+      ],
+      "countryshortname": "Micronesia, Federated States of",
+      "p2a_updated_date": "2024-10-17 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "56,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "10",
+      "teamleadname": "Iretomiwa Olatunji,Aimee Terese Hall,Xavier F. P. Vincent",
+      "boardapprovaldate": "2024-10-15T00:00:00Z",
+      "closingdate": "9/30/2030 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P178237",
+      "proj_and_ln_country": [
+        "FM"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "10"
+        }
+      ],
+      "country_namecode": "30000000!$!FM",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "56,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "30,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": [],
+      "theme_list": [
+        {
+          "name": "Environment and Natural Resource Management",
+          "code": "80",
+          "seqno": "1",
+          "percent": "0",
+          "theme2": [
+            {
+              "name": "Renewable Natural Resources Asset Management",
+              "code": "83",
+              "seqno": "2",
+              "percent": "0",
+              "theme3": [
+                {
+                  "name": "Coastal Zone Management",
+                  "code": "836",
+                  "seqno": "3",
+                  "percent": "0"
+                },
+                {
+                  "name": "Biodiversity",
+                  "code": "834",
+                  "seqno": "3",
+                  "percent": "0"
+                },
+                {
+                  "name": "Oceans",
+                  "code": "833",
+                  "seqno": "3",
+                  "percent": "0"
+                },
+                {
+                  "name": "Fisheries Policies and institutions",
+                  "code": "832",
+                  "seqno": "3",
+                  "percent": "0"
+                }
+              ]
+            },
+            {
+              "name": "Environmental Health and Pollution Management",
+              "code": "82",
+              "seqno": "2",
+              "percent": "0",
+              "theme3": [
+                {
+                  "name": "Water Pollution",
+                  "code": "822",
+                  "seqno": "3",
+                  "percent": "0"
+                }
+              ]
+            },
+            {
+              "name": "Climate change",
+              "code": "81",
+              "seqno": "2",
+              "percent": "0",
+              "theme3": [
+                {
+                  "name": "Mitigation",
+                  "code": "811",
+                  "seqno": "3",
+                  "percent": "0"
+                },
+                {
+                  "name": "Adaptation",
+                  "code": "812",
+                  "seqno": "3",
+                  "percent": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Urban and Rural Development",
+          "code": "70",
+          "seqno": "1",
+          "percent": "0"
+        },
+        {
+          "name": "Human Development and Gender",
+          "code": "60",
+          "seqno": "1",
+          "percent": "0",
+          "theme2": [
+            {
+              "name": "Gender",
+              "code": "61",
+              "seqno": "2",
+              "percent": "0"
+            }
+          ]
+        },
+        {
+          "name": "Social Development and Protection",
+          "code": "50",
+          "seqno": "1",
+          "percent": "0"
+        },
+        {
+          "name": "Private Sector Development",
+          "code": "20",
+          "seqno": "1",
+          "percent": "0",
+          "theme2": [
+            {
+              "name": "Regional Integration",
+              "code": "25",
+              "seqno": "2",
+              "percent": "0"
+            }
+          ]
+        }
+      ]
+    },
+    "P178842": {
+      "curr_total_commitment": "150",
+      "curr_ibrd_commitment": "150",
+      "curr_ida_commitment": "0",
+      "id": "P178842",
+      "regionname": "Latin America and Caribbean",
+      "countryname": [
+        "Republic of Peru"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Improving Lima Traffic Management and Supporting Sustainable Transport Project",
+      "board_approval_month": "October",
+      "totalamt": "150,000,000",
+      "borrower": "MEF",
+      "impagency": "ProTransito (Metropolitan Municipality of Lima)",
+      "countrycode": [
+        "PE"
+      ],
+      "countryshortname": "Peru",
+      "p2a_updated_date": "2024-10-17 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "150,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "11",
+      "teamleadname": "Felipe Targa Rodriguez,Aiga Stokenberga",
+      "boardapprovaldate": "2024-10-15T00:00:00Z",
+      "closingdate": "10/30/2029 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P178842",
+      "proj_and_ln_country": [
+        "PE"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "11"
+        }
+      ],
+      "country_namecode": "150000000!$!PE",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "150,000,000",
+      "lendprojectcost": "169,200,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": [],
+      "theme_list": [
+        {
+          "name": "Environment and Natural Resource Management",
+          "code": "80",
+          "seqno": "1",
+          "percent": "0",
+          "theme2": [
+            {
+              "name": "Environmental Health and Pollution Management",
+              "code": "82",
+              "seqno": "2",
+              "percent": "0",
+              "theme3": [
+                {
+                  "name": "Air quality management",
+                  "code": "821",
+                  "seqno": "3",
+                  "percent": "0"
+                }
+              ]
+            },
+            {
+              "name": "Climate change",
+              "code": "81",
+              "seqno": "2",
+              "percent": "0",
+              "theme3": [
+                {
+                  "name": "Mitigation",
+                  "code": "811",
+                  "seqno": "3",
+                  "percent": "0"
+                },
+                {
+                  "name": "Adaptation",
+                  "code": "812",
+                  "seqno": "3",
+                  "percent": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Urban and Rural Development",
+          "code": "70",
+          "seqno": "1",
+          "percent": "0",
+          "theme2": [
+            {
+              "name": "Road Safety",
+              "code": "74",
+              "seqno": "2",
+              "percent": "0"
+            },
+            {
+              "name": "Disaster Risk Management",
+              "code": "75",
+              "seqno": "2",
+              "percent": "0",
+              "theme3": [
+                {
+                  "name": "Disaster Response and Recovery",
+                  "code": "751",
+                  "seqno": "3",
+                  "percent": "0"
+                }
+              ]
+            },
+            {
+              "name": "Urban Development",
+              "code": "71",
+              "seqno": "2",
+              "percent": "0",
+              "theme3": [
+                {
+                  "name": "Urban Infrastructure and Service Delivery",
+                  "code": "711",
+                  "seqno": "3",
+                  "percent": "0"
+                },
+                {
+                  "name": "Urban Planning",
+                  "code": "714",
+                  "seqno": "3",
+                  "percent": "0"
+                },
+                {
+                  "name": "Public Transport",
+                  "code": "713",
+                  "seqno": "3",
+                  "percent": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Human Development and Gender",
+          "code": "60",
+          "seqno": "1",
+          "percent": "0",
+          "theme2": [
+            {
+              "name": "Gender",
+              "code": "61",
+              "seqno": "2",
+              "percent": "0"
+            }
+          ]
+        },
+        {
+          "name": "Public Sector Management",
+          "code": "40",
+          "seqno": "1",
+          "percent": "0"
+        },
+        {
+          "name": "Private Sector Development",
+          "code": "20",
+          "seqno": "1",
+          "percent": "0",
+          "theme2": [
+            {
+              "name": "ICT",
+              "code": "26",
+              "seqno": "2",
+              "percent": "0",
+              "theme3": [
+                {
+                  "name": "ICT Solutions",
+                  "code": "261",
+                  "seqno": "3",
+                  "percent": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "P176317": {
+      "curr_total_commitment": "287.24",
+      "curr_ibrd_commitment": "287.24",
+      "curr_ida_commitment": "0",
+      "id": "P176317",
+      "regionname": "East Asia and Pacific",
+      "countryname": [
+        "Republic of the Philippines"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Philippines Digital Infrastructure Project",
+      "board_approval_month": "October",
+      "totalamt": "287,240,000",
+      "borrower": "Department of Finance",
+      "impagency": "Department of ICT",
+      "countrycode": [
+        "PH"
+      ],
+      "countryshortname": "Philippines",
+      "p2a_updated_date": "2024-10-14 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "287,240,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "8",
+      "teamleadname": "Benqing Jennifer Gui,Bertram Boie,Naoto Kanehira",
+      "boardapprovaldate": "2024-10-10T00:00:00Z",
+      "closingdate": "12/31/2028 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P176317",
+      "proj_and_ln_country": [
+        "PH"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "8"
+        }
+      ],
+      "country_namecode": "300000000!$!PH",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "287,240,000",
+      "lendprojectcost": "100,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P181344": {
+      "curr_total_commitment": "150",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "150",
+      "id": "P181344",
+      "regionname": "South Asia",
+      "countryname": [
+        "Nepal"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Development Policy Lending",
+      "lendinginstrtype": "AD",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Nepal Disaster Resilience Development Policy Credit with Cat DDO (NDRC)",
+      "board_approval_month": "October",
+      "totalamt": "150,000,000",
+      "countrycode": [
+        "NP"
+      ],
+      "countryshortname": "Nepal",
+      "p2a_updated_date": "2024-10-10 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "150,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "11",
+      "teamleadname": "Iguniwari Thomas Ekeu-Wei,Mamata Ghimire",
+      "boardapprovaldate": "2024-10-08T00:00:00Z",
+      "closingdate": "11/30/2027 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181344",
+      "proj_and_ln_country": [
+        "NP"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "11"
+        }
+      ],
+      "country_namecode": "0!$!NP",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "150,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "150,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P178646": {
+      "curr_total_commitment": "86.6",
+      "curr_ibrd_commitment": "86.6",
+      "curr_ida_commitment": "0",
+      "id": "P178646",
+      "regionname": "Europe and Central Asia",
+      "countryname": [
+        "Montenegro"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Development Policy Lending",
+      "lendinginstrtype": "AD",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Montenegro First Resilient Fiscal and Sustainable Development DPF",
+      "board_approval_month": "October",
+      "totalamt": "86,600,000",
+      "borrower": "Ministry of Finance",
+      "impagency": "Ministry of Finance",
+      "countrycode": [
+        "ME"
+      ],
+      "countryshortname": "Montenegro",
+      "p2a_updated_date": "2024-10-07 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "86,600,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "3",
+      "teamleadname": "Christos Kostopoulos,Maja Murisic,Milan Lakicevic",
+      "boardapprovaldate": "2024-10-04T00:00:00Z",
+      "closingdate": "3/31/2026 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P178646",
+      "proj_and_ln_country": [
+        "ME"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "3"
+        }
+      ],
+      "country_namecode": "0!$!ME",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "86,600,000",
+      "lendprojectcost": "86,600,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P501037": {
+      "curr_total_commitment": "300",
+      "curr_ibrd_commitment": "300",
+      "curr_ida_commitment": "0",
+      "id": "P501037",
+      "regionname": "Europe and Central Asia",
+      "countryname": [
+        "Republic of Uzbekistan"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Development Policy Lending",
+      "lendinginstrtype": "AD",
+      "projectstatusdisplay": "Active",
+      "project_name": "Second Inclusive and Resilient Market Economy Development Policy Operation",
+      "board_approval_month": "October",
+      "totalamt": "300,000,000",
+      "countrycode": [
+        "UZ"
+      ],
+      "countryshortname": "Uzbekistan",
+      "p2a_updated_date": "2024-10-07 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "300,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "3",
+      "teamleadname": "Pinar Yasar,Wei-Jen Leow",
+      "boardapprovaldate": "2024-10-03T00:00:00Z",
+      "closingdate": "12/31/2026 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P501037",
+      "proj_and_ln_country": [
+        "UZ"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "3"
+        }
+      ],
+      "country_namecode": "0!$!UZ",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "300,000,000",
+      "lendprojectcost": "300,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P180501": {
+      "curr_total_commitment": "250",
+      "curr_ibrd_commitment": "250",
+      "curr_ida_commitment": "0",
+      "id": "P180501",
+      "regionname": "Middle East and North Africa",
+      "countryname": [
+        "Lebanese Republic"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Lebanon Renewable Energy and System Reinforcement Project",
+      "board_approval_month": "October",
+      "totalamt": "250,000,000",
+      "borrower": "Lebanese Republic",
+      "impagency": "Electricit\ufffd du Liban (EDL), Ministry of Energy and Water",
+      "countrycode": [
+        "LB"
+      ],
+      "countryshortname": "Lebanon",
+      "p2a_updated_date": "2024-10-03 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "250,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "3",
+      "teamleadname": "Alexis Lucien Emmanuel Madelain,Mohamed Zakaria Kamh,Yanchao Li",
+      "boardapprovaldate": "2024-10-01T00:00:00Z",
+      "closingdate": "12/31/2030 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180501",
+      "proj_and_ln_country": [
+        "LB"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "3"
+        }
+      ],
+      "country_namecode": "150000000!$!LB",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "250,000,000",
+      "lendprojectcost": "250,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P180860": {
+      "curr_total_commitment": "653",
+      "curr_ibrd_commitment": "653",
+      "curr_ida_commitment": "0",
+      "id": "P180860",
+      "regionname": "East Asia and Pacific",
+      "countryname": [
+        "Republic of Indonesia"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Integrated Land Administration and Spatial Planning Project",
+      "board_approval_month": "September",
+      "totalamt": "653,000,000",
+      "borrower": "Republic of Indonesia",
+      "impagency": "Ministry of Agrarian Affairs and Spatial Planning / National Land Agency (ATR/BPN)",
+      "countrycode": [
+        "ID"
+      ],
+      "countryshortname": "Indonesia",
+      "p2a_updated_date": "2024-10-02 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "653,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "11",
+      "teamleadname": "Willem Egbert Van Der Muur,Dong Kyu Kwak",
+      "boardapprovaldate": "2024-09-30T00:00:00Z",
+      "closingdate": "11/30/2029 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180860",
+      "proj_and_ln_country": [
+        "ID"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "11"
+        }
+      ],
+      "country_namecode": "600000000!$!ID",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "653,000,000",
+      "lendprojectcost": "653,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P179513": {
+      "curr_total_commitment": "500",
+      "curr_ibrd_commitment": "500",
+      "curr_ida_commitment": "0",
+      "id": "P179513",
+      "regionname": "Eastern and Southern Africa",
+      "countryname": [
+        "Republic of Angola"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Development Policy Lending",
+      "lendinginstrtype": "AD",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Second Green, Resilient, Inclusive Growth and Diversification Development Policy Loan",
+      "board_approval_month": "September",
+      "totalamt": "500,000,000",
+      "borrower": "Republic of Angola",
+      "impagency": "Ministry of Finance of Angola",
+      "countrycode": [
+        "AO"
+      ],
+      "countryshortname": "Angola",
+      "p2a_updated_date": "2024-10-02 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "500,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "11",
+      "teamleadname": "Nelson Tisso Miezi Eduardo,Benedicte Helene Cecile Baduel,Harun Onder",
+      "boardapprovaldate": "2024-09-30T00:00:00Z",
+      "closingdate": "12/31/2026 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P179513",
+      "proj_and_ln_country": [
+        "AO"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "11"
+        }
+      ],
+      "country_namecode": "0!$!AO",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "500,000,000",
+      "lendprojectcost": "500,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P179284": {
+      "curr_total_commitment": "56",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "56",
+      "id": "P179284",
+      "regionname": "East Asia and Pacific",
+      "countryname": [
+        "Lao People's Democratic Republic"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Lao PDR Climate Resilient Road Connectivity Improvement Project",
+      "board_approval_month": "September",
+      "totalamt": "56,000,000",
+      "borrower": "Ministry of Finance",
+      "impagency": "Ministry of Public Works and Transport",
+      "countrycode": [
+        "LA"
+      ],
+      "countryshortname": "Lao People's Democratic Republic",
+      "p2a_updated_date": "2024-10-02 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "56,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "4",
+      "teamleadname": "Pratap Tvgssshrk,Sombath Southivong",
+      "boardapprovaldate": "2024-09-30T00:00:00Z",
+      "closingdate": "8/30/2030 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P179284",
+      "proj_and_ln_country": [
+        "LA"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "4"
+        }
+      ],
+      "country_namecode": "35000000!$!LA",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "56,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "34,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P503941": {
+      "curr_total_commitment": "0",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "0",
+      "id": "P503941",
+      "regionname": "Eastern and Southern Africa",
+      "countryname": [
+        "Republic of Zambia"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "projectstatusdisplay": "Active",
+      "project_name": "Zambia Refugee and Host Communities Project - ZRHCP",
+      "board_approval_month": "September",
+      "totalamt": "0",
+      "countrycode": [
+        "ZM"
+      ],
+      "countryshortname": "Zambia",
+      "p2a_updated_date": "2024-09-29 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "0",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "11",
+      "teamleadname": "Njavwa Namposya Chilufya,Tanya Lynn D'Lima",
+      "boardapprovaldate": "2024-09-26T00:00:00Z",
+      "closingdate": "10/31/2028 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P503941",
+      "proj_and_ln_country": [
+        "ZM"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "11"
+        }
+      ],
+      "country_namecode": "0!$!ZM",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "0",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P181485": {
+      "curr_total_commitment": "26.7",
+      "curr_ibrd_commitment": "26.7",
+      "curr_ida_commitment": "0",
+      "id": "P181485",
+      "regionname": "Europe and Central Asia",
+      "countryname": [
+        "Republic of Serbia"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "Y",
+      "projectstatusdisplay": "Active",
+      "project_name": "Second Additional Financing for the Serbia Accelerating Innovation and Growth Entrepreneurship Project",
+      "board_approval_month": "September",
+      "totalamt": "26,700,000",
+      "borrower": "Republic of Serbia",
+      "impagency": "Ministry of Science, Technological Development  and Innovation (NITRA)",
+      "countrycode": [
+        "YF"
+      ],
+      "countryshortname": "Serbia",
+      "p2a_updated_date": "2024-09-29 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "26,700,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "6",
+      "teamleadname": "Maja Andjelkovic,Ruvejda Aliefendic",
+      "boardapprovaldate": "2024-09-26T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181485",
+      "proj_and_ln_country": [
+        "YF"
+      ],
+      "ln_country_id": [
+        "YF"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "6"
+        }
+      ],
+      "country_namecode": "26700000!$!YF",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "26,700,000",
+      "lendprojectcost": "27,180,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P181476": {
+      "curr_total_commitment": "500",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "500",
+      "id": "P181476",
+      "regionname": "Western and Central Africa",
+      "countryname": [
+        "Federal Republic of Nigeria"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Program-for-Results Financing",
+      "lendinginstrtype": "PR",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Nigeria Human Capital Opportunities for Prosperity and Equity (HOPE) - Governance",
+      "board_approval_month": "September",
+      "totalamt": "500,000,000",
+      "borrower": "Federal Republic of Nigeria",
+      "impagency": "Federal Ministry of Education",
+      "countrycode": [
+        "NG"
+      ],
+      "countryshortname": "Nigeria",
+      "p2a_updated_date": "2024-09-29 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "500,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "4",
+      "teamleadname": "Ikechukwu John Azubike Nweje,Dilip Parajuli,Olumide Olaolu Okunola",
+      "boardapprovaldate": "2024-09-26T00:00:00Z",
+      "closingdate": "6/30/2029 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181476",
+      "proj_and_ln_country": [
+        "NG"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "4"
+        }
+      ],
+      "country_namecode": "500000000!$!NG",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "500,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "10,750,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P179684": {
+      "curr_total_commitment": "500",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "500",
+      "id": "P179684",
+      "regionname": "Western and Central Africa",
+      "countryname": [
+        "Federal Republic of Nigeria"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Sustainable Power and Irrigation for Nigeria Project",
+      "board_approval_month": "September",
+      "totalamt": "500,000,000",
+      "borrower": "FEDERAL GOVERNMENT OF NIGERIA",
+      "impagency": "Federal Ministry of Water Resources",
+      "countrycode": [
+        "NG"
+      ],
+      "countryshortname": "Nigeria",
+      "p2a_updated_date": "2024-09-29 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "500,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "4",
+      "teamleadname": "Emmanuel Chinedu Umolu,Pravin Karki,Yo Nishimura",
+      "boardapprovaldate": "2024-09-26T00:00:00Z",
+      "closingdate": "12/31/2029 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P179684",
+      "proj_and_ln_country": [
+        "NG"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "4"
+        }
+      ],
+      "country_namecode": "500000000!$!NG",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "500,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "700,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P504693": {
+      "curr_total_commitment": "450",
+      "curr_ibrd_commitment": "450",
+      "curr_ida_commitment": "0",
+      "id": "P504693",
+      "regionname": "Western and Central Africa",
+      "countryname": [
+        "Federal Republic of Nigeria"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Program-for-Results Financing",
+      "lendinginstrtype": "PR",
+      "projectstatusdisplay": "Active",
+      "project_name": "NGR BHCPP",
+      "board_approval_month": "September",
+      "totalamt": "450,000,000",
+      "countrycode": [
+        "NG"
+      ],
+      "countryshortname": "Nigeria",
+      "p2a_updated_date": "2024-09-29 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "450,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "11",
+      "teamleadname": "Olumide Olaolu Okunola,Owen K. Smith,Ritgak Asabe Sarah Tilley Gyado",
+      "boardapprovaldate": "2024-09-26T00:00:00Z",
+      "closingdate": "6/30/2029 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P504693",
+      "proj_and_ln_country": [
+        "NG"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "11"
+        }
+      ],
+      "country_namecode": "0!$!NG",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "450,000,000",
+      "lendprojectcost": "450,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P180000": {
+      "curr_total_commitment": "92.2",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "92.2",
+      "id": "P180000",
+      "regionname": "Western and Central Africa",
+      "countryname": [
+        "Republic of Chad"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Chad Digital Transformation Project",
+      "board_approval_month": "September",
+      "totalamt": "92,200,000",
+      "borrower": "Republic of Chad",
+      "impagency": "Ministry of Telecommunications and Digital Economy",
+      "countrycode": [
+        "TD"
+      ],
+      "countryshortname": "Chad",
+      "p2a_updated_date": "2024-09-27 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "92,200,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "4",
+      "teamleadname": "Marc Jean Yves Lixi,Sarah Carine Zekri,Tounwende Alain Sawadogo",
+      "boardapprovaldate": "2024-09-25T00:00:00Z",
+      "closingdate": "4/30/2029 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180000",
+      "proj_and_ln_country": [
+        "TD"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "4"
+        }
+      ],
+      "country_namecode": "120000000!$!TD",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "92,200,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "120,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": [],
+      "theme_list": [
+        {
+          "name": "Environment and Natural Resource Management",
+          "code": "80",
+          "seqno": "1",
+          "percent": "0",
+          "theme2": [
+            {
+              "name": "Climate change",
+              "code": "81",
+              "seqno": "2",
+              "percent": "0",
+              "theme3": [
+                {
+                  "name": "Adaptation",
+                  "code": "812",
+                  "seqno": "3",
+                  "percent": "0"
+                },
+                {
+                  "name": "Mitigation",
+                  "code": "811",
+                  "seqno": "3",
+                  "percent": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Urban and Rural Development",
+          "code": "70",
+          "seqno": "1",
+          "percent": "0"
+        },
+        {
+          "name": "Human Development and Gender",
+          "code": "60",
+          "seqno": "1",
+          "percent": "0",
+          "theme2": [
+            {
+              "name": "Gender",
+              "code": "61",
+              "seqno": "2",
+              "percent": "0"
+            }
+          ]
+        },
+        {
+          "name": "Public Sector Management",
+          "code": "40",
+          "seqno": "1",
+          "percent": "0"
+        },
+        {
+          "name": "Private Sector Development",
+          "code": "20",
+          "seqno": "1",
+          "percent": "0",
+          "theme2": [
+            {
+              "name": "ICT",
+              "code": "26",
+              "seqno": "2",
+              "percent": "0",
+              "theme3": [
+                {
+                  "name": "ICT Policies",
+                  "code": "262",
+                  "seqno": "3",
+                  "percent": "0"
+                },
+                {
+                  "name": "ICT Solutions",
+                  "code": "261",
+                  "seqno": "3",
+                  "percent": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "P181250": {
+      "curr_total_commitment": "60",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "60",
+      "id": "P181250",
+      "regionname": "East Asia and Pacific",
+      "countryname": [
+        "Republic of the Marshall Islands"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Renewable Energy Generation and Access Increase Project",
+      "board_approval_month": "September",
+      "totalamt": "60,000,000",
+      "countrycode": [
+        "MH"
+      ],
+      "countryshortname": "Marshall Islands",
+      "p2a_updated_date": "2024-10-10 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "60,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "2",
+      "teamleadname": "Alain Ouedraogo",
+      "boardapprovaldate": "2024-09-24T00:00:00Z",
+      "closingdate": "9/30/2030 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181250",
+      "proj_and_ln_country": [
+        "MH"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "2"
+        }
+      ],
+      "country_namecode": "50000000!$!MH",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "60,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "50,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P173194": {
+      "curr_total_commitment": "200",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "200",
+      "id": "P173194",
+      "regionname": "East Asia and Pacific",
+      "countryname": [
+        "The Independent State of Papua New Guine"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "National Energy Access Transformation Project",
+      "board_approval_month": "September",
+      "totalamt": "200,000,000",
+      "borrower": "Independent State of Papua New Guinea",
+      "impagency": "National Energy Authority, PNG Power Limited",
+      "countrycode": [
+        "PG"
+      ],
+      "countryshortname": "Papua New Guinea",
+      "p2a_updated_date": "2024-10-10 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "200,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "10",
+      "teamleadname": "Mariano Salto,Katsuyuki Fukui,Slavena Lyubomirova Georgieva",
+      "boardapprovaldate": "2024-09-24T00:00:00Z",
+      "closingdate": "12/30/2030 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P173194",
+      "proj_and_ln_country": [
+        "PG"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "10"
+        }
+      ],
+      "country_namecode": "350000000!$!PG",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "200,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "350,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P181555": {
+      "curr_total_commitment": "5",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "5",
+      "id": "P181555",
+      "regionname": "East Asia and Pacific",
+      "countryname": [
+        "East Asia and Pacific"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Accelerating Sustainable Energy Transition Program",
+      "board_approval_month": "September",
+      "totalamt": "5,000,000",
+      "borrower": "ASEAN Centre for Energy",
+      "impagency": "ASEAN Centre for Energy",
+      "countrycode": [
+        "4E"
+      ],
+      "countryshortname": "East Asia and Pacific",
+      "p2a_updated_date": "2024-09-29 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "5,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "11",
+      "teamleadname": "Claudia Ines Vasquez Suarez,Xiaodong Wang",
+      "boardapprovaldate": "2024-09-24T00:00:00Z",
+      "closingdate": "6/30/2029 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181555",
+      "proj_and_ln_country": [
+        "4E"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "11"
+        }
+      ],
+      "country_namecode": "5000000!$!4E",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "5,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "7,010,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P180664": {
+      "curr_total_commitment": "80",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "80",
+      "id": "P180664",
+      "regionname": "East Asia and Pacific",
+      "countryname": [
+        "Kingdom of Cambodia"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Second Higher Education Improvement Project",
+      "board_approval_month": "September",
+      "totalamt": "80,000,000",
+      "borrower": "Kingdom of Cambodia",
+      "impagency": "Ministry of Education, Youth and Sport",
+      "countrycode": [
+        "KH"
+      ],
+      "countryshortname": "Cambodia",
+      "p2a_updated_date": "2024-09-25 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "80,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "11",
+      "teamleadname": "Fata No,Lauri Veli Johannes Pynnonen",
+      "boardapprovaldate": "2024-09-23T00:00:00Z",
+      "closingdate": "11/30/2030 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180664",
+      "proj_and_ln_country": [
+        "KH"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "11"
+        }
+      ],
+      "country_namecode": "60000000!$!KH",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "80,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "80,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P506072": {
+      "curr_total_commitment": "85",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "85",
+      "id": "P506072",
+      "regionname": "Western and Central Africa",
+      "countryname": [
+        "Republic of Guinea"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "projectstatusdisplay": "Active",
+      "project_name": "Guinea Enhancing Health System Transformation (GUEST) Project",
+      "board_approval_month": "September",
+      "totalamt": "85,000,000",
+      "countrycode": [
+        "GN"
+      ],
+      "countryshortname": "Guinea",
+      "p2a_updated_date": "2024-09-25 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "85,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "4",
+      "teamleadname": "Zenab Konkobo Kouanda,Teegwende Valerie Porgo",
+      "boardapprovaldate": "2024-09-23T00:00:00Z",
+      "closingdate": "12/31/2029 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P506072",
+      "proj_and_ln_country": [
+        "GN"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "4"
+        }
+      ],
+      "country_namecode": "0!$!GN",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "85,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "85,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P502111": {
+      "curr_total_commitment": "300",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "300",
+      "id": "P502111",
+      "regionname": "Europe and Central Asia",
+      "countryname": [
+        "Romania"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Development Policy Lending",
+      "lendinginstrtype": "AD",
+      "projectstatusdisplay": "Active",
+      "project_name": "Romania Second Disaster Risk Management Development Policy Loan with a Cat DDO",
+      "board_approval_month": "September",
+      "totalamt": "300,000,000",
+      "countrycode": [
+        "RO"
+      ],
+      "countryshortname": "Romania",
+      "p2a_updated_date": "2024-09-23 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "300,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "8",
+      "teamleadname": "Zuzana Stanton-Geddes,Alexandra Calin",
+      "boardapprovaldate": "2024-09-19T00:00:00Z",
+      "closingdate": "12/31/2027 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P502111",
+      "proj_and_ln_country": [
+        "RO"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "8"
+        }
+      ],
+      "country_namecode": "0!$!RO",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "300,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "300,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P506528": {
+      "curr_total_commitment": "0",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "0",
+      "id": "P506528",
+      "regionname": "Western and Central Africa",
+      "countryname": [
+        "Burkina Faso"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "projectstatusdisplay": "Active",
+      "project_name": "Human Capital Protection Project",
+      "board_approval_month": "September",
+      "totalamt": "0",
+      "countrycode": [
+        "BF"
+      ],
+      "countryshortname": "Burkina Faso",
+      "p2a_updated_date": "2024-09-23 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "0",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "8",
+      "teamleadname": "Kolie Ousmane Maurice Megnan,Christophe Lemiere",
+      "boardapprovaldate": "2024-09-19T00:00:00Z",
+      "closingdate": "12/31/2025 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P506528",
+      "proj_and_ln_country": [
+        "BF"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "8"
+        }
+      ],
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "0",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P181415": {
+      "curr_total_commitment": "160",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "160",
+      "id": "P181415",
+      "regionname": "Middle East and North Africa",
+      "countryname": [
+        "Republic of Djibouti"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "Y",
+      "projectstatusdisplay": "Active",
+      "project_name": "Horn of Africa Initiative: Djibouti Regional Economic Corridor  AF",
+      "board_approval_month": "September",
+      "totalamt": "160,000,000",
+      "borrower": "The Republic of Djibouti",
+      "impagency": "ADR",
+      "countrycode": [
+        "DJ"
+      ],
+      "countryshortname": "Djibouti",
+      "p2a_updated_date": "2024-09-18 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "160,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "4",
+      "teamleadname": "Clotilde Virginie Minster,Mira Morad",
+      "boardapprovaldate": "2024-09-16T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181415",
+      "proj_and_ln_country": [
+        "DJ"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "4"
+        }
+      ],
+      "country_namecode": "90000000!$!DJ",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "160,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "160,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P504400": {
+      "curr_total_commitment": "0.25",
+      "curr_ibrd_commitment": "0.25",
+      "curr_ida_commitment": "0",
+      "id": "P504400",
+      "regionname": "Latin America and Caribbean",
+      "countryname": [
+        "Republic of Ecuador"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "projectstatusdisplay": "Active",
+      "project_name": "Ecuador Guayas: Resilient Rural Roads",
+      "board_approval_month": "September",
+      "totalamt": "250,000",
+      "countrycode": [
+        "EC"
+      ],
+      "countryshortname": "Ecuador",
+      "p2a_updated_date": "2024-09-16 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "250,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "11",
+      "teamleadname": "Alejandro Hoyos Guerrero",
+      "boardapprovaldate": "2024-09-13T00:00:00Z",
+      "closingdate": "12/31/2029 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P504400",
+      "proj_and_ln_country": [
+        "EC"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "11"
+        }
+      ],
+      "country_namecode": "0!$!EC",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "250,000",
+      "lendprojectcost": "250,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P181495": {
+      "curr_total_commitment": "400",
+      "curr_ibrd_commitment": "400",
+      "curr_ida_commitment": "0",
+      "id": "P181495",
+      "regionname": "Eastern and Southern Africa",
+      "countryname": [
+        "Republic of Angola"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Enhancing the Social Protection System for Human Capital\u00a0and\u00a0Resilience Project",
+      "board_approval_month": "September",
+      "totalamt": "400,000,000",
+      "borrower": "Ministry of Finance",
+      "impagency": "FAS Local Development Institute",
+      "countrycode": [
+        "AO"
+      ],
+      "countryshortname": "Angola",
+      "p2a_updated_date": "2024-09-16 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "400,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "2",
+      "teamleadname": "Emma Mercedes Monsalve Montiel,Aylin Isik-Dikmelik,Federica Ricaldi",
+      "boardapprovaldate": "2024-09-12T00:00:00Z",
+      "closingdate": "10/31/2029 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181495",
+      "proj_and_ln_country": [
+        "AO"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "2"
+        }
+      ],
+      "country_namecode": "400000000!$!AO",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "400,000,000",
+      "lendprojectcost": "400,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P181681": {
+      "curr_total_commitment": "44",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "44",
+      "id": "P181681",
+      "regionname": "Eastern and Southern Africa",
+      "countryname": [
+        "Republic of South Sudan"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "Y",
+      "projectstatusdisplay": "Active",
+      "project_name": "Additional Financing for Building Skills for Human Capital Development in South Sudan",
+      "board_approval_month": "September",
+      "totalamt": "44,000,000",
+      "borrower": "South Sudan",
+      "impagency": "Ministry of Higher Education, Science and Technology, Ministry of General Education and Instruction",
+      "countrycode": [
+        "SS"
+      ],
+      "countryshortname": "South Sudan",
+      "p2a_updated_date": "2024-09-13 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "44,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "4",
+      "teamleadname": "Huma Ali Waheed,Francisco Haimovich Paz",
+      "boardapprovaldate": "2024-09-11T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181681",
+      "proj_and_ln_country": [
+        "SS"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "4"
+        }
+      ],
+      "country_namecode": "44000000!$!SS",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "44,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "44,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P180549": {
+      "curr_total_commitment": "400",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "400",
+      "id": "P180549",
+      "regionname": "South Asia",
+      "countryname": [
+        "Democratic Socialist Republic of Sri Lan"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Development Policy Lending",
+      "lendinginstrtype": "AD",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Sri Lanka Second Resilience, Stability and Economic Turnaround Development Policy Operation",
+      "board_approval_month": "September",
+      "totalamt": "400,000,000",
+      "borrower": "DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA",
+      "impagency": "Ministry of Finance, Economic Stabilization and National Policies",
+      "countrycode": [
+        "LK"
+      ],
+      "countryshortname": "Sri Lanka",
+      "p2a_updated_date": "2024-09-13 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "400,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "2",
+      "teamleadname": "Richard Ancrum Walker,Karina Baba",
+      "boardapprovaldate": "2024-09-11T00:00:00Z",
+      "closingdate": "9/30/2025 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180549",
+      "proj_and_ln_country": [
+        "LK"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "2"
+        }
+      ],
+      "country_namecode": "0!$!LK",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "400,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "400,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P178808": {
+      "curr_total_commitment": "70",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "70",
+      "id": "P178808",
+      "regionname": "Eastern and Southern Africa",
+      "countryname": [
+        "Federal Democratic Republic of Ethiopia"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Governance Modernization to Enable Efficient Service Delivery Project",
+      "board_approval_month": "September",
+      "totalamt": "70,000,000",
+      "borrower": "Federal Democratic Republic of Ethiopia",
+      "impagency": "Ministry of Finance",
+      "countrycode": [
+        "ET"
+      ],
+      "countryshortname": "Ethiopia",
+      "p2a_updated_date": "2024-09-12 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "70,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "4",
+      "teamleadname": "Vikram Menon",
+      "boardapprovaldate": "2024-09-10T00:00:00Z",
+      "closingdate": "10/9/2029 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P178808",
+      "proj_and_ln_country": [
+        "ET"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "4"
+        }
+      ],
+      "country_namecode": "150000000!$!ET",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "70,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "150,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P180555": {
+      "curr_total_commitment": "150",
+      "curr_ibrd_commitment": "150",
+      "curr_ida_commitment": "0",
+      "id": "P180555",
+      "regionname": "Latin America and Caribbean",
+      "countryname": [
+        "Federative Republic of Brazil"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Brazil Proactive, Safe, and Resilient Road Asset Management Program - State of Bahia",
+      "board_approval_month": "September",
+      "totalamt": "150,000,000",
+      "impagency": "Secretary of Infrastructure of the State of Bahia",
+      "countrycode": [
+        "BR"
+      ],
+      "countryshortname": "Brazil",
+      "p2a_updated_date": "2024-09-12 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "150,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "2",
+      "teamleadname": "Carlos Bellas Lamas,Eric R. Lancelot",
+      "boardapprovaldate": "2024-09-10T00:00:00Z",
+      "closingdate": "11/30/2032 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180555",
+      "proj_and_ln_country": [
+        "BR"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "2"
+        }
+      ],
+      "country_namecode": "187500000!$!BR",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "150,000,000",
+      "lendprojectcost": "187,500,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P178774": {
+      "curr_total_commitment": "70",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "70",
+      "id": "P178774",
+      "regionname": "Western and Central Africa",
+      "countryname": [
+        "Central African Republic"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "CAR Inclusive and Resilient Cities Project",
+      "board_approval_month": "September",
+      "totalamt": "70,000,000",
+      "borrower": "Central African Republic",
+      "impagency": "Ministre de l'Urbanisme, de la R\ufffdforme fonci\ufffdre, de la Ville et de l'Habitat",
+      "countrycode": [
+        "CF"
+      ],
+      "countryshortname": "Central African Republic",
+      "p2a_updated_date": "2024-09-12 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "70,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "9",
+      "teamleadname": "Barbara Metuge Emade,Anne Emmanuelle Laurence Marynczak,Laurent Corroyer",
+      "boardapprovaldate": "2024-09-10T00:00:00Z",
+      "closingdate": "8/31/2029 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P178774",
+      "proj_and_ln_country": [
+        "CF"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "9"
+        }
+      ],
+      "country_namecode": "70000000!$!CF",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "70,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "70,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P181050": {
+      "curr_total_commitment": "275",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "275",
+      "id": "P181050",
+      "regionname": "Eastern and Southern Africa",
+      "countryname": [
+        "Republic of Rwanda"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Program-for-Results Financing",
+      "lendinginstrtype": "PR",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Priority Skills for Growth and Youth Empowerment",
+      "board_approval_month": "September",
+      "totalamt": "275,000,000",
+      "countrycode": [
+        "RW"
+      ],
+      "countryshortname": "Rwanda",
+      "p2a_updated_date": "2024-09-12 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "275,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "11",
+      "teamleadname": "Ruth Karimi Charo,Neelam Ejaz",
+      "boardapprovaldate": "2024-09-09T00:00:00Z",
+      "closingdate": "6/30/2029 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181050",
+      "proj_and_ln_country": [
+        "RW"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "11"
+        }
+      ],
+      "country_namecode": "1662000000!$!RW",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "275,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "275,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P504278": {
+      "curr_total_commitment": "40",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "40",
+      "id": "P504278",
+      "regionname": "Europe and Central Asia",
+      "countryname": [
+        "Republic of Moldova"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "projectstatusdisplay": "Active",
+      "project_name": "Strengthening Moldova's Disaster Risk Management and Resilience Project",
+      "board_approval_month": "September",
+      "totalamt": "40,000,000",
+      "countrycode": [
+        "MD"
+      ],
+      "countryshortname": "Moldova",
+      "p2a_updated_date": "2024-09-10 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "40,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "7",
+      "teamleadname": "Axel E. N. Baeumler,Guillermo A. Siercke",
+      "boardapprovaldate": "2024-09-05T00:00:00Z",
+      "closingdate": "9/30/2029 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P504278",
+      "proj_and_ln_country": [
+        "MD"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "7"
+        }
+      ],
+      "country_namecode": "0!$!MD",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "40,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "40,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P181549": {
+      "curr_total_commitment": "70",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "70",
+      "id": "P181549",
+      "regionname": "Eastern and Southern Africa",
+      "countryname": [
+        "Republic of South Sudan"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "Y",
+      "projectstatusdisplay": "Active",
+      "project_name": "Productive Safety Net for Socioeconomic Opportunities Project Additional Financing",
+      "board_approval_month": "September",
+      "totalamt": "70,000,000",
+      "borrower": "Republic of South Sudan",
+      "impagency": "Ministry of Gender, Child and Social Welfare, Ministry of Agriculture and Food Security",
+      "countrycode": [
+        "SS"
+      ],
+      "countryshortname": "South Sudan",
+      "p2a_updated_date": "2024-09-06 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "70,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "4",
+      "teamleadname": "Makda Getachew Abebe,Andrea Vermehren,Erina Iwami",
+      "boardapprovaldate": "2024-09-03T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181549",
+      "proj_and_ln_country": [
+        "SS"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "4"
+        }
+      ],
+      "country_namecode": "70000000!$!SS",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "70,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "55,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P500500": {
+      "curr_total_commitment": "0",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "0",
+      "id": "P500500",
+      "regionname": "Eastern and Southern Africa",
+      "countryname": [
+        "Republic of South Sudan"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "projectstatusdisplay": "Active",
+      "project_name": "Building Institutional Foundations for an Effective Public Service Project",
+      "board_approval_month": "September",
+      "totalamt": "0",
+      "countrycode": [
+        "SS"
+      ],
+      "countryshortname": "South Sudan",
+      "p2a_updated_date": "2024-09-06 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "0",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "5",
+      "teamleadname": "David Santos Ruano,Lucy Anyango Musira",
+      "boardapprovaldate": "2024-09-03T00:00:00Z",
+      "closingdate": "6/30/2027 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P500500",
+      "proj_and_ln_country": [
+        "SS"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "5"
+        }
+      ],
+      "country_namecode": "0!$!SS",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "0",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P504171": {
+      "curr_total_commitment": "22",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "22",
+      "id": "P504171",
+      "regionname": "Europe and Central Asia",
+      "countryname": [
+        "Ukraine"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Program-for-Results Financing",
+      "lendinginstrtype": "PR",
+      "projectstatusdisplay": "Active",
+      "project_name": "Lifting Education Access and Resilience in times of Need in Ukraine Program",
+      "board_approval_month": "August",
+      "totalamt": "22,000,000",
+      "countrycode": [
+        "UA"
+      ],
+      "countryshortname": "Ukraine",
+      "p2a_updated_date": "2024-09-02 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "22,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "4",
+      "teamleadname": "Enrique O. Alasino Massetti",
+      "boardapprovaldate": "2024-08-30T00:00:00Z",
+      "closingdate": "9/1/2027 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P504171",
+      "proj_and_ln_country": [
+        "UA"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "4"
+        }
+      ],
+      "country_namecode": "0!$!UA",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "22,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "22,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P502591": {
+      "curr_total_commitment": "120",
+      "curr_ibrd_commitment": "80",
+      "curr_ida_commitment": "40",
+      "id": "P502591",
+      "regionname": "East Asia and Pacific",
+      "countryname": [
+        "Pacific Islands"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "projectstatusdisplay": "Active",
+      "project_name": "Pacific Strengthening Correspondent Banking Relationships Project",
+      "board_approval_month": "August",
+      "totalamt": "120,000,000",
+      "countrycode": [
+        "4P"
+      ],
+      "countryshortname": "Pacific Islands",
+      "p2a_updated_date": "2024-09-02 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "120,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "7",
+      "teamleadname": "Julian Casal,Katia D'Hulster,Uzma Khalil",
+      "boardapprovaldate": "2024-08-29T00:00:00Z",
+      "closingdate": "9/30/2030 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P502591",
+      "proj_and_ln_country": [
+        "4P"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "7"
+        }
+      ],
+      "country_namecode": "0!$!4P",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "40,000,000",
+      "ibrdcommamt": "80,000,000",
+      "lendprojectcost": "120,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P181501": {
+      "curr_total_commitment": "110",
+      "curr_ibrd_commitment": "110",
+      "curr_ida_commitment": "0",
+      "id": "P181501",
+      "regionname": "Latin America and Caribbean",
+      "countryname": [
+        "Federative Republic of Brazil"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Development Policy Lending",
+      "lendinginstrtype": "AD",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "BR Enhancing Prosperity and Sustainability in the State of Sergipe Development Policy Financing",
+      "board_approval_month": "August",
+      "totalamt": "110,000,000",
+      "borrower": "State of Sergipe",
+      "impagency": "State Secretariate of Finance",
+      "countrycode": [
+        "BR"
+      ],
+      "countryshortname": "Brazil",
+      "p2a_updated_date": "2024-08-30 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "110,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "10",
+      "teamleadname": "Cornelius Fleischhaker,Luigi Butron Calderon",
+      "boardapprovaldate": "2024-08-27T00:00:00Z",
+      "closingdate": "12/31/2026 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181501",
+      "proj_and_ln_country": [
+        "BR"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "10"
+        }
+      ],
+      "country_namecode": "0!$!BR",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "110,000,000",
+      "lendprojectcost": "110,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P500390": {
+      "curr_total_commitment": "0",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "0",
+      "id": "P500390",
+      "regionname": "Middle East and North Africa",
+      "countryname": [
+        "Lebanese Republic"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "projectstatusdisplay": "Active",
+      "project_name": "CWRM in Lebanon",
+      "board_approval_month": "August",
+      "totalamt": "0",
+      "countrycode": [
+        "LB"
+      ],
+      "countryshortname": "Lebanon",
+      "p2a_updated_date": "2024-08-30 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "0",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "5",
+      "teamleadname": "Andrea Kutter",
+      "boardapprovaldate": "2024-08-27T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P500390",
+      "proj_and_ln_country": [
+        "LB"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "5"
+        }
+      ],
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "0",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P506127": {
+      "curr_total_commitment": "5.6",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "5.6",
+      "id": "P506127",
+      "regionname": "Middle East and North Africa",
+      "countryname": [
+        "Lebanese Republic"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "projectstatusdisplay": "Active",
+      "project_name": "Support for Social Recovery Needs of Vulnerable Groups Phase II",
+      "board_approval_month": "August",
+      "totalamt": "5,600,000",
+      "countrycode": [
+        "LB"
+      ],
+      "countryshortname": "Lebanon",
+      "p2a_updated_date": "2024-08-30 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "5,600,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "11",
+      "teamleadname": "Marcelo Jorge Fabre,Jeremy Mark Tomlinson",
+      "boardapprovaldate": "2024-08-27T00:00:00Z",
+      "closingdate": "6/30/2026 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P506127",
+      "proj_and_ln_country": [
+        "LB"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "11"
+        }
+      ],
+      "country_namecode": "0!$!LB",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "5,600,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "5,600,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P179703": {
+      "curr_total_commitment": "65",
+      "curr_ibrd_commitment": "65",
+      "curr_ida_commitment": "0",
+      "id": "P179703",
+      "regionname": "Europe and Central Asia",
+      "countryname": [
+        "Republic of Serbia"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Serbia Railway Sector Modernization Phase 2",
+      "board_approval_month": "August",
+      "totalamt": "65,000,000",
+      "borrower": "Republic of Serbia",
+      "impagency": "Serbia Voz, Serbia Railways Infrastructure, Ministry of Construction, Transport and Infrastructure, Railways Directorate, Serbia Cargo",
+      "countrycode": [
+        "YF"
+      ],
+      "countryshortname": "Serbia",
+      "p2a_updated_date": "2024-08-14 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "65,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "2",
+      "teamleadname": "Daniel Pulido",
+      "boardapprovaldate": "2024-08-13T00:00:00Z",
+      "closingdate": "6/30/2029 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P179703",
+      "proj_and_ln_country": [
+        "YF"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "2"
+        }
+      ],
+      "country_namecode": "130000000!$!YF",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "65,000,000",
+      "lendprojectcost": "100,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P179923": {
+      "curr_total_commitment": "55",
+      "curr_ibrd_commitment": "55",
+      "curr_ida_commitment": "0",
+      "id": "P179923",
+      "regionname": "Latin America and Caribbean",
+      "countryname": [
+        "Republic of Peru"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Improving MIDIS\u2019s Information Services within the National Targeting System (SINAFO) at the National Level Project",
+      "board_approval_month": "August",
+      "totalamt": "55,000,000",
+      "borrower": "Ministerio de Economia y Finanzas (Ministry of Economy and Finance, MEF)",
+      "impagency": "Direccion General de Focalizacion (General Targeting Directorate, DGFIS) - MIDIS",
+      "countrycode": [
+        "PE"
+      ],
+      "countryshortname": "Peru",
+      "p2a_updated_date": "2024-08-12 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "55,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "10",
+      "teamleadname": "Ursula Milagros Martinez Angulo,Sara Francesca Giannozzi",
+      "boardapprovaldate": "2024-08-09T00:00:00Z",
+      "closingdate": "12/31/2029 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P179923",
+      "proj_and_ln_country": [
+        "PE"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "10"
+        }
+      ],
+      "country_namecode": "50000000!$!PE",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "55,000,000",
+      "lendprojectcost": "50,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P180554": {
+      "curr_total_commitment": "500",
+      "curr_ibrd_commitment": "500",
+      "curr_ida_commitment": "0",
+      "id": "P180554",
+      "regionname": "Latin America and Caribbean",
+      "countryname": [
+        "Republic of Peru"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Development Policy Lending",
+      "lendinginstrtype": "AD",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "Peru First Fiscal Policy and Sustainable Growth DPF-DDO",
+      "board_approval_month": "August",
+      "totalamt": "500,000,000",
+      "countrycode": [
+        "PE"
+      ],
+      "countryshortname": "Peru",
+      "p2a_updated_date": "2024-08-12 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "500,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "10",
+      "teamleadname": "Bledi Celiku,Thomas Edward Haven",
+      "boardapprovaldate": "2024-08-09T00:00:00Z",
+      "closingdate": "11/1/2027 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180554",
+      "proj_and_ln_country": [
+        "PE"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "10"
+        }
+      ],
+      "country_namecode": "0!$!PE",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "0",
+      "ibrdcommamt": "500,000,000",
+      "lendprojectcost": "500,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P181702": {
+      "curr_total_commitment": "155",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "155",
+      "id": "P181702",
+      "regionname": "Western and Central Africa",
+      "countryname": [
+        "Republic of Ghana"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "Y",
+      "projectstatusdisplay": "Active",
+      "project_name": "Second Additional Financing to GAMA Sanitation and Water Project",
+      "board_approval_month": "August",
+      "totalamt": "155,000,000",
+      "borrower": "Republic of Ghana",
+      "impagency": "GWCL /PIU, Ministry of Sanitation and Water Resources",
+      "countrycode": [
+        "GH"
+      ],
+      "countryshortname": "Ghana",
+      "p2a_updated_date": "2024-08-21 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "155,000,000",
+      "approvalfy": "2025",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "10",
+      "teamleadname": "Harold Esseku,Yitbarek Tessema Mammo",
+      "boardapprovaldate": "2024-08-08T00:00:00Z",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P181702",
+      "proj_and_ln_country": [
+        "GH"
+      ],
+      "ln_country_id": [
+        "GH"
+      ],
+      "ln_country_id_desc": [
+        "Ghana"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "10"
+        }
+      ],
+      "country_namecode": "30000000!$!GH",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "155,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "155,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    },
+    "P180909": {
+      "curr_total_commitment": "25",
+      "curr_ibrd_commitment": "0",
+      "curr_ida_commitment": "25",
+      "id": "P180909",
+      "regionname": "Europe and Central Asia",
+      "countryname": [
+        "Kyrgyz Republic"
+      ],
+      "prodline": "PE",
+      "lendinginstr": "Investment Project Financing",
+      "lendinginstrtype": "IN",
+      "supplementprojectflg": "N",
+      "projectstatusdisplay": "Active",
+      "project_name": "National Community Initiatives Project",
+      "board_approval_month": "July",
+      "totalamt": "25,000,000",
+      "countrycode": [
+        "KG"
+      ],
+      "countryshortname": "Kyrgyz Republic",
+      "p2a_updated_date": "2024-08-02 00:00:00.0",
+      "sector1": {
+        "Name": "",
+        "Percent": 0
+      },
+      "theme1": "!$!0",
+      "totalcommamt": "25,000,000",
+      "approvalfy": "2024",
+      "source": [
+        "IBRD"
+      ],
+      "mjthemecode": "11",
+      "teamleadname": "Christopher Martin Finch,Damira Temirbaeva,Luiza A. Nora",
+      "boardapprovaldate": "2024-07-31T00:00:00Z",
+      "closingdate": "7/31/2029 12:00:00 AM",
+      "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P180909",
+      "proj_and_ln_country": [
+        "KG"
+      ],
+      "mjtheme_namecode": [
+        {
+          "name": "",
+          "code": "11"
+        }
+      ],
+      "country_namecode": "25000000!$!KG",
+      "p2a_flag": "Y",
+      "prodlinetext": "IBRD/IDA",
+      "idacommamt": "25,000,000",
+      "ibrdcommamt": "0",
+      "lendprojectcost": "25,000,000",
+      "status": "Active",
+      "productlinetype": "L",
+      "projectdocs": []
+    }
+  },
+  "facets": {}
+}
